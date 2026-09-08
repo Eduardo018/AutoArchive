@@ -1741,14 +1741,19 @@
       "program": null,
       "production_type": "Série",
       "highlights": [],
-      "cover_photo": "photos/963df9ebe78f44e6af9d6ca54a91713e.webp",
-      "cover_focal_x": 47.1,
-      "cover_focal_y": 38.3,
+      "cover_photo": "photos/8e0795d885174307a0247dc325e3d349.webp",
+      "cover_focal_x": 52.5,
+      "cover_focal_y": 51.0,
       "photos": [
         {
           "url": "photos/963df9ebe78f44e6af9d6ca54a91713e.webp",
           "focal_x": 47.1,
           "focal_y": 38.3
+        },
+        {
+          "url": "photos/8e0795d885174307a0247dc325e3d349.webp",
+          "focal_x": 52.5,
+          "focal_y": 51.0
         }
       ]
     },
@@ -10118,14 +10123,39 @@
       "program": "Atelier",
       "production_type": "Edição limitada",
       "highlights": [],
-      "cover_photo": "photos/fb601398ffbd4d61845c89da924033f5.jpeg",
-      "cover_focal_x": 50.0,
-      "cover_focal_y": 54.3,
+      "cover_photo": "photos/032b29512f404710a77fe3ac47efd7d7.webp",
+      "cover_focal_x": 51.6,
+      "cover_focal_y": 44.4,
       "photos": [
         {
           "url": "photos/fb601398ffbd4d61845c89da924033f5.jpeg",
           "focal_x": 50.0,
           "focal_y": 54.3
+        },
+        {
+          "url": "photos/032b29512f404710a77fe3ac47efd7d7.webp",
+          "focal_x": 51.6,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/f18392a0aca54076a03f44c5e4840d99.webp",
+          "focal_x": 52.6,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/3d0a6f0ef30e46048434899378f1b6dd.webp",
+          "focal_x": 48.4,
+          "focal_y": 40.4
+        },
+        {
+          "url": "photos/9db633b2570f4b6692817933168af699.webp",
+          "focal_x": 51.8,
+          "focal_y": 42.6
+        },
+        {
+          "url": "photos/a213d404d3f44bef9fe9fc4bddb3151f.webp",
+          "focal_x": 46.8,
+          "focal_y": 41.7
         }
       ]
     },
@@ -10142,14 +10172,54 @@
       "program": null,
       "production_type": null,
       "highlights": [],
-      "cover_photo": "photos/c9938577aa2d4dea89ac8b058a05c570.jpeg",
-      "cover_focal_x": 47.9,
-      "cover_focal_y": 57.8,
+      "cover_photo": "photos/f8ea448df9c841fc8f665c03c1fcce67.webp",
+      "cover_focal_x": 48.2,
+      "cover_focal_y": 41.2,
       "photos": [
         {
           "url": "photos/c9938577aa2d4dea89ac8b058a05c570.jpeg",
           "focal_x": 47.9,
           "focal_y": 57.8
+        },
+        {
+          "url": "photos/00c9268f54eb4b1d9ce36c407d9a0ac8.webp",
+          "focal_x": 50.0,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/3b2ab1e1428e433488773fd643855394.webp",
+          "focal_x": 51.8,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/f96f08c27f484eec945b077bbfca4103.webp",
+          "focal_x": 51.0,
+          "focal_y": 43.5
+        },
+        {
+          "url": "photos/f8ea448df9c841fc8f665c03c1fcce67.webp",
+          "focal_x": 48.2,
+          "focal_y": 41.2
+        },
+        {
+          "url": "photos/4068469cf4294b86980e147846f65181.webp",
+          "focal_x": 55.9,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/7b0acd4fa0534faa97d44d357d5ba864.webp",
+          "focal_x": 49.2,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/d7a183e7e7b447b9ab27afb8c7475787.webp",
+          "focal_x": 50.3,
+          "focal_y": 52.1
+        },
+        {
+          "url": "photos/2ede433fa1f0410c8bc27a092442273d.webp",
+          "focal_x": 45.4,
+          "focal_y": 48.1
         }
       ]
     },
