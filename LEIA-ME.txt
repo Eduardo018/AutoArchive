@@ -1,0 +1,39 @@
+AutoArchive — Site estático exportado
+========================================
+
+Este .zip contém um site pronto, 100% estático (sem servidor, sem banco de
+dados) com a sua coleção — feito para publicar no GitHub Pages como uma
+vitrine somente leitura para quem você quiser mostrar.
+
+As fotos já vêm redimensionadas e comprimidas especialmente para esse site
+(bem mais leves que as fotos "cheias" guardadas no app — isso não afeta as
+fotos originais, só a cópia usada aqui).
+
+O que NÃO está incluído (de propósito): VIN, placas, modificações,
+histórico de acidentes, observações, preços/anúncios de mercado.
+
+Como publicar (só na primeira vez):
+
+1. Crie um repositório novo no GitHub (pode ser público), por exemplo
+   "minha-garagem".
+2. Extraia todo o conteúdo deste .zip dentro da pasta do repositório
+   (os arquivos index.html, style.css, app.js, data.json e as pastas
+   photos/ e logos/ devem ficar na raiz do repositório).
+3. Suba os arquivos usando o git por linha de comando (ou o GitHub Desktop)
+   — NÃO arraste o .zip nem as fotos direto pela página "Add file > Upload
+   files" do GitHub, porque essa função da interface web tem um limite de
+   25MB por arquivo e não é feita para publicar sites:
+     git add .
+     git commit -m "Publica a coleção"
+     git push
+4. No GitHub, vá em Settings > Pages, e em "Source" escolha a branch
+   "main" (ou "master") e a pasta "/ (root)". Salve.
+5. Em alguns minutos o GitHub mostra o link do site (algo como
+   https://seu-usuario.github.io/minha-garagem/).
+
+Para atualizar depois: gere um novo .zip no AutoArchive (Catálogos >
+Exportar site), extraia por cima dos arquivos antigos no mesmo
+repositório, e rode de novo:
+     git add .
+     git commit -m "Atualiza a coleção"
+     git push

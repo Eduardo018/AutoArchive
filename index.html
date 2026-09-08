@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title id="page-title">Coleção</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="brand">
+        <span class="shield">C</span>
+        <span id="site-title">Coleção</span>
+      </div>
+      <p id="site-subtitle" class="subtitle"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="stats-row" class="stats-row"></div>
+    <div id="gallery" class="gallery"></div>
+    <div id="empty" class="empty" hidden>Nenhum veículo publicado ainda.</div>
+  </main>
+
+  <footer class="footer">
+    <p>Gerado automaticamente pelo AutoArchive · Vitrine somente leitura</p>
+  </footer>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-card">
+      <button class="modal-close" id="modal-close" aria-label="Fechar">×</button>
+      <div class="modal-photo-wrap">
+        <img id="modal-photo" class="modal-photo" alt="">
+        <div id="modal-thumbs" class="modal-thumbs"></div>
+      </div>
+      <div class="modal-body">
+        <div id="modal-manufacturer" class="modal-manufacturer"></div>
+        <h2 id="modal-title" class="modal-title"></h2>
+        <div id="modal-tags" class="tags"></div>
+        <div id="modal-specs" class="specs"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
