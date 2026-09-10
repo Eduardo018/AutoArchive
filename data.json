@@ -3,6 +3,456 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2020,
+      "colors": [
+        "China Blue"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "15",
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "O carro recebeu o kit Novitec N-Largo.\r\nEscapamento Novitec.\r\nRepintado na cor China Blue.",
+      "accident_history": "O carro teve o para-brisa e espelho do retrovisor quebrados.",
+      "notes": "Originalmente, o carro era configurado na cor Papaya Spark, mas, quando recebeu o body kit, foi repintado de British Racing Green. Logo depois, foi novamente repintado, desta vez na cor China Blue.\r\nÚnica Unidade do país a receber esse body kit.",
+      "highlights": [],
+      "cover_photo": "photos/b8a33fc71cb8404daa68a47d5168b84d.webp",
+      "cover_focal_x": 51.0,
+      "cover_focal_y": 45.2,
+      "photos": [
+        {
+          "url": "photos/b8a33fc71cb8404daa68a47d5168b84d.webp",
+          "focal_x": 51.0,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/32ea18c86de748199f858bb88f737335.webp",
+          "focal_x": 52.8,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/bb2bcc526faa4a0cb08a56417bab0479.webp",
+          "focal_x": 50.6,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/efd8be7ca2594681b52d5bacc90d3576.webp",
+          "focal_x": 50.4,
+          "focal_y": 53.3
+        },
+        {
+          "url": "photos/c7ad415bed6349cbbd056f5abd793149.webp",
+          "focal_x": 45.4,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/0a9940d852504fba91cf8052eaa3727c.webp",
+          "focal_x": 51.2,
+          "focal_y": 45.6
+        },
+        {
+          "url": "photos/0e034bc012fc4694b90002118740f56a.webp",
+          "focal_x": 54.4,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/b7b89de29fb34cf7ab2196f8ba846c30.webp",
+          "focal_x": 46.3,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/507f24a5884b4346b09f64077b434f5c.webp",
+          "focal_x": 47.6,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/c90b58051a28450eb449c1fa694aab6e.webp",
+          "focal_x": 50.2,
+          "focal_y": 43.8
+        },
+        {
+          "url": "photos/83189f293d2f41d8a40dcefb557022d5.webp",
+          "focal_x": 47.6,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/e3940dff404641e4bf2a07f3b2bd5d93.webp",
+          "focal_x": 45.3,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/8aff85f4e0604a42b8a14ebf62d78ef2.webp",
+          "focal_x": 44.1,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/8447d163b5c84a76aea593c4e0d1f501.webp",
+          "focal_x": 46.1,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/8ebef4f77d514351bd4cf7c3fa34e065.webp",
+          "focal_x": 48.5,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/958bc655c53b415183a13964ca9a9261.webp",
+          "focal_x": 48.3,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/1c111a7cade4444888cf32f11b7d5d61.webp",
+          "focal_x": 48.1,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/1a578fc779b04573824d8e74069b5527.webp",
+          "focal_x": 51.9,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/53ac8c379f5442c38d6e7c81b7e01788.webp",
+          "focal_x": 47.5,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/e1eea3240e15478db97e51933325c604.webp",
+          "focal_x": 52.1,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/2a2c38d649274749899e2f77f176ad71.webp",
+          "focal_x": 48.1,
+          "focal_y": 55.4
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2021,
+      "colors": [
+        "Volcano Yellow"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/5b045eda4b6a430197ac51723863f892.webp",
+      "cover_focal_x": 52.0,
+      "cover_focal_y": 43.6,
+      "photos": [
+        {
+          "url": "photos/5b045eda4b6a430197ac51723863f892.webp",
+          "focal_x": 52.0,
+          "focal_y": 43.6
+        },
+        {
+          "url": "photos/e26471be6540426c856133b3b57fd2e0.webp",
+          "focal_x": 48.1,
+          "focal_y": 44.0
+        },
+        {
+          "url": "photos/c51aad16dee5469ca3be4f1e12d0c517.webp",
+          "focal_x": 50.7,
+          "focal_y": 44.7
+        },
+        {
+          "url": "photos/2fbaec41c3764151a73c0398af7d8acf.webp",
+          "focal_x": 46.8,
+          "focal_y": 43.9
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2018,
+      "colors": [
+        "Silica White"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/168c4f1ddb6a47d885f679d5d0ea786e.webp",
+      "cover_focal_x": 48.5,
+      "cover_focal_y": 45.9,
+      "photos": [
+        {
+          "url": "photos/168c4f1ddb6a47d885f679d5d0ea786e.webp",
+          "focal_x": 48.5,
+          "focal_y": 45.9
+        },
+        {
+          "url": "photos/c5c1ca7021e941b386d986636806812a.webp",
+          "focal_x": 46.5,
+          "focal_y": 50.0
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2019,
+      "colors": [
+        "Supernova Silver"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/7502c3a76197465a922dc9ab1ae5e027.webp",
+      "cover_focal_x": 49.5,
+      "cover_focal_y": 53.4,
+      "photos": [
+        {
+          "url": "photos/a075e65bbb3d41948b311e654a81f272.webp",
+          "focal_x": 49.8,
+          "focal_y": 50.8
+        },
+        {
+          "url": "photos/7502c3a76197465a922dc9ab1ae5e027.webp",
+          "focal_x": 49.5,
+          "focal_y": 53.4
+        },
+        {
+          "url": "photos/075ba5ad449e4b6aa8439d603a2cfb6f.webp",
+          "focal_x": 49.4,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/4d1c2a4cd3f44842b2ca0a4ca62ac41d.webp",
+          "focal_x": 51.3,
+          "focal_y": 50.3
+        },
+        {
+          "url": "photos/bc7bc352fe7742e99876d8a9ed4c728e.webp",
+          "focal_x": 47.1,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/5c0f63767eae4460a7ea759fa6425d78.webp",
+          "focal_x": 51.9,
+          "focal_y": 46.7
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2019,
+      "colors": [
+        "Belize Blue"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/d9b70f837e24453a94632d52aed955c0.webp",
+      "cover_focal_x": 51.3,
+      "cover_focal_y": 45.8,
+      "photos": [
+        {
+          "url": "photos/d9b70f837e24453a94632d52aed955c0.webp",
+          "focal_x": 51.3,
+          "focal_y": 45.8
+        },
+        {
+          "url": "photos/bce170a3c7ad48feb920616aa42089a6.webp",
+          "focal_x": 56.0,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/28d6da39aca447678f5d1c1256104060.webp",
+          "focal_x": 49.1,
+          "focal_y": 42.6
+        },
+        {
+          "url": "photos/3272d5481f62453a8121d5ca416e1dfc.webp",
+          "focal_x": 54.4,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/fb56cf65ffe343ef85d9006faffe43f8.webp",
+          "focal_x": 51.6,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/89f07029b5294236ae5ec77ad13ede9e.webp",
+          "focal_x": 47.2,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/c1bcb704a4904fc19cc5e203d88a487c.webp",
+          "focal_x": 50.4,
+          "focal_y": 46.0
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2020,
+      "colors": [
+        "Aurora Blue"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "Body Kit em fibra de carbono.",
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/981855bd74cb4f4191b74f76d55eb7c4.webp",
+      "cover_focal_x": 49.2,
+      "cover_focal_y": 42.9,
+      "photos": [
+        {
+          "url": "photos/981855bd74cb4f4191b74f76d55eb7c4.webp",
+          "focal_x": 49.2,
+          "focal_y": 42.9
+        },
+        {
+          "url": "photos/160a1aec0aa146e181d076560fff4e1b.webp",
+          "focal_x": 51.1,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/88c901a17af94b5bbb7527e9197bd642.webp",
+          "focal_x": 46.0,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/34c1a75103664886aab5433183e4c7ed.webp",
+          "focal_x": 48.0,
+          "focal_y": 53.1
+        }
+      ]
+    },
+    {
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S Spider",
+      "model_year": 2021,
+      "colors": [
+        "Paris Blue"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/84d1c4baccd048cbb8ce31f9a7ff404a.webp",
+      "cover_focal_x": 46.4,
+      "cover_focal_y": 49.7,
+      "photos": [
+        {
+          "url": "photos/84d1c4baccd048cbb8ce31f9a7ff404a.webp",
+          "focal_x": 46.4,
+          "focal_y": 49.7
+        },
+        {
+          "url": "photos/2a349cf9b0cf4938a3d7ea39c5cca8a3.webp",
+          "focal_x": 51.1,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/0aa7c0ac5afe4e84a2208feb43e62ed8.webp",
+          "focal_x": 50.0,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/3c344414cdc44b50a54c4fc8b00f2478.webp",
+          "focal_x": 54.8,
+          "focal_y": 50.5
+        }
+      ]
+    },
+    {
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "M4 Competition (G82)",
