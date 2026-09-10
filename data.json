@@ -3,6 +3,498 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "M4 Competition (G82)",
+      "model_year": 2022,
+      "colors": [
+        "Ipanema Blue Metallic"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "Repintado de Ipanema Blue Metallic.\r\nEscapamento Full inox valvulado.\r\nM4 SINGLE TURBO 1000Hp",
+      "accident_history": null,
+      "notes": "Originalmente o carro era pintado de Sapphire Black Metallic.",
+      "highlights": [
+        "one_off"
+      ],
+      "cover_photo": "photos/6e252488963f437686312699eee523a4.webp",
+      "cover_focal_x": 50.0,
+      "cover_focal_y": 49.4,
+      "photos": [
+        {
+          "url": "photos/6e252488963f437686312699eee523a4.webp",
+          "focal_x": 50.0,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/49cfa37393204baf890cf7f42878fcf6.webp",
+          "focal_x": 45.5,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/e13a3f5f52fb4b4285edd1561ca805c8.webp",
+          "focal_x": 48.3,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/05ee4b70f68c43d1b9c95b665ef192cb.webp",
+          "focal_x": 44.6,
+          "focal_y": 51.8
+        },
+        {
+          "url": "photos/0c138535eab6476aae2e524a00540068.webp",
+          "focal_x": 51.9,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/f7c9b06d06584b54bb7a2c431ae38089.webp",
+          "focal_x": 49.4,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/28df7fb7e5644638ac4857c49c271145.webp",
+          "focal_x": 51.2,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/3503b82d23d14303b6bc57561d787a53.webp",
+          "focal_x": 52.0,
+          "focal_y": 52.1
+        },
+        {
+          "url": "photos/70c072e8d0244c64afb6f27c8d434651.webp",
+          "focal_x": 50.1,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/5dff0aab93b84422b5f4455393c8b657.webp",
+          "focal_x": 48.8,
+          "focal_y": 55.7
+        },
+        {
+          "url": "photos/98e6325422b04c4eabcf5d129069191a.webp",
+          "focal_x": 48.4,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/f7574687ee0f45a5890115302567347d.webp",
+          "focal_x": 47.8,
+          "focal_y": 53.0
+        },
+        {
+          "url": "photos/983df27e8c9e44778bdf1f7ec686be38.webp",
+          "focal_x": 51.9,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/82d7ab16668f4dc3b712e4e01cb27a58.webp",
+          "focal_x": 48.8,
+          "focal_y": 52.5
+        },
+        {
+          "url": "photos/e5c50bea798b4e538ed3bd883c58487b.webp",
+          "focal_x": 51.2,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/fd1a1289ce0b4a32a3274a9d118b9468.webp",
+          "focal_x": 50.2,
+          "focal_y": 57.2
+        },
+        {
+          "url": "photos/df090f2fae4c4d36bef2a434753023c8.webp",
+          "focal_x": 46.6,
+          "focal_y": 58.5
+        },
+        {
+          "url": "photos/d1632c8bd8f04636aeb50bff18dc2532.webp",
+          "focal_x": 52.0,
+          "focal_y": 45.8
+        },
+        {
+          "url": "photos/f577558612fc460fbdffd6c30c563891.webp",
+          "focal_x": 47.2,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/85d1fddf24224edf90cc9e885e613e6e.webp",
+          "focal_x": 50.2,
+          "focal_y": 54.6
+        },
+        {
+          "url": "photos/ca73063f90794c558377b59860c662ed.webp",
+          "focal_x": 49.9,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/40db79d17f384ccbb34c160f0dae890e.webp",
+          "focal_x": 51.9,
+          "focal_y": 55.7
+        },
+        {
+          "url": "photos/66444c288f784c99aa7093b90b8f38ea.webp",
+          "focal_x": 51.6,
+          "focal_y": 52.5
+        },
+        {
+          "url": "photos/053c77fbfeaf4fa29a69811c23e905ed.webp",
+          "focal_x": 48.7,
+          "focal_y": 52.4
+        },
+        {
+          "url": "photos/87ce739900ae4dd891846f423bfa9eac.webp",
+          "focal_x": 52.8,
+          "focal_y": 55.0
+        },
+        {
+          "url": "photos/b3c60673923d4443baf231e1d783b139.webp",
+          "focal_x": 51.7,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/1ff7f6cd1c114426bb42f8b3194149e8.webp",
+          "focal_x": 49.6,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/3a48f73e090d49ae8750020c1eead6e0.webp",
+          "focal_x": 56.4,
+          "focal_y": 42.7
+        },
+        {
+          "url": "photos/8e3ba5189b044e9aaccecfb0d4ee215a.webp",
+          "focal_x": 50.9,
+          "focal_y": 48.1
+        },
+        {
+          "url": "photos/0f9792e2c696470abf4490ad12509789.webp",
+          "focal_x": 44.5,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/5cf0e0f659a74eefb6393dcccbd75514.webp",
+          "focal_x": 49.4,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/50075181ad6e495eab0e0e536fcb7d45.webp",
+          "focal_x": 50.3,
+          "focal_y": 52.8
+        },
+        {
+          "url": "photos/17833ccaafa2470d8fc0f2d09c935ea8.webp",
+          "focal_x": 54.9,
+          "focal_y": 55.8
+        },
+        {
+          "url": "photos/77e2e90f898c4f7bb154559b50d961f8.webp",
+          "focal_x": 50.3,
+          "focal_y": 53.1
+        },
+        {
+          "url": "photos/3213ccf5b72a40a5b1ed4a19fa7f3d75.webp",
+          "focal_x": 49.2,
+          "focal_y": 54.2
+        },
+        {
+          "url": "photos/84cd7a91007c439f9c5781990f904c67.webp",
+          "focal_x": 49.7,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/1d1e613d0c374662a7ba52f1e21ef843.webp",
+          "focal_x": 51.9,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/4f7beaec6e654f8caae2933b5a8b1643.webp",
+          "focal_x": 49.2,
+          "focal_y": 52.8
+        },
+        {
+          "url": "photos/42366b3b77814197816f90cdf96f1a3e.webp",
+          "focal_x": 46.3,
+          "focal_y": 49.7
+        },
+        {
+          "url": "photos/d604462b24764e3b83409f03ecf0b4d1.webp",
+          "focal_x": 57.7,
+          "focal_y": 53.6
+        }
+      ]
+    },
+    {
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "M4 CSL (G82)",
+      "model_year": 2023,
+      "colors": [
+        "Sapphire Black Metallic"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "1000",
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/94a26a84fc03421db2e20bd21515aaf5.webp",
+      "cover_focal_x": 53.6,
+      "cover_focal_y": 51.2,
+      "photos": [
+        {
+          "url": "photos/94a26a84fc03421db2e20bd21515aaf5.webp",
+          "focal_x": 53.6,
+          "focal_y": 51.2
+        },
+        {
+          "url": "photos/f8618557426f48d3b9702db5c68a9fc4.webp",
+          "focal_x": 51.0,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/3b1934e5e57d47a7bac6702db83139d8.webp",
+          "focal_x": 53.5,
+          "focal_y": 43.3
+        },
+        {
+          "url": "photos/0042d44ae2044e2bb8f152a1118eb3cd.webp",
+          "focal_x": 49.7,
+          "focal_y": 50.6
+        },
+        {
+          "url": "photos/5ab8a765c92b4905827470b0b79e7c86.webp",
+          "focal_x": 50.2,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/1534fd1144cd4c4c9a57f93fcef8cac2.webp",
+          "focal_x": 49.4,
+          "focal_y": 46.5
+        }
+      ]
+    },
+    {
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "M3 Touring (G81)",
+      "model_year": 2025,
+      "colors": [
+        "Sapphire Black Metallic"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/061c5754695a48609ef9db1295ae9da0.webp",
+      "cover_focal_x": 49.3,
+      "cover_focal_y": 44.8,
+      "photos": [
+        {
+          "url": "photos/061c5754695a48609ef9db1295ae9da0.webp",
+          "focal_x": 49.3,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/8ee6a28e08e74944ac7f0ce626f3e197.webp",
+          "focal_x": 48.4,
+          "focal_y": 44.3
+        },
+        {
+          "url": "photos/8892b1b82128493db43a56cfef863ed1.webp",
+          "focal_x": 52.8,
+          "focal_y": 42.6
+        },
+        {
+          "url": "photos/a9cfd02897e54c989dfd8c4b5af380a0.webp",
+          "focal_x": 49.7,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/99acbd184dd640b9a9535895a2206340.webp",
+          "focal_x": 40.0,
+          "focal_y": 53.0
+        },
+        {
+          "url": "photos/da5e180d032744728096d5ce4a74ff81.webp",
+          "focal_x": 53.4,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/7bdcf56095b54dd7acb0b892012b38e5.webp",
+          "focal_x": 51.0,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/2bbf3a00bf0c49679fa33ec03c0eac2a.webp",
+          "focal_x": 47.6,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/879ddc8a3eaa4eedb14ab4a9fdb2c95e.webp",
+          "focal_x": 46.6,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/b2883e787c2244e9b27153fa4e875cd3.webp",
+          "focal_x": 46.4,
+          "focal_y": 59.8
+        }
+      ]
+    },
+    {
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "Alpina XB7 (G07)",
+      "model_year": 2024,
+      "colors": [
+        "Mineral White Metallic"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": null,
+      "market_spec": "US Spec",
+      "import_type": "Importação independente",
+      "origin_country": "Estados Unidos",
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/824e83bce3d64e15920e2a02f5d74f3d.webp",
+      "cover_focal_x": 49.7,
+      "cover_focal_y": 49.8,
+      "photos": [
+        {
+          "url": "photos/824e83bce3d64e15920e2a02f5d74f3d.webp",
+          "focal_x": 49.7,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/fc18e03ec81a48718287fc40b611275f.webp",
+          "focal_x": 47.5,
+          "focal_y": 50.9
+        },
+        {
+          "url": "photos/487806e982dc4ddc9f74f6b932502089.webp",
+          "focal_x": 52.6,
+          "focal_y": 53.8
+        }
+      ]
+    },
+    {
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "M4 GTS (F82)",
+      "model_year": 2017,
+      "colors": [
+        "Alpine White III"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "700",
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/75965c3370294dbb8f86fffb4abf9708.webp",
+      "cover_focal_x": 47.4,
+      "cover_focal_y": 48.2,
+      "photos": [
+        {
+          "url": "photos/75965c3370294dbb8f86fffb4abf9708.webp",
+          "focal_x": 47.4,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/352ed2b869594e7f9963d7774adfa3da.webp",
+          "focal_x": 50.3,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/f4701ee768814e5abbdf632d4e8115f4.webp",
+          "focal_x": 48.3,
+          "focal_y": 58.5
+        },
+        {
+          "url": "photos/0f40e0da980a47a181edadbc8f5a7817.webp",
+          "focal_x": 55.3,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/13f96dc79eb442789754d54862ef7891.webp",
+          "focal_x": 44.9,
+          "focal_y": 37.8
+        },
+        {
+          "url": "photos/3db0f08fd26741539f05863a165dbdb2.webp",
+          "focal_x": 56.1,
+          "focal_y": 54.2
+        },
+        {
+          "url": "photos/739e7ed3d6274d96a4cacdbc7b9447a9.webp",
+          "focal_x": 52.0,
+          "focal_y": 40.8
+        },
+        {
+          "url": "photos/78c2a6b7e1fe41ac99cca7e0d6687568.webp",
+          "focal_x": 51.3,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/9a8ccb96c9d14b779fffc6a4fe1e536e.webp",
+          "focal_x": 49.8,
+          "focal_y": 45.8
+        }
+      ]
+    },
+    {
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Revuelto LP1015-4",
@@ -11282,14 +11774,44 @@
       "highlights": [
         "numbered_edition"
       ],
-      "cover_photo": "photos/fa0d66c49db0407bb0c0561ad9dbcea4.jpg",
-      "cover_focal_x": 48.8,
-      "cover_focal_y": 48.9,
+      "cover_photo": "photos/c3f13c6c8b8c415396eda7f0935d48bc.webp",
+      "cover_focal_x": 53.2,
+      "cover_focal_y": 47.3,
       "photos": [
         {
           "url": "photos/fa0d66c49db0407bb0c0561ad9dbcea4.jpg",
           "focal_x": 48.8,
           "focal_y": 48.9
+        },
+        {
+          "url": "photos/c3f13c6c8b8c415396eda7f0935d48bc.webp",
+          "focal_x": 53.2,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/6bb19c19de324d6eb32abc8342883627.webp",
+          "focal_x": 61.3,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/076e49f8198848d69bcca266fe965d9d.webp",
+          "focal_x": 47.2,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/f041f77250ad4aa7a986b7416b130041.webp",
+          "focal_x": 48.9,
+          "focal_y": 46.4
+        },
+        {
+          "url": "photos/1a9f61775291408187ba5d5e8b9bddd2.webp",
+          "focal_x": 50.1,
+          "focal_y": 41.7
+        },
+        {
+          "url": "photos/20fd2bab5af24dcc80c6895b9987e86a.webp",
+          "focal_x": 52.0,
+          "focal_y": 49.8
         }
       ]
     },
