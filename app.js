@@ -8,6 +8,12 @@
     return e;
   }
 
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML.replace(/\n/g, "<br>");
+  }
+
   function renderStats(data) {
     const row = document.getElementById("stats-row");
     row.innerHTML = "";
@@ -118,15 +124,34 @@
     const rows = [
       ["Ano modelo", vehicle.model_year],
       ["Cores", (vehicle.colors || []).join(", ")],
+      ["Status", vehicle.status],
+      ["Volante", vehicle.steering],
       ["Transmissão", vehicle.transmission],
       ["Tração", vehicle.drivetrain],
       ["Programa", vehicle.program],
       ["Tipo de produção", vehicle.production_type],
+      ["Nº / Total produção", [vehicle.production_number, vehicle.production_total].filter(Boolean).join(" / ")],
+      ["Market spec", vehicle.market_spec],
+      ["Importação", vehicle.import_type],
+      ["Origem / Atual", [vehicle.origin_country, vehicle.current_country].filter(Boolean).join(" → ")],
     ];
     rows.forEach(([label, value]) => {
       if (!value) return;
       const row = el("div", "spec-row", `<span class="k">${label}</span><span class="v">${value}</span>`);
       specs.appendChild(row);
+    });
+
+    const notesWrap = document.getElementById("modal-notes");
+    notesWrap.innerHTML = "";
+    const noteBlocks = [
+      ["Modificações", vehicle.modifications],
+      ["Histórico de acidentes", vehicle.accident_history],
+      ["Observações", vehicle.notes],
+    ];
+    noteBlocks.forEach(([label, value]) => {
+      if (!value) return;
+      notesWrap.appendChild(el("h4", "note-title", label));
+      notesWrap.appendChild(el("p", "note-text", escapeHtml(value)));
     });
 
     modal.hidden = false;

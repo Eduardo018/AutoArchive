@@ -9,8 +9,11 @@ As fotos já vêm redimensionadas e comprimidas especialmente para esse site
 (bem mais leves que as fotos "cheias" guardadas no app — isso não afeta as
 fotos originais, só a cópia usada aqui).
 
-O que NÃO está incluído (de propósito): VIN, placas, modificações,
-histórico de acidentes, observações, preços/anúncios de mercado.
+O que NÃO está incluído (de propósito, por segurança): VIN e placas — são
+os dois dados que, combinados com fotos públicas, permitem identificar e
+"seguir" um carro específico no mundo real. Preços e anúncios de mercado
+também ficam de fora. Todo o resto (inclusive observações, modificações e
+histórico de acidentes) é incluído.
 
 Como publicar (só na primeira vez):
 

@@ -183,7 +183,18 @@ h1, h2, h3 { font-family: var(--font-display); text-transform: uppercase; letter
 .specs { margin-top: 1rem; }
 .spec-row { display: flex; justify-content: space-between; padding: 0.45rem 0; border-bottom: 1px solid var(--line); font-size: 0.88rem; }
 .spec-row .k { color: var(--grigio); }
-.spec-row .v { color: var(--avorio); font-weight: 500; }
+.spec-row .v { color: var(--avorio); font-weight: 500; text-align: right; }
+
+.notes { margin-top: 1.2rem; }
+.note-title {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  color: var(--giallo);
+  margin: 1rem 0 0.3rem;
+}
+.note-text { color: var(--grigio); font-size: 0.88rem; line-height: 1.5; margin: 0; }
 
 @media (max-width: 480px) {
   .brand { font-size: 1.4rem; }
