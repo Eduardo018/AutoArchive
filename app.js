@@ -63,15 +63,43 @@
     return card;
   }
 
-  function renderGallery(data) {
+  function renderGallery(vehicles) {
     const gallery = document.getElementById("gallery");
     const empty = document.getElementById("empty");
     gallery.innerHTML = "";
-    if (!data.vehicles.length) {
+    if (!vehicles.length) {
       empty.hidden = false;
+      empty.textContent = window.__aaHasQuery
+        ? "Nenhum veículo encontrado para essa busca."
+        : "Nenhum veículo publicado ainda.";
       return;
     }
-    data.vehicles.forEach((v) => gallery.appendChild(renderCard(v)));
+    empty.hidden = true;
+    vehicles.forEach((v) => gallery.appendChild(renderCard(v)));
+  }
+
+  function normalize(str) {
+    return (str || "").toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function matchesQuery(vehicle, query) {
+    const haystack = [
+      vehicle.manufacturer,
+      vehicle.model,
+      vehicle.model_year,
+      ...(vehicle.colors || []),
+    ].map(normalize).join(" ");
+    return haystack.includes(query);
+  }
+
+  function setupSearch(allVehicles) {
+    const input = document.getElementById("search-input");
+    input.addEventListener("input", () => {
+      const query = normalize(input.value.trim());
+      window.__aaHasQuery = query.length > 0;
+      const filtered = query ? allVehicles.filter((v) => matchesQuery(v, query)) : allVehicles;
+      renderGallery(filtered);
+    });
   }
 
   function openModal(vehicle) {
@@ -131,6 +159,7 @@
       ["Programa", vehicle.program],
       ["Tipo de produção", vehicle.production_type],
       ["Nº / Total produção", [vehicle.production_number, vehicle.production_total].filter(Boolean).join(" / ")],
+      ["Unidades no Brasil", vehicle.brazil_units],
       ["Market spec", vehicle.market_spec],
       ["Importação", vehicle.import_type],
       ["Origem / Atual", [vehicle.origin_country, vehicle.current_country].filter(Boolean).join(" → ")],
@@ -154,8 +183,82 @@
       notesWrap.appendChild(el("p", "note-text", escapeHtml(value)));
     });
 
+    renderMarketSection(vehicle);
+
     modal.hidden = false;
     document.body.style.overflow = "hidden";
+  }
+
+  let currentMarketChart = null;
+
+  function renderMarketSection(vehicle) {
+    const section = document.getElementById("modal-market");
+    const data = window.__aaData;
+    const market = data && data.markets ? data.markets[String(vehicle.car_model_id)] : null;
+
+    if (currentMarketChart) {
+      currentMarketChart.destroy();
+      currentMarketChart = null;
+    }
+
+    if (!market || !market.summary || !market.summary.count) {
+      section.hidden = true;
+      return;
+    }
+    section.hidden = false;
+
+    const statsWrap = document.getElementById("modal-market-stats");
+    statsWrap.innerHTML = "";
+    const fmt = (n) => "R$ " + Math.round(n).toLocaleString("pt-BR");
+    const chips = [
+      [fmt(market.summary.avg), "Média"],
+      [market.summary.count, "Anúncios"],
+      [fmt(market.summary.most_recent), "Mais recente"],
+    ];
+    chips.forEach(([value, label]) => {
+      statsWrap.appendChild(el("div", "market-chip", `<b>${value}</b>${label}`));
+    });
+
+    const statusColors = data.status_colors || {};
+    const scatterDatasets = Object.keys(market.by_status)
+      .filter((status) => market.by_status[status].length > 0)
+      .map((status) => ({
+        type: "scatter",
+        label: status,
+        data: market.by_status[status],
+        backgroundColor: statusColors[status] || "#d7ff1a",
+        borderColor: statusColors[status] || "#d7ff1a",
+        pointRadius: 4,
+        pointHoverRadius: 6,
+      }));
+
+    const trendDataset = {
+      type: "line",
+      label: "Tendência",
+      data: market.trend || [],
+      borderColor: "#d7ff1a",
+      backgroundColor: "#d7ff1a",
+      borderWidth: 2,
+      pointRadius: 0,
+      pointHitRadius: 0,
+      tension: 0.25,
+      fill: false,
+    };
+
+    const ctx = document.getElementById("modal-market-chart").getContext("2d");
+    currentMarketChart = new Chart(ctx, {
+      data: { datasets: [trendDataset, ...scatterDatasets] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: "nearest", intersect: true },
+        plugins: { legend: { display: false } },
+        scales: {
+          x: { type: "time", time: { unit: "month" }, ticks: { color: "#8b8d94" }, grid: { color: "rgba(244,242,236,0.06)" } },
+          y: { ticks: { color: "#8b8d94" }, grid: { color: "rgba(244,242,236,0.06)" } },
+        },
+      },
+    });
   }
 
   function closeModal() {
@@ -170,12 +273,14 @@
   fetch("data.json")
     .then((r) => r.json())
     .then((data) => {
+      window.__aaData = data;
       document.title = data.site_title || "Coleção";
       document.getElementById("page-title").textContent = data.site_title || "Coleção";
       document.getElementById("site-title").textContent = data.site_title || "Coleção";
       document.getElementById("site-subtitle").textContent = data.site_subtitle || "";
       renderStats(data);
-      renderGallery(data);
+      renderGallery(data.vehicles);
+      setupSearch(data.vehicles);
     })
     .catch((err) => {
       document.getElementById("empty").hidden = false;

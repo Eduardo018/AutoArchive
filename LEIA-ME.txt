@@ -11,9 +11,10 @@ fotos originais, só a cópia usada aqui).
 
 O que NÃO está incluído (de propósito, por segurança): VIN e placas — são
 os dois dados que, combinados com fotos públicas, permitem identificar e
-"seguir" um carro específico no mundo real. Preços e anúncios de mercado
-também ficam de fora. Todo o resto (inclusive observações, modificações e
-histórico de acidentes) é incluído.
+"seguir" um carro específico no mundo real. Todo o resto é incluído,
+inclusive observações, modificações, histórico de acidentes, unidades
+conhecidas no Brasil por modelo e o histórico de preços de mercado (com
+gráfico, igual ao do app).
 
 Como publicar (só na primeira vez):
 

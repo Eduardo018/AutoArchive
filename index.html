@@ -22,6 +22,9 @@
 
   <main class="container">
     <div id="stats-row" class="stats-row"></div>
+    <div class="search-wrap">
+      <input id="search-input" type="search" class="search-input" placeholder="Buscar por marca, modelo, cor ou ano...">
+    </div>
     <div id="gallery" class="gallery"></div>
     <div id="empty" class="empty" hidden>Nenhum veículo publicado ainda.</div>
   </main>
@@ -43,11 +46,18 @@
         <h2 id="modal-title" class="modal-title"></h2>
         <div id="modal-tags" class="tags"></div>
         <div id="modal-specs" class="specs"></div>
+        <div id="modal-market" class="market-section" hidden>
+          <h3 class="market-title">Mercado</h3>
+          <div id="modal-market-stats" class="market-stats"></div>
+          <div class="market-chart-wrap"><canvas id="modal-market-chart"></canvas></div>
+        </div>
         <div id="modal-notes" class="notes"></div>
       </div>
     </div>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

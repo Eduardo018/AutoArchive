@@ -87,6 +87,23 @@ h1, h2, h3 { font-family: var(--font-display); text-transform: uppercase; letter
 
 .stat-chip b { color: var(--avorio); font-family: var(--font-display); font-size: 1rem; margin-right: 0.3rem; }
 
+.search-wrap { margin-bottom: 1.2rem; }
+
+.search-input {
+  width: 100%;
+  max-width: 420px;
+  background: var(--glass-card);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  padding: 0.6rem 0.9rem;
+  color: var(--avorio);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+}
+
+.search-input::placeholder { color: var(--grigio); }
+.search-input:focus { outline: none; border-color: var(--glass-border-neon); }
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
@@ -186,6 +203,46 @@ h1, h2, h3 { font-family: var(--font-display); text-transform: uppercase; letter
 .spec-row .v { color: var(--avorio); font-weight: 500; text-align: right; }
 
 .notes { margin-top: 1.2rem; }
+
+.market-section {
+  margin-top: 1.2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+.market-title {
+  font-size: 0.95rem;
+  color: var(--giallo);
+  margin: 0 0 0.6rem;
+}
+
+.market-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.market-chip {
+  background: var(--nero-soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.75rem;
+  color: var(--grigio);
+}
+
+.market-chip b {
+  display: block;
+  color: var(--avorio);
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+}
+
+.market-chart-wrap {
+  position: relative;
+  height: 220px;
+}
 .note-title {
   font-family: var(--font-display);
   text-transform: uppercase;

@@ -3,6 +3,191 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "car_model_id": 81,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S",
+      "model_year": null,
+      "colors": [
+        "Tokyo Cyan"
+      ],
+      "status": "Ativo",
+      "steering": null,
+      "transmission": null,
+      "drivetrain": null,
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 2,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/e4fb926f62bf4289b783d0e365c18487.webp",
+      "cover_focal_x": 51.2,
+      "cover_focal_y": 48.4,
+      "photos": [
+        {
+          "url": "photos/e4fb926f62bf4289b783d0e365c18487.webp",
+          "focal_x": 51.2,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/3c4aefee85e040e5af68c2f54b14c86a.webp",
+          "focal_x": 47.8,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/59736361f7044dd68082de4f800569b1.webp",
+          "focal_x": 52.4,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/f54a880d39254aefacb65cc14135f4e2.webp",
+          "focal_x": 49.6,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/fe88a8db232e44779c3011a6aeb80a94.webp",
+          "focal_x": 49.5,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/3aae4226f10b4ba2981445c51b606bb7.webp",
+          "focal_x": 50.1,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/5608cd4d21f044b89b7763c82586e12e.webp",
+          "focal_x": 49.6,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/1149b7e38db24195b83f722b1ed1107a.webp",
+          "focal_x": 51.0,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/8ae8ae91d40b4822b9b2e70b20ef2267.webp",
+          "focal_x": 47.9,
+          "focal_y": 41.5
+        }
+      ]
+    },
+    {
+      "car_model_id": 81,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "720S",
+      "model_year": 2022,
+      "colors": [
+        "Gulf"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": "MSO",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 2,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/15820ae786b7445ab724e8c8a8ae5e56.webp",
+      "cover_focal_x": 51.2,
+      "cover_focal_y": 46.7,
+      "photos": [
+        {
+          "url": "photos/15820ae786b7445ab724e8c8a8ae5e56.webp",
+          "focal_x": 51.2,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/4f636f6df1674343a3010f3b33092897.webp",
+          "focal_x": 52.0,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/303b49c256e64eeba5a38e71001e1fc5.webp",
+          "focal_x": 50.8,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/25b0e3d85988438abad3be47fedd4e61.webp",
+          "focal_x": 54.2,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/4603806715754ce08d82a87fa20b8dac.webp",
+          "focal_x": 49.6,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/d61894779d964bbba6481986448cad61.webp",
+          "focal_x": 50.5,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/71f78d50dc8b4f2182db941cbeb747c2.webp",
+          "focal_x": 59.9,
+          "focal_y": 54.4
+        },
+        {
+          "url": "photos/85631914a54543bc82a5578e337d3139.webp",
+          "focal_x": 44.5,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/31a6e14166724d41a648cfc350e06844.webp",
+          "focal_x": 53.6,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/39a8ddec316e4755a1bb9cc6c3dbaf08.webp",
+          "focal_x": 53.6,
+          "focal_y": 40.1
+        },
+        {
+          "url": "photos/98d8f3a7a2a544f3bce5d08121c47487.webp",
+          "focal_x": 51.3,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/f4310dd577d24b92bc262670a459577c.webp",
+          "focal_x": 52.3,
+          "focal_y": 47.9
+        },
+        {
+          "url": "photos/f4151fc78f1c41588687ea8eee6e7a7f.webp",
+          "focal_x": 46.3,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/08c3f2426ca44452bc22c097b0c2ab30.webp",
+          "focal_x": 49.4,
+          "focal_y": 42.0
+        },
+        {
+          "url": "photos/e7aca82f027d456a90f440003a69ca66.webp",
+          "focal_x": 46.2,
+          "focal_y": 44.7
+        }
+      ]
+    },
+    {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -18,6 +203,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "15",
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -138,6 +324,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -153,6 +340,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -188,6 +376,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -203,6 +392,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -228,6 +418,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -243,6 +434,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -288,6 +480,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -303,6 +496,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -353,6 +547,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -368,6 +563,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -403,6 +599,7 @@
       ]
     },
     {
+      "car_model_id": 82,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "720S Spider",
@@ -418,6 +615,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -453,6 +651,7 @@
       ]
     },
     {
+      "car_model_id": 264,
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "M4 Competition (G82)",
@@ -468,6 +667,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -685,6 +885,7 @@
       ]
     },
     {
+      "car_model_id": 265,
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "M4 CSL (G82)",
@@ -700,6 +901,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "1000",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -745,6 +947,7 @@
       ]
     },
     {
+      "car_model_id": 267,
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "M3 Touring (G81)",
@@ -760,6 +963,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -825,6 +1029,7 @@
       ]
     },
     {
+      "car_model_id": 266,
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "Alpina XB7 (G07)",
@@ -840,6 +1045,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -870,6 +1076,7 @@
       ]
     },
     {
+      "car_model_id": 263,
       "manufacturer": "BMW",
       "manufacturer_logo": "logos/7.webp",
       "model": "M4 GTS (F82)",
@@ -885,6 +1092,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "700",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -945,6 +1153,7 @@
       ]
     },
     {
+      "car_model_id": 125,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Revuelto LP1015-4",
@@ -960,6 +1169,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -990,6 +1200,7 @@
       ]
     },
     {
+      "car_model_id": 125,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Revuelto LP1015-4",
@@ -1005,6 +1216,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1075,6 +1287,7 @@
       ]
     },
     {
+      "car_model_id": 125,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Revuelto LP1015-4",
@@ -1090,6 +1303,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1130,6 +1344,7 @@
       ]
     },
     {
+      "car_model_id": 125,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Revuelto LP1015-4",
@@ -1145,6 +1360,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -1195,6 +1411,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -1210,6 +1427,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1230,6 +1448,7 @@
       ]
     },
     {
+      "car_model_id": 261,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "911 GT3R rennsport",
@@ -1245,6 +1464,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "77",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1332,6 +1552,7 @@
       ]
     },
     {
+      "car_model_id": 24,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Italia",
@@ -1347,6 +1568,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1397,6 +1619,7 @@
       ]
     },
     {
+      "car_model_id": 197,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "225 S Vignale Spyder",
@@ -1412,6 +1635,7 @@
       "production_type": null,
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Portugal",
@@ -1467,6 +1691,7 @@
       ]
     },
     {
+      "car_model_id": 3,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "166 Inter Coupe",
@@ -1482,6 +1707,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -1572,6 +1798,7 @@
       ]
     },
     {
+      "car_model_id": 196,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "250 GT Ellena Coupé",
@@ -1587,6 +1814,7 @@
       "production_type": "Edição limitada",
       "production_number": "10",
       "production_total": "92",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -1619,6 +1847,7 @@
       ]
     },
     {
+      "car_model_id": 195,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "250 GT 2+2 Series I",
@@ -1634,6 +1863,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -1674,6 +1904,7 @@
       ]
     },
     {
+      "car_model_id": 195,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "250 GT 2+2 Series I",
@@ -1689,6 +1920,7 @@
       "production_type": "Protótipo",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -1761,6 +1993,7 @@
       ]
     },
     {
+      "car_model_id": 54,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F40",
@@ -1776,6 +2009,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "1311",
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -1816,6 +2050,7 @@
       ]
     },
     {
+      "car_model_id": 54,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F40",
@@ -1831,6 +2066,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "1311",
+      "brazil_units": 2,
       "market_spec": "GCC Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1866,6 +2102,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -1881,6 +2118,7 @@
       "production_type": "Edição limitada",
       "production_number": "225",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1929,6 +2167,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -1944,6 +2183,7 @@
       "production_type": "Edição limitada",
       "production_number": "657",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -1981,6 +2221,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -1996,6 +2237,7 @@
       "production_type": "Edição limitada",
       "production_number": "103",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2033,6 +2275,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -2048,6 +2291,7 @@
       "production_type": "Edição limitada",
       "production_number": "462",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2085,6 +2329,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -2100,6 +2345,7 @@
       "production_type": "Edição limitada",
       "production_number": "664",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2147,6 +2393,7 @@
       ]
     },
     {
+      "car_model_id": 88,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT Spider",
@@ -2163,6 +2410,7 @@
       "production_type": "Edição limitada",
       "production_number": "134",
       "production_total": "765",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2231,6 +2479,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2246,6 +2495,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2271,6 +2521,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2286,6 +2537,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2321,6 +2573,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2336,6 +2589,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2366,6 +2620,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2381,6 +2636,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2406,6 +2662,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2421,6 +2678,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2451,6 +2709,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2466,6 +2725,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2491,6 +2751,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2506,6 +2767,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2551,6 +2813,7 @@
       ]
     },
     {
+      "car_model_id": 93,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "MP4-12C",
@@ -2566,6 +2829,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2606,6 +2870,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2621,6 +2886,7 @@
       "production_type": "Edição limitada",
       "production_number": "495",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2658,6 +2924,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2673,6 +2940,7 @@
       "production_type": "Edição limitada",
       "production_number": "496",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2705,6 +2973,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2720,6 +2989,7 @@
       "production_type": "Edição limitada",
       "production_number": "171",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -2762,6 +3032,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2777,6 +3048,7 @@
       "production_type": "Edição limitada",
       "production_number": "083",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2817,6 +3089,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2832,6 +3105,7 @@
       "production_type": "Edição limitada",
       "production_number": "559",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2864,6 +3138,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2879,6 +3154,7 @@
       "production_type": "Edição limitada",
       "production_number": "382",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2921,6 +3197,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -2936,6 +3213,7 @@
       "production_type": "Edição limitada",
       "production_number": "275",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -2993,6 +3271,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -3008,6 +3287,7 @@
       "production_type": "Edição limitada",
       "production_number": "560",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -3065,6 +3345,7 @@
       ]
     },
     {
+      "car_model_id": 87,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "765LT",
@@ -3080,6 +3361,7 @@
       "production_type": "Edição limitada",
       "production_number": "136",
       "production_total": "765",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3127,6 +3409,7 @@
       ]
     },
     {
+      "car_model_id": 100,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP700-4 Miura Homage",
@@ -3142,6 +3425,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "50",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -3177,6 +3461,7 @@
       ]
     },
     {
+      "car_model_id": 104,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SV LP750-4 Roadster",
@@ -3192,6 +3477,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "500",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -3237,6 +3523,7 @@
       ]
     },
     {
+      "car_model_id": 103,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SV LP750-4",
@@ -3252,6 +3539,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -3277,6 +3565,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -3292,6 +3581,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -3352,6 +3642,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -3367,6 +3658,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "alemanha",
@@ -3392,6 +3684,7 @@
       ]
     },
     {
+      "car_model_id": 2,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "12Cilindri Spider",
@@ -3407,6 +3700,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3467,6 +3761,7 @@
       ]
     },
     {
+      "car_model_id": 2,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "12Cilindri Spider",
@@ -3482,6 +3777,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3567,6 +3863,7 @@
       ]
     },
     {
+      "car_model_id": 2,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "12Cilindri Spider",
@@ -3582,6 +3879,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3627,6 +3925,7 @@
       ]
     },
     {
+      "car_model_id": 2,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "12Cilindri Spider",
@@ -3642,6 +3941,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3687,6 +3987,7 @@
       ]
     },
     {
+      "car_model_id": 2,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "12Cilindri Spider",
@@ -3702,6 +4003,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3752,6 +4054,7 @@
       ]
     },
     {
+      "car_model_id": 5,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTS",
@@ -3767,6 +4070,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3862,6 +4166,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -3877,6 +4182,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3932,6 +4238,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -3947,6 +4254,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -3997,6 +4305,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4012,6 +4321,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4047,6 +4357,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4062,6 +4373,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -4082,6 +4394,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4097,6 +4410,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4122,6 +4436,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4137,6 +4452,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4157,6 +4473,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4172,6 +4489,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4207,6 +4525,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4222,6 +4541,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4242,6 +4562,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4257,6 +4578,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4302,6 +4624,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4317,6 +4640,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4357,6 +4681,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4372,6 +4697,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4402,6 +4728,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4417,6 +4744,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4457,6 +4785,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4472,6 +4801,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4507,6 +4837,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -4522,8 +4853,9 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
-      "import_type": "Concessionária oficial",
+      "import_type": null,
       "origin_country": null,
       "current_country": "Brasil",
       "modifications": null,
@@ -4567,6 +4899,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4582,6 +4915,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -4622,6 +4956,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4637,6 +4972,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4677,6 +5013,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4692,6 +5029,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4732,6 +5070,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4747,6 +5086,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -4792,6 +5132,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4807,6 +5148,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4852,6 +5194,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4867,6 +5210,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -4922,6 +5266,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4937,6 +5282,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -4977,6 +5323,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -4992,6 +5339,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -5047,6 +5395,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -5062,6 +5411,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5102,6 +5452,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -5117,6 +5468,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -5147,6 +5499,7 @@
       ]
     },
     {
+      "car_model_id": 214,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20 Cielo",
@@ -5162,6 +5515,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "04",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5197,6 +5551,7 @@
       ]
     },
     {
+      "car_model_id": 214,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20 Cielo",
@@ -5212,6 +5567,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "04",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5247,6 +5603,7 @@
       ]
     },
     {
+      "car_model_id": 214,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20 Cielo",
@@ -5260,6 +5617,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5280,6 +5638,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5295,6 +5654,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -5320,6 +5680,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5335,6 +5696,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -5370,6 +5732,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5385,6 +5748,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5420,6 +5784,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5435,6 +5800,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -5480,6 +5846,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5495,6 +5862,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -5535,6 +5903,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5550,6 +5919,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5585,6 +5955,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5600,6 +5971,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5640,6 +6012,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5655,6 +6028,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5695,6 +6069,7 @@
       ]
     },
     {
+      "car_model_id": 213,
       "manufacturer": "Maserati",
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20",
@@ -5710,6 +6085,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5765,6 +6141,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -5780,6 +6157,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -5830,6 +6208,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -5845,6 +6224,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -5885,6 +6265,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -5900,6 +6281,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -5950,6 +6332,7 @@
       ]
     },
     {
+      "car_model_id": 25,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Spider",
@@ -5965,6 +6348,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6000,6 +6384,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6015,6 +6400,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6055,6 +6441,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6070,6 +6457,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6105,6 +6493,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6120,6 +6509,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6155,6 +6545,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6170,6 +6561,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6205,6 +6597,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6220,6 +6613,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6250,6 +6644,7 @@
       ]
     },
     {
+      "car_model_id": 101,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4",
@@ -6265,6 +6660,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6305,6 +6701,7 @@
       ]
     },
     {
+      "car_model_id": 102,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador S LP740-4 Roadster",
@@ -6320,6 +6717,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6355,6 +6753,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -6370,6 +6769,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6405,6 +6805,7 @@
       ]
     },
     {
+      "car_model_id": 38,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Superfast",
@@ -6420,6 +6821,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 14,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6450,6 +6852,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6465,6 +6868,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6485,6 +6889,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6500,6 +6905,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6540,6 +6946,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6555,6 +6962,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6585,6 +6993,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6600,6 +7009,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6635,6 +7045,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6650,6 +7061,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6690,6 +7102,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6705,6 +7118,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6740,6 +7154,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6755,6 +7170,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6795,6 +7211,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6810,6 +7227,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -6845,6 +7263,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6860,6 +7279,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6900,6 +7320,7 @@
       ]
     },
     {
+      "car_model_id": 126,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Temerario",
@@ -6915,6 +7336,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -6955,6 +7377,7 @@
       ]
     },
     {
+      "car_model_id": 24,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Italia",
@@ -6970,6 +7393,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -7010,6 +7434,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7025,6 +7450,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -7060,6 +7486,7 @@
       ]
     },
     {
+      "car_model_id": 42,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "849 Testarossa",
@@ -7075,6 +7502,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -7115,6 +7543,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7130,6 +7559,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -7185,6 +7615,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7200,6 +7631,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -7235,6 +7667,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7250,6 +7683,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -7270,6 +7704,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7285,6 +7720,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -7320,6 +7756,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -7335,6 +7772,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -7370,6 +7808,7 @@
       ]
     },
     {
+      "car_model_id": 256,
       "manufacturer": "Bugatti",
       "manufacturer_logo": null,
       "model": "Veyron 16.4 Grand Sport",
@@ -7385,6 +7824,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "58",
+      "brazil_units": 1,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": "Brasil",
@@ -7420,6 +7860,7 @@
       ]
     },
     {
+      "car_model_id": 248,
       "manufacturer": "Bugatti",
       "manufacturer_logo": null,
       "model": "Chiron",
@@ -7436,6 +7877,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "500",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -7471,6 +7913,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -7486,6 +7929,7 @@
       "production_type": null,
       "production_number": null,
       "production_total": null,
+      "brazil_units": 9,
       "market_spec": null,
       "import_type": null,
       "origin_country": null,
@@ -7531,6 +7975,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -7546,6 +7991,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -7586,6 +8032,7 @@
       ]
     },
     {
+      "car_model_id": 215,
       "manufacturer": "Koenigsegg",
       "manufacturer_logo": null,
       "model": "CCXR E100 Platinuss Special",
@@ -7601,6 +8048,7 @@
       "production_type": "One-off",
       "production_number": "1",
       "production_total": "1",
+      "brazil_units": 1,
       "market_spec": "Brazil Spec",
       "import_type": "Importação independente",
       "origin_country": "Brasil",
@@ -7643,6 +8091,7 @@
       ]
     },
     {
+      "car_model_id": 208,
       "manufacturer": "Pagani",
       "manufacturer_logo": null,
       "model": "Zonda R",
@@ -7658,6 +8107,7 @@
       "production_type": "Edição limitada",
       "production_number": "07",
       "production_total": "10",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Brasil",
@@ -7686,6 +8136,7 @@
       ]
     },
     {
+      "car_model_id": 207,
       "manufacturer": "Pagani",
       "manufacturer_logo": null,
       "model": "Zonda Roadster F",
@@ -7702,6 +8153,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "25",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Brasil",
@@ -7744,6 +8196,7 @@
       ]
     },
     {
+      "car_model_id": 206,
       "manufacturer": "Pagani",
       "manufacturer_logo": null,
       "model": "Zonda F",
@@ -7759,6 +8212,7 @@
       "production_type": "Edição limitada",
       "production_number": "07",
       "production_total": "25",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Brasil",
@@ -7801,6 +8255,7 @@
       ]
     },
     {
+      "car_model_id": 205,
       "manufacturer": "Pagani",
       "manufacturer_logo": null,
       "model": "Utopia",
@@ -7817,6 +8272,7 @@
       "production_type": "Protótipo",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação temporária",
       "origin_country": "Mônaco",
@@ -7840,6 +8296,7 @@
       ]
     },
     {
+      "car_model_id": 209,
       "manufacturer": "Pagani",
       "manufacturer_logo": null,
       "model": "Huayra R",
@@ -7855,6 +8312,7 @@
       "production_type": "Edição limitada",
       "production_number": "12",
       "production_total": "30",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -7883,6 +8341,7 @@
       ]
     },
     {
+      "car_model_id": 42,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "849 Testarossa",
@@ -7898,6 +8357,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -7918,6 +8378,7 @@
       ]
     },
     {
+      "car_model_id": 44,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Amalfi",
@@ -7933,6 +8394,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -7953,6 +8415,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -7968,6 +8431,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -7988,6 +8452,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8003,6 +8468,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8023,6 +8489,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8038,6 +8505,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8058,6 +8526,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8073,6 +8542,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8093,6 +8563,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8108,6 +8579,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "França",
@@ -8128,6 +8600,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8143,6 +8616,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8163,6 +8637,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8178,6 +8653,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8198,6 +8674,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8213,6 +8690,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8233,6 +8711,7 @@
       ]
     },
     {
+      "car_model_id": 50,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F12tdf",
@@ -8248,6 +8727,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 8,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8268,6 +8748,7 @@
       ]
     },
     {
+      "car_model_id": 7,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale Aperta",
@@ -8283,6 +8764,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8313,6 +8795,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -8328,6 +8811,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8348,6 +8832,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8363,6 +8848,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8383,6 +8869,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8398,6 +8885,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -8420,6 +8908,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8435,6 +8924,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8455,6 +8945,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8470,6 +8961,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8490,6 +8982,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8505,6 +8998,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8525,6 +9019,7 @@
       ]
     },
     {
+      "car_model_id": 31,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Spider",
@@ -8540,6 +9035,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8560,6 +9056,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8575,6 +9072,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8595,6 +9093,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8610,6 +9109,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8630,6 +9130,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8645,6 +9146,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8665,6 +9167,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8680,6 +9183,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -8700,6 +9204,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8715,6 +9220,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8735,6 +9241,7 @@
       ]
     },
     {
+      "car_model_id": 32,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 Pista Piloti",
@@ -8750,6 +9257,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8770,6 +9278,7 @@
       ]
     },
     {
+      "car_model_id": 9,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GT3",
@@ -8785,6 +9294,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8812,6 +9322,7 @@
       ]
     },
     {
+      "car_model_id": 8,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale Piloti",
@@ -8827,6 +9338,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -8847,6 +9359,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -8862,6 +9375,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8882,6 +9396,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -8897,6 +9412,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -8917,6 +9433,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -8932,6 +9449,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -8952,6 +9470,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -8967,6 +9486,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -8987,6 +9507,7 @@
       ]
     },
     {
+      "car_model_id": 6,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale",
@@ -9002,6 +9523,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -9022,6 +9544,7 @@
       ]
     },
     {
+      "car_model_id": 7,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 Speciale Aperta",
@@ -9037,6 +9560,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9057,6 +9581,7 @@
       ]
     },
     {
+      "car_model_id": 27,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Speciale Aperta",
@@ -9072,6 +9597,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -9092,6 +9618,7 @@
       ]
     },
     {
+      "car_model_id": 27,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Speciale Aperta",
@@ -9107,6 +9634,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Mônaco",
@@ -9127,6 +9655,7 @@
       ]
     },
     {
+      "car_model_id": 27,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Speciale Aperta",
@@ -9142,6 +9671,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9162,6 +9692,7 @@
       ]
     },
     {
+      "car_model_id": 27,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Speciale Aperta",
@@ -9177,6 +9708,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9197,6 +9729,7 @@
       ]
     },
     {
+      "car_model_id": 27,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Speciale Aperta",
@@ -9212,6 +9745,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9232,6 +9766,7 @@
       ]
     },
     {
+      "car_model_id": 24,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Italia",
@@ -9247,6 +9782,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9267,6 +9803,7 @@
       ]
     },
     {
+      "car_model_id": 98,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP700-4",
@@ -9282,6 +9819,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9302,6 +9840,7 @@
       ]
     },
     {
+      "car_model_id": 44,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Amalfi",
@@ -9317,6 +9856,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9337,6 +9877,7 @@
       ]
     },
     {
+      "car_model_id": 5,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTS",
@@ -9352,6 +9893,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9372,6 +9914,7 @@
       ]
     },
     {
+      "car_model_id": 57,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F8 Spider",
@@ -9387,6 +9930,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -9407,6 +9951,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -9422,6 +9967,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9487,6 +10033,7 @@
       ]
     },
     {
+      "car_model_id": 107,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae",
@@ -9502,6 +10049,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -9527,6 +10075,7 @@
       ]
     },
     {
+      "car_model_id": 107,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae",
@@ -9542,6 +10091,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -9562,6 +10112,7 @@
       ]
     },
     {
+      "car_model_id": 107,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae",
@@ -9577,6 +10128,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -9597,6 +10149,7 @@
       ]
     },
     {
+      "car_model_id": 107,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae",
@@ -9612,6 +10165,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -9632,6 +10186,7 @@
       ]
     },
     {
+      "car_model_id": 107,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae",
@@ -9647,6 +10202,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "600",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Romênia",
@@ -9667,6 +10223,7 @@
       ]
     },
     {
+      "car_model_id": 108,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae Roadster",
@@ -9682,6 +10239,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "250",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -9702,6 +10260,7 @@
       ]
     },
     {
+      "car_model_id": 108,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae Roadster",
@@ -9717,6 +10276,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "250",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -9737,6 +10297,7 @@
       ]
     },
     {
+      "car_model_id": 108,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae Roadster",
@@ -9752,6 +10313,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "250",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -9772,6 +10334,7 @@
       ]
     },
     {
+      "car_model_id": 108,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae Roadster",
@@ -9787,6 +10350,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "250",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -9807,6 +10371,7 @@
       ]
     },
     {
+      "car_model_id": 56,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F8 Tributo",
@@ -9822,6 +10387,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9847,6 +10413,7 @@
       ]
     },
     {
+      "car_model_id": 56,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F8 Tributo",
@@ -9862,6 +10429,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9882,6 +10450,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -9897,6 +10466,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9917,6 +10487,7 @@
       ]
     },
     {
+      "car_model_id": 66,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Roma",
@@ -9932,6 +10503,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9952,6 +10524,7 @@
       ]
     },
     {
+      "car_model_id": 66,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Roma",
@@ -9967,6 +10540,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -9987,6 +10561,7 @@
       ]
     },
     {
+      "car_model_id": 67,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Roma Spider",
@@ -10002,6 +10577,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10022,6 +10598,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10037,6 +10614,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10057,6 +10635,7 @@
       ]
     },
     {
+      "car_model_id": 5,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTS",
@@ -10072,6 +10651,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10092,6 +10672,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10107,6 +10688,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10127,6 +10709,7 @@
       ]
     },
     {
+      "car_model_id": 68,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Stradale",
@@ -10142,6 +10725,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -10162,6 +10746,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10177,6 +10762,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10197,6 +10783,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10212,6 +10799,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10232,6 +10820,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10247,6 +10836,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -10267,6 +10857,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10282,6 +10873,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10302,6 +10894,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10317,6 +10910,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10337,6 +10931,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10352,6 +10947,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Holanda",
@@ -10374,6 +10970,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10389,6 +10986,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Holanda",
@@ -10409,6 +11007,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10424,6 +11023,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10444,6 +11044,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -10459,6 +11060,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10479,6 +11081,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -10494,6 +11097,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10514,6 +11118,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10529,6 +11134,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10549,6 +11155,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10564,6 +11171,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10584,6 +11192,7 @@
       ]
     },
     {
+      "car_model_id": 79,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "620R",
@@ -10599,6 +11208,7 @@
       "production_type": "Edição limitada",
       "production_number": "192",
       "production_total": "350",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10621,6 +11231,7 @@
       ]
     },
     {
+      "car_model_id": 80,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "675LT",
@@ -10636,6 +11247,7 @@
       "production_type": "Edição limitada",
       "production_number": "051",
       "production_total": "500",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Arábia Saudita",
@@ -10658,6 +11270,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10673,6 +11286,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10693,6 +11307,7 @@
       ]
     },
     {
+      "car_model_id": 57,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F8 Spider",
@@ -10708,6 +11323,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10728,6 +11344,7 @@
       ]
     },
     {
+      "car_model_id": 65,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Purosangue",
@@ -10743,6 +11360,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -10763,6 +11381,7 @@
       ]
     },
     {
+      "car_model_id": 39,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 GTS",
@@ -10778,6 +11397,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 25,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10798,6 +11418,7 @@
       ]
     },
     {
+      "car_model_id": 4,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "296 GTB",
@@ -10813,6 +11434,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 7,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10833,6 +11455,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -10848,6 +11471,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -10868,6 +11492,7 @@
       ]
     },
     {
+      "car_model_id": 94,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "P1",
@@ -10883,6 +11508,7 @@
       "production_type": "Edição limitada",
       "production_number": "284",
       "production_total": "375",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -10905,6 +11531,7 @@
       ]
     },
     {
+      "car_model_id": 94,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "P1",
@@ -10920,6 +11547,7 @@
       "production_type": "Edição limitada",
       "production_number": "027",
       "production_total": "375",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -10942,6 +11570,7 @@
       ]
     },
     {
+      "car_model_id": 94,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "P1",
@@ -10957,6 +11586,7 @@
       "production_type": "Edição limitada",
       "production_number": "241",
       "production_total": "375",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suíça",
@@ -10979,6 +11609,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -10994,6 +11625,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11014,6 +11646,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11029,6 +11662,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suíça",
@@ -11049,6 +11683,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11064,6 +11699,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Dinamarca",
@@ -11084,6 +11720,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11099,6 +11736,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -11124,6 +11762,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11139,6 +11778,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Espanha",
@@ -11159,6 +11799,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11174,6 +11815,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -11194,6 +11836,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11209,6 +11852,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11229,6 +11873,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11244,6 +11889,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11264,6 +11910,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11279,6 +11926,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11299,6 +11947,7 @@
       ]
     },
     {
+      "car_model_id": 57,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F8 Spider",
@@ -11314,6 +11963,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11334,6 +11984,7 @@
       ]
     },
     {
+      "car_model_id": 69,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 Spider",
@@ -11349,6 +12000,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 11,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11369,6 +12021,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -11384,6 +12037,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Dinamarca",
@@ -11404,6 +12058,7 @@
       ]
     },
     {
+      "car_model_id": 106,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4 Roadster",
@@ -11419,6 +12074,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11439,6 +12095,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11454,6 +12111,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11474,6 +12132,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11489,6 +12148,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11509,6 +12169,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11524,6 +12185,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11544,6 +12206,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11559,6 +12222,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11579,6 +12243,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11594,6 +12259,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Itália",
@@ -11616,6 +12282,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11631,6 +12298,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Bélgica",
@@ -11651,6 +12319,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11666,6 +12335,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Áustria",
@@ -11686,6 +12356,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11701,6 +12372,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -11721,6 +12393,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11736,6 +12409,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -11756,6 +12430,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11771,6 +12446,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Mônaco",
@@ -11791,6 +12467,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11806,6 +12483,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -11826,6 +12504,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11843,6 +12522,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -11865,6 +12545,7 @@
       ]
     },
     {
+      "car_model_id": 105,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador SVJ LP770-4",
@@ -11881,6 +12562,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -11903,6 +12585,7 @@
       ]
     },
     {
+      "car_model_id": 97,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna LM",
@@ -11918,6 +12601,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "20",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -11940,6 +12624,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -11955,6 +12640,7 @@
       "production_type": "Edição limitada",
       "production_number": "171",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -11977,6 +12663,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -11992,6 +12679,7 @@
       "production_type": "Edição limitada",
       "production_number": "471",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12014,6 +12702,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12029,6 +12718,7 @@
       "production_type": "Edição limitada",
       "production_number": "480",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12051,6 +12741,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12066,6 +12757,7 @@
       "production_type": "Edição limitada",
       "production_number": "022",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "França",
@@ -12088,6 +12780,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12103,6 +12796,7 @@
       "production_type": "Edição limitada",
       "production_number": "278",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Hong Kong",
@@ -12125,6 +12819,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12140,6 +12835,7 @@
       "production_type": "Edição limitada",
       "production_number": "467",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12162,6 +12858,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12177,6 +12874,7 @@
       "production_type": "Edição limitada",
       "production_number": "073",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -12199,6 +12897,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12214,6 +12913,7 @@
       "production_type": "Edição limitada",
       "production_number": "201",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -12266,6 +12966,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12281,6 +12982,7 @@
       "production_type": "Edição limitada",
       "production_number": "166",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -12303,6 +13005,7 @@
       ]
     },
     {
+      "car_model_id": 95,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna",
@@ -12318,6 +13021,7 @@
       "production_type": "Edição limitada",
       "production_number": "340",
       "production_total": "500",
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12340,6 +13044,7 @@
       ]
     },
     {
+      "car_model_id": 202,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "959 Komfort",
@@ -12355,6 +13060,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "263",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -12375,6 +13081,7 @@
       ]
     },
     {
+      "car_model_id": 155,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Focus RS",
@@ -12390,6 +13097,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": null,
       "import_type": null,
       "origin_country": null,
@@ -12410,6 +13118,7 @@
       ]
     },
     {
+      "car_model_id": 154,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Ford GT",
@@ -12425,6 +13134,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -12445,6 +13155,7 @@
       ]
     },
     {
+      "car_model_id": 154,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Ford GT",
@@ -12460,6 +13171,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "50",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -12482,6 +13194,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -12497,6 +13210,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -12517,6 +13231,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -12532,6 +13247,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Finlândia",
@@ -12552,6 +13268,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -12567,6 +13284,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12587,6 +13305,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -12602,6 +13321,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -12637,6 +13357,7 @@
       ]
     },
     {
+      "car_model_id": 71,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Spider",
@@ -12652,6 +13373,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -12697,6 +13419,7 @@
       ]
     },
     {
+      "car_model_id": 70,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Stradale",
@@ -12712,6 +13435,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12737,6 +13461,7 @@
       ]
     },
     {
+      "car_model_id": 70,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Stradale",
@@ -12752,6 +13477,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12772,6 +13498,7 @@
       ]
     },
     {
+      "car_model_id": 70,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Stradale",
@@ -12787,6 +13514,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Polônia",
@@ -12807,6 +13535,7 @@
       ]
     },
     {
+      "car_model_id": 70,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Stradale",
@@ -12822,6 +13551,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12842,6 +13572,7 @@
       ]
     },
     {
+      "car_model_id": 70,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "SF90 XX Stradale",
@@ -12857,6 +13588,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "799",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12877,6 +13609,7 @@
       ]
     },
     {
+      "car_model_id": 41,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione Aperta",
@@ -12892,6 +13625,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -12912,6 +13646,7 @@
       ]
     },
     {
+      "car_model_id": 41,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione Aperta",
@@ -12927,6 +13662,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12947,6 +13683,7 @@
       ]
     },
     {
+      "car_model_id": 41,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione Aperta",
@@ -12962,6 +13699,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12982,6 +13720,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -12997,6 +13736,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -13017,6 +13757,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13032,6 +13773,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Áustria",
@@ -13052,6 +13794,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13067,6 +13810,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -13087,6 +13831,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13102,6 +13847,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -13122,6 +13868,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13137,6 +13884,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -13157,6 +13905,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13172,6 +13921,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -13192,6 +13942,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13208,6 +13959,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -13230,6 +13982,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13245,6 +13998,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13265,6 +14019,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13280,6 +14035,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13300,6 +14056,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13315,6 +14072,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Japan Spec",
       "import_type": "Importação independente",
       "origin_country": "Japão",
@@ -13335,6 +14093,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13350,6 +14109,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Andorra",
@@ -13370,6 +14130,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13385,6 +14146,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13405,6 +14167,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13420,6 +14183,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Coreia do Sul",
@@ -13440,6 +14204,7 @@
       ]
     },
     {
+      "car_model_id": 40,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "812 Competizione",
@@ -13455,6 +14220,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 15,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -13475,6 +14241,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13490,6 +14257,7 @@
       "production_type": "Edição limitada",
       "production_number": "1256",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13512,6 +14280,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13527,6 +14296,7 @@
       "production_type": "Edição limitada",
       "production_number": "1086",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13549,6 +14319,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13562,8 +14333,9 @@
       "drivetrain": "Traseira",
       "program": null,
       "production_type": "Edição limitada",
-      "production_number": null,
+      "production_number": "1109",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13586,6 +14358,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13601,6 +14374,7 @@
       "production_type": "Edição limitada",
       "production_number": "598",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -13623,6 +14397,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13638,6 +14413,7 @@
       "production_type": "Edição limitada",
       "production_number": "837",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": "Estados Unidos",
@@ -13660,6 +14436,7 @@
       ]
     },
     {
+      "car_model_id": 201,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "Carrera GT",
@@ -13675,6 +14452,7 @@
       "production_type": "Edição limitada",
       "production_number": "1041",
       "production_total": "1270",
+      "brazil_units": 6,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13697,6 +14475,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13712,6 +14491,7 @@
       "production_type": "Edição limitada",
       "production_number": "155",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13739,6 +14519,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13754,6 +14535,7 @@
       "production_type": "Edição limitada",
       "production_number": "456",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -13776,6 +14558,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13791,6 +14574,7 @@
       "production_type": "Edição limitada",
       "production_number": "895",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Arábia Saudita",
@@ -13813,6 +14597,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13828,6 +14613,7 @@
       "production_type": "Edição limitada",
       "production_number": "862",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -13850,6 +14636,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13865,6 +14652,7 @@
       "production_type": "Edição limitada",
       "production_number": "513",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Hong Kong",
@@ -13887,6 +14675,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13902,6 +14691,7 @@
       "production_type": "Edição limitada",
       "production_number": "499",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13924,6 +14714,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13939,6 +14730,7 @@
       "production_type": "Edição limitada",
       "production_number": "523",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -13961,6 +14753,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -13976,6 +14769,7 @@
       "production_type": "Edição limitada",
       "production_number": "388",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -13998,6 +14792,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -14013,6 +14808,7 @@
       "production_type": "Edição limitada",
       "production_number": "431",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -14035,6 +14831,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -14050,6 +14847,7 @@
       "production_type": "Edição limitada",
       "production_number": "344",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Reino Unido",
@@ -14072,6 +14870,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -14087,6 +14886,7 @@
       "production_type": "Edição limitada",
       "production_number": "151",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14109,6 +14909,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -14124,6 +14925,7 @@
       "production_type": "Edição limitada",
       "production_number": "133",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Reino Unido",
@@ -14146,6 +14948,7 @@
       ]
     },
     {
+      "car_model_id": 200,
       "manufacturer": "Porsche",
       "manufacturer_logo": "logos/47.webp",
       "model": "918 Spyder",
@@ -14159,6 +14962,7 @@
       "production_type": "Edição limitada",
       "production_number": "233",
       "production_total": "918",
+      "brazil_units": 13,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
@@ -14181,6 +14985,7 @@
       ]
     },
     {
+      "car_model_id": 25,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Spider",
@@ -14196,6 +15001,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 2,
       "market_spec": "US Spec",
       "import_type": null,
       "origin_country": null,
@@ -14231,6 +15037,7 @@
       ]
     },
     {
+      "car_model_id": 159,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valour",
@@ -14246,6 +15053,7 @@
       "production_type": "Edição limitada",
       "production_number": "84",
       "production_total": "110",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": "Reino Unido",
@@ -14256,18 +15064,44 @@
       "highlights": [
         "numbered_edition"
       ],
-      "cover_photo": "photos/8df059d3da0d44ae9e4c95310ba689bd.jpg",
-      "cover_focal_x": 46.9,
-      "cover_focal_y": 40.3,
+      "cover_photo": "photos/81051a865a474531a6a2c34739bf8586.webp",
+      "cover_focal_x": 51.6,
+      "cover_focal_y": 49.7,
       "photos": [
         {
           "url": "photos/8df059d3da0d44ae9e4c95310ba689bd.jpg",
           "focal_x": 46.9,
           "focal_y": 40.3
+        },
+        {
+          "url": "photos/81051a865a474531a6a2c34739bf8586.webp",
+          "focal_x": 51.6,
+          "focal_y": 49.7
+        },
+        {
+          "url": "photos/144380e9236843f584e8d5d53b33aa89.webp",
+          "focal_x": 51.0,
+          "focal_y": 52.5
+        },
+        {
+          "url": "photos/37d088ecab2c442bb6466af7b18bac2f.webp",
+          "focal_x": 50.1,
+          "focal_y": 42.4
+        },
+        {
+          "url": "photos/c8589f86c98243e99090a44ffe3974ee.webp",
+          "focal_x": 50.3,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/f1408e46fa754c4d88732bd98fb31060.webp",
+          "focal_x": 50.1,
+          "focal_y": 44.7
         }
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14283,6 +15117,7 @@
       "production_type": "Edição limitada",
       "production_number": "052",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Bélgica",
@@ -14320,6 +15155,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14335,6 +15171,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14367,6 +15204,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14382,6 +15220,7 @@
       "production_type": "Edição limitada",
       "production_number": "059",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14404,6 +15243,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14419,6 +15259,7 @@
       "production_type": "Edição limitada",
       "production_number": "288",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14451,6 +15292,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14466,6 +15308,7 @@
       "production_type": "Edição limitada",
       "production_number": "291",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14498,6 +15341,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14513,6 +15357,7 @@
       "production_type": "Edição limitada",
       "production_number": "284",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14545,6 +15390,7 @@
       ]
     },
     {
+      "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
       "model": "Valhalla",
@@ -14560,6 +15406,7 @@
       "production_type": "Edição limitada",
       "production_number": "290",
       "production_total": "999",
+      "brazil_units": 9,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14582,6 +15429,7 @@
       ]
     },
     {
+      "car_model_id": 24,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "458 Italia",
@@ -14597,6 +15445,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 4,
       "market_spec": "US Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14627,6 +15476,7 @@
       ]
     },
     {
+      "car_model_id": 154,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Ford GT",
@@ -14642,6 +15492,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "50",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -14662,6 +15513,7 @@
       ]
     },
     {
+      "car_model_id": 154,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Ford GT",
@@ -14677,6 +15529,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": "Romênia",
@@ -14697,6 +15550,7 @@
       ]
     },
     {
+      "car_model_id": 154,
       "manufacturer": "Ford",
       "manufacturer_logo": "logos/22.webp",
       "model": "Ford GT",
@@ -14712,6 +15566,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "30",
+      "brazil_units": 5,
       "market_spec": "US Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14732,6 +15587,7 @@
       ]
     },
     {
+      "car_model_id": 153,
       "manufacturer": "KTM",
       "manufacturer_logo": "logos/87.webp",
       "model": "KTM X-BOW GT-XR",
@@ -14747,6 +15603,7 @@
       "production_type": "Série",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14767,6 +15624,7 @@
       ]
     },
     {
+      "car_model_id": 96,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "Senna GTR",
@@ -14783,6 +15641,7 @@
       "production_type": "Protótipo",
       "production_number": null,
       "production_total": null,
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14806,6 +15665,7 @@
       ]
     },
     {
+      "car_model_id": 108,
       "manufacturer": "Lamborghini",
       "manufacturer_logo": "logos/171.webp",
       "model": "Aventador LP780-4 Ultimae Roadster",
@@ -14821,6 +15681,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "250",
+      "brazil_units": 5,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -14841,6 +15702,7 @@
       ]
     },
     {
+      "car_model_id": 152,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "488 GTB 70th Anniversary",
@@ -14856,6 +15718,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "70",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": "Brasil",
@@ -14878,6 +15741,7 @@
       ]
     },
     {
+      "car_model_id": 55,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "F50",
@@ -14893,6 +15757,7 @@
       "production_type": "Protótipo",
       "production_number": "2",
       "production_total": "3",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": "Brasil",
@@ -14915,6 +15780,7 @@
       ]
     },
     {
+      "car_model_id": 62,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "LaFerrari Aperta",
@@ -14930,6 +15796,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "210",
+      "brazil_units": 1,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Emirados Árabes Unidos",
@@ -14950,6 +15817,7 @@
       ]
     },
     {
+      "car_model_id": 61,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "LaFerrari",
@@ -14965,6 +15833,7 @@
       "production_type": "Edição limitada",
       "production_number": "499",
       "production_total": "499",
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Hong Kong",
@@ -15010,6 +15879,7 @@
       ]
     },
     {
+      "car_model_id": 61,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "LaFerrari",
@@ -15025,6 +15895,7 @@
       "production_type": null,
       "production_number": null,
       "production_total": "499",
+      "brazil_units": 2,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -15085,6 +15956,7 @@
       ]
     },
     {
+      "car_model_id": 48,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Daytona SP3",
@@ -15100,6 +15972,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": "Brasil",
@@ -15120,6 +15993,7 @@
       ]
     },
     {
+      "car_model_id": 48,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Daytona SP3",
@@ -15135,6 +16009,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Portugal",
@@ -15155,6 +16030,7 @@
       ]
     },
     {
+      "car_model_id": 48,
       "manufacturer": "Ferrari",
       "manufacturer_logo": "logos/20.webp",
       "model": "Daytona SP3",
@@ -15170,6 +16046,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "599",
+      "brazil_units": 3,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Hong Kong",
@@ -15189,5 +16066,1083 @@
         }
       ]
     }
-  ]
+  ],
+  "markets": {
+    "101": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 6499966.666666667,
+        "count": 3,
+        "volume": 19499900.0,
+        "lowest": 6499900.0,
+        "highest": 6500000.0,
+        "most_recent": 6499900.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-04-21",
+            "y": 6500000.0,
+            "price_label": "R$ 6.500.000",
+            "date_label": "21/04/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-05-12",
+            "y": 6499900.0,
+            "price_label": "R$ 6.499.900",
+            "date_label": "12/05/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2022-08-31",
+            "y": 6500000.0,
+            "price_label": "R$ 6.500.000",
+            "date_label": "31/08/2022",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2022-08-31",
+          "y": 6500000.0
+        },
+        {
+          "x": "2026-04-21",
+          "y": 6500000.0
+        },
+        {
+          "x": "2026-05-12",
+          "y": 6499966.67
+        }
+      ]
+    },
+    "213": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 3054833.3333333335,
+        "count": 6,
+        "volume": 18329000.0,
+        "lowest": 2590000.0,
+        "highest": 3800000.0,
+        "most_recent": 2699000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2024-10-17",
+            "y": 3600000.0,
+            "price_label": "R$ 3.600.000",
+            "date_label": "17/10/2024",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-04-05",
+            "y": 2790000.0,
+            "price_label": "R$ 2.790.000",
+            "date_label": "05/04/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-05-26",
+            "y": 3800000.0,
+            "price_label": "R$ 3.800.000",
+            "date_label": "26/05/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-06-17",
+            "y": 2590000.0,
+            "price_label": "R$ 2.590.000",
+            "date_label": "17/06/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-24",
+            "y": 2850000.0,
+            "price_label": "R$ 2.850.000",
+            "date_label": "24/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-25",
+            "y": 2699000.0,
+            "price_label": "R$ 2.699.000",
+            "date_label": "25/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2024-10-17",
+          "y": 3600000.0
+        },
+        {
+          "x": "2026-04-05",
+          "y": 3195000.0
+        },
+        {
+          "x": "2026-05-26",
+          "y": 3396666.67
+        },
+        {
+          "x": "2026-06-17",
+          "y": 3060000.0
+        },
+        {
+          "x": "2026-08-24",
+          "y": 3080000.0
+        },
+        {
+          "x": "2026-08-25",
+          "y": 2713000.0
+        }
+      ]
+    },
+    "39": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 6490000.0,
+        "count": 18,
+        "volume": 116820000.0,
+        "lowest": 5400000.0,
+        "highest": 7900000.0,
+        "most_recent": 6350000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-03-11",
+            "y": 6200000.0,
+            "price_label": "R$ 6.200.000",
+            "date_label": "11/03/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-05-27",
+            "y": 5400000.0,
+            "price_label": "R$ 5.400.000",
+            "date_label": "27/05/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-06-27",
+            "y": 6300000.0,
+            "price_label": "R$ 6.300.000",
+            "date_label": "27/06/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-15",
+            "y": 6500000.0,
+            "price_label": "R$ 6.500.000",
+            "date_label": "15/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-24",
+            "y": 5700000.0,
+            "price_label": "R$ 5.700.000",
+            "date_label": "24/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-02",
+            "y": 6290000.0,
+            "price_label": "R$ 6.290.000",
+            "date_label": "02/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-27",
+            "y": 6900000.0,
+            "price_label": "R$ 6.900.000",
+            "date_label": "27/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-31",
+            "y": 5790000.0,
+            "price_label": "R$ 5.790.000",
+            "date_label": "31/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-31",
+            "y": 6350000.0,
+            "price_label": "R$ 6.350.000",
+            "date_label": "31/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2024-11-16",
+            "y": 7600000.0,
+            "price_label": "R$ 7.600.000",
+            "date_label": "16/11/2024",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-01-19",
+            "y": 7900000.0,
+            "price_label": "R$ 7.900.000",
+            "date_label": "19/01/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-03-23",
+            "y": 6900000.0,
+            "price_label": "R$ 6.900.000",
+            "date_label": "23/03/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-04-15",
+            "y": 6750000.0,
+            "price_label": "R$ 6.750.000",
+            "date_label": "15/04/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-10-03",
+            "y": 6750000.0,
+            "price_label": "R$ 6.750.000",
+            "date_label": "03/10/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-10-21",
+            "y": 6300000.0,
+            "price_label": "R$ 6.300.000",
+            "date_label": "21/10/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2026-03-30",
+            "y": 5900000.0,
+            "price_label": "R$ 5.900.000",
+            "date_label": "30/03/2026",
+            "status": "Vendido"
+          },
+          {
+            "x": "2026-04-29",
+            "y": 7000000.0,
+            "price_label": "R$ 7.000.000",
+            "date_label": "29/04/2026",
+            "status": "Vendido"
+          },
+          {
+            "x": "2026-05-18",
+            "y": 6290000.0,
+            "price_label": "R$ 6.290.000",
+            "date_label": "18/05/2026",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2024-11-16",
+          "y": 7600000.0
+        },
+        {
+          "x": "2025-01-19",
+          "y": 7750000.0
+        },
+        {
+          "x": "2025-03-23",
+          "y": 7466666.67
+        },
+        {
+          "x": "2025-04-15",
+          "y": 7183333.33
+        },
+        {
+          "x": "2025-10-03",
+          "y": 6800000.0
+        },
+        {
+          "x": "2025-10-21",
+          "y": 6600000.0
+        },
+        {
+          "x": "2026-03-11",
+          "y": 6416666.67
+        },
+        {
+          "x": "2026-03-30",
+          "y": 6133333.33
+        },
+        {
+          "x": "2026-04-29",
+          "y": 6366666.67
+        },
+        {
+          "x": "2026-05-18",
+          "y": 6396666.67
+        },
+        {
+          "x": "2026-05-27",
+          "y": 6230000.0
+        },
+        {
+          "x": "2026-06-27",
+          "y": 5996666.67
+        },
+        {
+          "x": "2026-07-15",
+          "y": 6066666.67
+        },
+        {
+          "x": "2026-07-24",
+          "y": 6166666.67
+        },
+        {
+          "x": "2026-08-02",
+          "y": 6163333.33
+        },
+        {
+          "x": "2026-08-27",
+          "y": 6296666.67
+        },
+        {
+          "x": "2026-08-31",
+          "y": 6326666.67
+        },
+        {
+          "x": "2026-08-31",
+          "y": 6346666.67
+        }
+      ]
+    },
+    "38": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 5866333.333333333,
+        "count": 3,
+        "volume": 17599000.0,
+        "lowest": 5600000.0,
+        "highest": 6000000.0,
+        "most_recent": 6000000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-08-19",
+            "y": 6000000.0,
+            "price_label": "R$ 6.000.000",
+            "date_label": "19/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2025-02-22",
+            "y": 5999000.0,
+            "price_label": "R$ 5.999.000",
+            "date_label": "22/02/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2026-04-01",
+            "y": 5600000.0,
+            "price_label": "R$ 5.600.000",
+            "date_label": "01/04/2026",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2025-02-22",
+          "y": 5999000.0
+        },
+        {
+          "x": "2026-04-01",
+          "y": 5799500.0
+        },
+        {
+          "x": "2026-08-19",
+          "y": 5866333.33
+        }
+      ]
+    },
+    "102": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 6700000.0,
+        "count": 2,
+        "volume": 13400000.0,
+        "lowest": 6500000.0,
+        "highest": 6900000.0,
+        "most_recent": 6500000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2025-04-21",
+            "y": 6900000.0,
+            "price_label": "R$ 6.900.000",
+            "date_label": "21/04/2025",
+            "status": "À venda"
+          },
+          {
+            "x": "2025-12-12",
+            "y": 6500000.0,
+            "price_label": "R$ 6.500.000",
+            "date_label": "12/12/2025",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2025-04-21",
+          "y": 6900000.0
+        },
+        {
+          "x": "2025-12-12",
+          "y": 6700000.0
+        }
+      ]
+    },
+    "32": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 8650000.0,
+        "count": 2,
+        "volume": 17300000.0,
+        "lowest": 8500000.0,
+        "highest": 8800000.0,
+        "most_recent": 8800000.0
+      },
+      "by_status": {
+        "À venda": [],
+        "Vendido": [
+          {
+            "x": "2025-06-26",
+            "y": 8500000.0,
+            "price_label": "R$ 8.500.000",
+            "date_label": "26/06/2025",
+            "status": "Vendido"
+          },
+          {
+            "x": "2025-10-01",
+            "y": 8800000.0,
+            "price_label": "R$ 8.800.000",
+            "date_label": "01/10/2025",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2025-06-26",
+          "y": 8500000.0
+        },
+        {
+          "x": "2025-10-01",
+          "y": 8650000.0
+        }
+      ]
+    },
+    "105": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 9250000.0,
+        "count": 2,
+        "volume": 18500000.0,
+        "lowest": 8500000.0,
+        "highest": 10000000.0,
+        "most_recent": 8500000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-04-23",
+            "y": 10000000.0,
+            "price_label": "R$ 10.000.000",
+            "date_label": "23/04/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-03",
+            "y": 8500000.0,
+            "price_label": "R$ 8.500.000",
+            "date_label": "03/07/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-04-23",
+          "y": 10000000.0
+        },
+        {
+          "x": "2026-07-03",
+          "y": 9250000.0
+        }
+      ]
+    },
+    "2": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 7460000.0,
+        "count": 5,
+        "volume": 37300000.0,
+        "lowest": 7300000.0,
+        "highest": 7600000.0,
+        "most_recent": 7600000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-04-23",
+            "y": 7300000.0,
+            "price_label": "R$ 7.300.000",
+            "date_label": "23/04/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-06-10",
+            "y": 7500000.0,
+            "price_label": "R$ 7.500.000",
+            "date_label": "10/06/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-13",
+            "y": 7300000.0,
+            "price_label": "R$ 7.300.000",
+            "date_label": "13/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-25",
+            "y": 7600000.0,
+            "price_label": "R$ 7.600.000",
+            "date_label": "25/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-10",
+            "y": 7600000.0,
+            "price_label": "R$ 7.600.000",
+            "date_label": "10/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-04-23",
+          "y": 7300000.0
+        },
+        {
+          "x": "2026-06-10",
+          "y": 7400000.0
+        },
+        {
+          "x": "2026-07-13",
+          "y": 7366666.67
+        },
+        {
+          "x": "2026-07-25",
+          "y": 7466666.67
+        },
+        {
+          "x": "2026-08-10",
+          "y": 7500000.0
+        }
+      ]
+    },
+    "6": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 7037500.0,
+        "count": 4,
+        "volume": 28150000.0,
+        "lowest": 6950000.0,
+        "highest": 7250000.0,
+        "most_recent": 7000000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-05-08",
+            "y": 6950000.0,
+            "price_label": "R$ 6.950.000",
+            "date_label": "08/05/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-06-15",
+            "y": 7250000.0,
+            "price_label": "R$ 7.250.000",
+            "date_label": "15/06/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-21",
+            "y": 7000000.0,
+            "price_label": "R$ 7.000.000",
+            "date_label": "21/07/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2026-05-16",
+            "y": 6950000.0,
+            "price_label": "R$ 6.950.000",
+            "date_label": "16/05/2026",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-05-08",
+          "y": 6950000.0
+        },
+        {
+          "x": "2026-05-16",
+          "y": 6950000.0
+        },
+        {
+          "x": "2026-06-15",
+          "y": 7050000.0
+        },
+        {
+          "x": "2026-07-21",
+          "y": 7066666.67
+        }
+      ]
+    },
+    "126": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 5285714.285714285,
+        "count": 7,
+        "volume": 37000000.0,
+        "lowest": 5100000.0,
+        "highest": 5600000.0,
+        "most_recent": 5250000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-05-23",
+            "y": 5350000.0,
+            "price_label": "R$ 5.350.000",
+            "date_label": "23/05/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-06-01",
+            "y": 5100000.0,
+            "price_label": "R$ 5.100.000",
+            "date_label": "01/06/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-14",
+            "y": 5200000.0,
+            "price_label": "R$ 5.200.000",
+            "date_label": "14/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-27",
+            "y": 5300000.0,
+            "price_label": "R$ 5.300.000",
+            "date_label": "27/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-10",
+            "y": 5200000.0,
+            "price_label": "R$ 5.200.000",
+            "date_label": "10/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-10",
+            "y": 5250000.0,
+            "price_label": "R$ 5.250.000",
+            "date_label": "10/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2026-05-09",
+            "y": 5600000.0,
+            "price_label": "R$ 5.600.000",
+            "date_label": "09/05/2026",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-05-09",
+          "y": 5600000.0
+        },
+        {
+          "x": "2026-05-23",
+          "y": 5475000.0
+        },
+        {
+          "x": "2026-06-01",
+          "y": 5350000.0
+        },
+        {
+          "x": "2026-07-14",
+          "y": 5216666.67
+        },
+        {
+          "x": "2026-07-27",
+          "y": 5200000.0
+        },
+        {
+          "x": "2026-08-10",
+          "y": 5233333.33
+        },
+        {
+          "x": "2026-08-10",
+          "y": 5250000.0
+        }
+      ]
+    },
+    "214": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 3900000.0,
+        "count": 2,
+        "volume": 7800000.0,
+        "lowest": 3900000.0,
+        "highest": 3900000.0,
+        "most_recent": 3900000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-06-01",
+            "y": 3900000.0,
+            "price_label": "R$ 3.900.000",
+            "date_label": "01/06/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [
+          {
+            "x": "2026-07-02",
+            "y": 3900000.0,
+            "price_label": "R$ 3.900.000",
+            "date_label": "02/07/2026",
+            "status": "Vendido"
+          }
+        ],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-06-01",
+          "y": 3900000.0
+        },
+        {
+          "x": "2026-07-02",
+          "y": 3900000.0
+        }
+      ]
+    },
+    "44": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 3900000.0,
+        "count": 1,
+        "volume": 3900000.0,
+        "lowest": 3900000.0,
+        "highest": 3900000.0,
+        "most_recent": 3900000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-06-30",
+            "y": 3900000.0,
+            "price_label": "R$ 3.900.000",
+            "date_label": "30/06/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-06-30",
+          "y": 3900000.0
+        }
+      ]
+    },
+    "69": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 6300000.0,
+        "count": 3,
+        "volume": 18900000.0,
+        "lowest": 5500000.0,
+        "highest": 6900000.0,
+        "most_recent": 6500000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-07-09",
+            "y": 6900000.0,
+            "price_label": "R$ 6.900.000",
+            "date_label": "09/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-07-21",
+            "y": 5500000.0,
+            "price_label": "R$ 5.500.000",
+            "date_label": "21/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-02",
+            "y": 6500000.0,
+            "price_label": "R$ 6.500.000",
+            "date_label": "02/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-07-09",
+          "y": 6900000.0
+        },
+        {
+          "x": "2026-07-21",
+          "y": 6200000.0
+        },
+        {
+          "x": "2026-08-02",
+          "y": 6300000.0
+        }
+      ]
+    },
+    "188": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 13500000.0,
+        "count": 1,
+        "volume": 13500000.0,
+        "lowest": 13500000.0,
+        "highest": 13500000.0,
+        "most_recent": 13500000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-07-10",
+            "y": 13500000.0,
+            "price_label": "R$ 13.500.000",
+            "date_label": "10/07/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-07-10",
+          "y": 13500000.0
+        }
+      ]
+    },
+    "24": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 2945000.0,
+        "count": 2,
+        "volume": 5890000.0,
+        "lowest": 2790000.0,
+        "highest": 3100000.0,
+        "most_recent": 2790000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-07-21",
+            "y": 3100000.0,
+            "price_label": "R$ 3.100.000",
+            "date_label": "21/07/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-08-27",
+            "y": 2790000.0,
+            "price_label": "R$ 2.790.000",
+            "date_label": "27/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-07-21",
+          "y": 3100000.0
+        },
+        {
+          "x": "2026-08-27",
+          "y": 2945000.0
+        }
+      ]
+    },
+    "42": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 8000000.0,
+        "count": 1,
+        "volume": 8000000.0,
+        "lowest": 8000000.0,
+        "highest": 8000000.0,
+        "most_recent": 8000000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-07-22",
+            "y": 8000000.0,
+            "price_label": "R$ 8.000.000",
+            "date_label": "22/07/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-07-22",
+          "y": 8000000.0
+        }
+      ]
+    },
+    "154": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 14250000.0,
+        "count": 1,
+        "volume": 14250000.0,
+        "lowest": 14250000.0,
+        "highest": 14250000.0,
+        "most_recent": 14250000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-08-22",
+            "y": 14250000.0,
+            "price_label": "R$ 14.250.000",
+            "date_label": "22/08/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-08-22",
+          "y": 14250000.0
+        }
+      ]
+    },
+    "5": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 3950000.0,
+        "count": 1,
+        "volume": 3950000.0,
+        "lowest": 3950000.0,
+        "highest": 3950000.0,
+        "most_recent": 3950000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-09-01",
+            "y": 3950000.0,
+            "price_label": "R$ 3.950.000",
+            "date_label": "01/09/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-09-01",
+          "y": 3950000.0
+        }
+      ]
+    }
+  },
+  "status_colors": {
+    "À venda": "#f4f2ec",
+    "Vendido": "#2ea043",
+    "Proposta recebida": "#d8202c",
+    "Anúncio removido": "#6b6d74"
+  }
 }
