@@ -3,6 +3,207 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "car_model_id": 273,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "750S Le Mans",
+      "model_year": 2026,
+      "colors": [
+        "Le Mans Grey"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": "35",
+      "production_total": "50",
+      "brazil_units": 1,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [
+        "numbered_edition"
+      ],
+      "cover_photo": "photos/3fefaac6a67043e287c954fe5ef223df.webp",
+      "cover_focal_x": 49.2,
+      "cover_focal_y": 46.9,
+      "photos": [
+        {
+          "url": "photos/3fefaac6a67043e287c954fe5ef223df.webp",
+          "focal_x": 49.2,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/35a5ab0e210441f8b561929badcd0b4d.webp",
+          "focal_x": 51.3,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/4b4ccee0fadc4f9b95e387324630dacf.webp",
+          "focal_x": 51.0,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/b133221cfa2940adb5d837ab2ffa6af4.webp",
+          "focal_x": 46.6,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/a269f943fd9d4d1fb3c302ad8ef09d84.webp",
+          "focal_x": 49.3,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/352c90f1a8944d0fb7107456b08e9ea3.webp",
+          "focal_x": 43.7,
+          "focal_y": 36.5
+        },
+        {
+          "url": "photos/67a8b825cfaf4c5583afe380f1c4c9f4.webp",
+          "focal_x": 51.4,
+          "focal_y": 49.1
+        }
+      ]
+    },
+    {
+      "car_model_id": 274,
+      "manufacturer": "BMW",
+      "manufacturer_logo": "logos/7.webp",
+      "model": "M3 Competition Track (G80)",
+      "model_year": 2026,
+      "colors": [
+        "Liquid Copper Metallic"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": "BMW Individual",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "Kit de Fibra de Carbono.\r\nEscapamento Luzca Supreme Exhaust.",
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/cf24117cceec4722a5349a9c4ad68f96.webp",
+      "cover_focal_x": 41.9,
+      "cover_focal_y": 40.4,
+      "photos": [
+        {
+          "url": "photos/cf24117cceec4722a5349a9c4ad68f96.webp",
+          "focal_x": 41.9,
+          "focal_y": 40.4
+        },
+        {
+          "url": "photos/83aef6bfa9f442fc8897cb64b7e05154.webp",
+          "focal_x": 50.4,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/4e35b22597784cc0823278446b9c7187.webp",
+          "focal_x": 49.8,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/dee0be7c5cb1467f89ef8c248c35cdf2.webp",
+          "focal_x": 51.9,
+          "focal_y": 41.7
+        },
+        {
+          "url": "photos/a64a7b4f8b944c008f3e9228e4b01ca6.webp",
+          "focal_x": 47.0,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/5da539349e0d4f0eb92bac439e5bc346.webp",
+          "focal_x": 55.9,
+          "focal_y": 51.6
+        },
+        {
+          "url": "photos/3c3caebc286645b1b8cb7963070a3a0c.webp",
+          "focal_x": 46.1,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/13f3ac1533d9428cb1f9e6d5b280ab87.webp",
+          "focal_x": 55.9,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/a2629c163dec49c485f2975705d44ab5.webp",
+          "focal_x": 51.2,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/ac578f1e1a9c4988873beec3e1cea05a.webp",
+          "focal_x": 50.7,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/c31a9a5d733641f18f035094de2b23f9.webp",
+          "focal_x": 44.6,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/b9f24c676b164f7c953d2b1a976765c9.webp",
+          "focal_x": 44.0,
+          "focal_y": 55.5
+        },
+        {
+          "url": "photos/fe3800410420486d8b918cbdccc21a21.webp",
+          "focal_x": 48.6,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/36aa27f18fcc4a01868557eb7f6a470e.webp",
+          "focal_x": 44.2,
+          "focal_y": 44.7
+        },
+        {
+          "url": "photos/1b75c0b1e8b14ab59ff30386935adb7d.webp",
+          "focal_x": 46.6,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/6281a366f8b9485e918368a38077579b.webp",
+          "focal_x": 49.2,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/6836eee74fd442e9a0020a89f8a7d538.webp",
+          "focal_x": 48.3,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/24051f405d054a0e8cd0a9c1434b3844.webp",
+          "focal_x": 54.0,
+          "focal_y": 60.3
+        },
+        {
+          "url": "photos/2b2cd143584c437197dc41f9488dfe1e.webp",
+          "focal_x": 53.3,
+          "focal_y": 55.5
+        },
+        {
+          "url": "photos/6841dfc069a04b1ea638a00d9c80eb7c.webp",
+          "focal_x": 50.2,
+          "focal_y": 51.6
+        }
+      ]
+    },
+    {
       "car_model_id": 81,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
@@ -623,6 +824,91 @@
           "url": "photos/2fbaec41c3764151a73c0398af7d8acf.webp",
           "focal_x": 46.8,
           "focal_y": 43.9
+        },
+        {
+          "url": "photos/336b5578501d4337bb09e8864e28a81c.webp",
+          "focal_x": 47.8,
+          "focal_y": 41.5
+        },
+        {
+          "url": "photos/1163fa7a04914e3d8d02da13cad15c72.webp",
+          "focal_x": 45.2,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/f58c65259f924bb1baecb56db2b68729.webp",
+          "focal_x": 45.5,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/3d4b851d17ac44379d1ae3f36d8c4bb9.webp",
+          "focal_x": 47.3,
+          "focal_y": 41.2
+        },
+        {
+          "url": "photos/4e8ec59a88094456b351ff531254ef23.webp",
+          "focal_x": 46.6,
+          "focal_y": 41.5
+        },
+        {
+          "url": "photos/75daf516947f4531a0ce32438ca5f7b0.webp",
+          "focal_x": 45.3,
+          "focal_y": 43.6
+        },
+        {
+          "url": "photos/132a2ecbcb1749e6ab002c242d4eb81e.webp",
+          "focal_x": 46.1,
+          "focal_y": 41.9
+        },
+        {
+          "url": "photos/d2d0cba966b546efb9230c11cc09164c.webp",
+          "focal_x": 47.4,
+          "focal_y": 43.1
+        },
+        {
+          "url": "photos/0382ce4eccf84fce97661ecc94fe67ad.webp",
+          "focal_x": 47.7,
+          "focal_y": 42.1
+        },
+        {
+          "url": "photos/45e2168bd6554559860e258c19bc1c3d.webp",
+          "focal_x": 44.7,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/56d60e2dd3704ca6871e22253031e0fc.webp",
+          "focal_x": 49.6,
+          "focal_y": 43.4
+        },
+        {
+          "url": "photos/b3eec607689e4b4ba508ed8d1bb10f8c.webp",
+          "focal_x": 49.8,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/e08238d9fb064b1eaa93934c5e4a9575.webp",
+          "focal_x": 48.2,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/6f70988d93ab4e009d5daa2c685b608b.webp",
+          "focal_x": 50.2,
+          "focal_y": 55.4
+        },
+        {
+          "url": "photos/54fcf96775434e18bc93cfbc0cdb43ec.webp",
+          "focal_x": 48.6,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/f541e6706c9f4712842029184ea841f5.webp",
+          "focal_x": 52.5,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/98959979c0af433da1c0714b0966d513.webp",
+          "focal_x": 45.8,
+          "focal_y": 43.4
         }
       ]
     },
@@ -1687,14 +1973,154 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/58c92a2534bd4d54a559630dbca78adc.webp",
-      "cover_focal_x": 50.5,
-      "cover_focal_y": 47.1,
+      "cover_photo": "photos/eb689a96d5e34357939eed1fcbaa469a.webp",
+      "cover_focal_x": 49.0,
+      "cover_focal_y": 39.6,
       "photos": [
         {
           "url": "photos/58c92a2534bd4d54a559630dbca78adc.webp",
           "focal_x": 50.5,
           "focal_y": 47.1
+        },
+        {
+          "url": "photos/bca6dd1d996b4406959e881b6a3ff87b.webp",
+          "focal_x": 49.0,
+          "focal_y": 39.6
+        },
+        {
+          "url": "photos/eb689a96d5e34357939eed1fcbaa469a.webp",
+          "focal_x": 49.0,
+          "focal_y": 39.6
+        },
+        {
+          "url": "photos/aafbdbcfb31a42a2ba8dba8e03573ba4.webp",
+          "focal_x": 44.2,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/b35dab2465034f0fb271507a6c0d7482.webp",
+          "focal_x": 44.2,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/9e74aa4c61bb4b8f805edbc6ba7d5b08.webp",
+          "focal_x": 52.5,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/f378f2cdb76c4865be810e7d5378cfe4.webp",
+          "focal_x": 48.7,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/559ddad4854b4f5ab57423db208d2d82.webp",
+          "focal_x": 52.5,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/a1b4c628e5bb4da8ad1e486f81a4cfaa.webp",
+          "focal_x": 48.7,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/3a9a6e300e4040ca821c2b40ccbcf5d6.webp",
+          "focal_x": 50.2,
+          "focal_y": 55.2
+        },
+        {
+          "url": "photos/68d56a7b26024536b17ac2478ae44c6c.webp",
+          "focal_x": 48.8,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/48e95ef024924b2bb6c7b924bdef782a.webp",
+          "focal_x": 48.8,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/ec64b54891c5404299cefa25ff25ceee.webp",
+          "focal_x": 48.5,
+          "focal_y": 45.9
+        },
+        {
+          "url": "photos/033135380c5643b3a2e45e4ca0238db7.webp",
+          "focal_x": 48.5,
+          "focal_y": 45.9
+        },
+        {
+          "url": "photos/85fdeccbee5f44949c42c726c4dae321.webp",
+          "focal_x": 53.6,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/276436eae7414e84855765e0658574dc.webp",
+          "focal_x": 50.2,
+          "focal_y": 55.2
+        },
+        {
+          "url": "photos/5d0de046d07b44f087c5711a6078e580.webp",
+          "focal_x": 53.6,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/bfd1daa0c8ee4081bd2f8eda3d84a0ab.webp",
+          "focal_x": 46.9,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/dcad828cad7a4af6a00688d6d169bc2a.webp",
+          "focal_x": 46.9,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/4c0d07930cab427cbbc4c9fa8f453f14.webp",
+          "focal_x": 55.6,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/ab8b4f2a587641d6963419b5c6d535d5.webp",
+          "focal_x": 55.6,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/26a82e3507334ab391e66d1cc26cb69c.webp",
+          "focal_x": 48.8,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/fd9a3d5934c941f1b6c2252b4149f208.webp",
+          "focal_x": 48.8,
+          "focal_y": 57.5
+        },
+        {
+          "url": "photos/55f00360d8c7413d9021873d2d3dbe05.webp",
+          "focal_x": 48.8,
+          "focal_y": 57.5
+        },
+        {
+          "url": "photos/8d6231662e3c45a199f9dcf290e03bc4.webp",
+          "focal_x": 48.8,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/501327d2a5d84e2593b0884495aa21d9.webp",
+          "focal_x": 48.8,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/6494ceaf2cf5400f80bddb197ffc7fb7.webp",
+          "focal_x": 48.8,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/0bec7e39c8a74f499ebf2845e7ae97d5.webp",
+          "focal_x": 51.1,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/4417ba3a605a4bdabd8fc4eca5d87121.webp",
+          "focal_x": 51.1,
+          "focal_y": 44.9
         }
       ]
     },
@@ -3960,9 +4386,9 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/5e0598115cd74d44b14bbe7fce9b67de.webp",
-      "cover_focal_x": 51.1,
-      "cover_focal_y": 58.5,
+      "cover_photo": "photos/ea32e3b970234627890ca8126e4fb69d.webp",
+      "cover_focal_x": 51.6,
+      "cover_focal_y": 49.1,
       "photos": [
         {
           "url": "photos/5e0598115cd74d44b14bbe7fce9b67de.webp",
@@ -4008,6 +4434,71 @@
           "url": "photos/eebdc7f0ad8f40ec9db987276ca92623.webp",
           "focal_x": 50.4,
           "focal_y": 52.3
+        },
+        {
+          "url": "photos/ea32e3b970234627890ca8126e4fb69d.webp",
+          "focal_x": 51.6,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/335e9fda92514ce6a26296537cd44283.webp",
+          "focal_x": 54.6,
+          "focal_y": 52.3
+        },
+        {
+          "url": "photos/6e32febdb521435a81095588565a8c6d.webp",
+          "focal_x": 49.1,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/d7b1eb97a99b43a3bd36ae5047888625.webp",
+          "focal_x": 50.4,
+          "focal_y": 51.2
+        },
+        {
+          "url": "photos/db791784b0154641a7a3b4c68d0ef905.webp",
+          "focal_x": 51.5,
+          "focal_y": 55.7
+        },
+        {
+          "url": "photos/5720036d38ff43ac8711584a7f39deed.webp",
+          "focal_x": 44.0,
+          "focal_y": 59.3
+        },
+        {
+          "url": "photos/6c0333d55da94d8e858c9892cf48dfd1.webp",
+          "focal_x": 51.8,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/c0ea3b192f694f2eb9c1de0fb61064f1.webp",
+          "focal_x": 50.6,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/f7e2325522684a8491ff7ab163395ef8.webp",
+          "focal_x": 49.3,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/600cf7643a564e8181f7f6b7f7fe3001.webp",
+          "focal_x": 56.3,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/b19f54b647bd4dffae08505846fca385.webp",
+          "focal_x": 48.2,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/ad005e79acd74c80808fb35fca14aba3.webp",
+          "focal_x": 57.3,
+          "focal_y": 45.6
+        },
+        {
+          "url": "photos/e5719dfb8c8c4de19d9fe877fe136704.webp",
+          "focal_x": 45.8,
+          "focal_y": 47.3
         }
       ]
     },
@@ -5859,7 +6350,9 @@
       "manufacturer_logo": "logos/36.webp",
       "model": "MC20 Cielo",
       "model_year": null,
-      "colors": [],
+      "colors": [
+        "Grigio Incognito"
+      ],
       "status": "Ativo",
       "steering": "LHD",
       "transmission": "Automático",
@@ -6656,7 +7149,7 @@
       "import_type": "Importação oficial",
       "origin_country": null,
       "current_country": "brasil",
-      "modifications": null,
+      "modifications": "Escapamento R-Flow.",
       "accident_history": "O carro possui histórico de acidente.",
       "notes": "O carro já teve nitro.",
       "highlights": [],
@@ -6703,6 +7196,36 @@
           "url": "photos/d86da9c1933242f0b7c2972761ff3c86.webp",
           "focal_x": 47.9,
           "focal_y": 46.3
+        },
+        {
+          "url": "photos/ffa34cddd3334f35adc7a64b6acca529.webp",
+          "focal_x": 50.5,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/abcaae08231942179fc0a3e1804d786f.webp",
+          "focal_x": 47.8,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/6fd54a8aee1a4ef19ba10e5fbdcd08e2.webp",
+          "focal_x": 53.5,
+          "focal_y": 49.7
+        },
+        {
+          "url": "photos/ef8e4108e1294723a91cf3e23d1da0d9.webp",
+          "focal_x": 51.2,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/461f6aaded044b94bcc28d97eafd5c2a.webp",
+          "focal_x": 50.1,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/f00197e231744c749c94524f25d3f38a.webp",
+          "focal_x": 50.4,
+          "focal_y": 46.5
         }
       ]
     },
@@ -8192,12 +8715,12 @@
       "transmission": "Automático",
       "drivetrain": "Integral",
       "program": "Q by Aston Martin",
-      "production_type": null,
-      "production_number": null,
-      "production_total": null,
-      "brazil_units": null,
-      "market_spec": null,
-      "import_type": null,
+      "production_type": "Edição limitada",
+      "production_number": "362",
+      "production_total": "999",
+      "brazil_units": 10,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
       "origin_country": null,
       "current_country": "Brasil",
       "modifications": null,
@@ -8255,9 +8778,9 @@
       "drivetrain": "Integral",
       "program": "Q by Aston Martin",
       "production_type": "Edição limitada",
-      "production_number": null,
+      "production_number": "365",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": null,
       "origin_country": null,
@@ -8353,6 +8876,11 @@
           "url": "photos/46eaac89f39546d797cd50137f7c1449.webp",
           "focal_x": 46.7,
           "focal_y": 56.1
+        },
+        {
+          "url": "photos/e01f38e2c0a74295be451aa77c75a447.webp",
+          "focal_x": 52.3,
+          "focal_y": 44.5
         }
       ]
     },
@@ -8398,6 +8926,21 @@
           "url": "photos/dbd5c1eebe5d4318a2b1b1bde0002784.webp",
           "focal_x": 46.1,
           "focal_y": 58.2
+        },
+        {
+          "url": "photos/40988e51485840889f67dbda98cbfd8d.webp",
+          "focal_x": 53.1,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/ad91d72e76344d08aff3136c964cd83d.webp",
+          "focal_x": 48.7,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/048b8d03758a4385a107f2412430e386.webp",
+          "focal_x": 50.4,
+          "focal_y": 45.1
         }
       ]
     },
@@ -8417,7 +8960,7 @@
       "drivetrain": "Traseira",
       "program": null,
       "production_type": "Edição limitada",
-      "production_number": null,
+      "production_number": "17",
       "production_total": "25",
       "brazil_units": null,
       "market_spec": "Euro Spec",
@@ -8458,6 +9001,76 @@
           "url": "photos/46a8e73e667c49da82b93e61cfc7fed3.webp",
           "focal_x": 53.7,
           "focal_y": 47.8
+        },
+        {
+          "url": "photos/6b418b42f8794d6bbcbf106dc19d1e68.webp",
+          "focal_x": 52.9,
+          "focal_y": 42.7
+        },
+        {
+          "url": "photos/bef617a20de642b48eb72a3715a09ffd.webp",
+          "focal_x": 47.5,
+          "focal_y": 50.5
+        },
+        {
+          "url": "photos/fdaf62c7e4db41d9ab4b3e93465be1df.webp",
+          "focal_x": 49.8,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/c945e3125c8940e88421de984c1329ad.webp",
+          "focal_x": 45.4,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/f0c85509b2714ee4a12751b186049aef.webp",
+          "focal_x": 45.1,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/ff584a0156ad4338916629b780f75c14.webp",
+          "focal_x": 53.2,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/6f3ee1a510cf4fef94d4f937d72b5e97.webp",
+          "focal_x": 51.9,
+          "focal_y": 55.1
+        },
+        {
+          "url": "photos/5db6946f3d2c45b2a91febda6f6e7663.webp",
+          "focal_x": 43.1,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/eceb1ac096174ab1966894aa77666da7.webp",
+          "focal_x": 49.6,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/0239debbdbee471cba53a03b259a2bf8.webp",
+          "focal_x": 50.3,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/5b0370a3f08140469006e0109bcd5cf1.webp",
+          "focal_x": 50.8,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/c33b8de43561499a96e9d4428596f4a4.webp",
+          "focal_x": 51.0,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/d771db2d405e44f7be901f26f09e6215.webp",
+          "focal_x": 54.9,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/a71f8e38e8b044699347e54acc562943.webp",
+          "focal_x": 51.2,
+          "focal_y": 48.5
         }
       ]
     },
@@ -8489,9 +9102,9 @@
       "highlights": [
         "numbered_edition"
       ],
-      "cover_photo": "photos/9ebaac53713847938269cacaca95066c.webp",
-      "cover_focal_x": 51.4,
-      "cover_focal_y": 57.9,
+      "cover_photo": "photos/e54064a7d9e44ec8aef602daaa05d059.webp",
+      "cover_focal_x": 44.9,
+      "cover_focal_y": 55.7,
       "photos": [
         {
           "url": "photos/5421310ed5e2491c89ad2259532329c3.webp",
@@ -8517,6 +9130,46 @@
           "url": "photos/9ebaac53713847938269cacaca95066c.webp",
           "focal_x": 51.4,
           "focal_y": 57.9
+        },
+        {
+          "url": "photos/e54064a7d9e44ec8aef602daaa05d059.webp",
+          "focal_x": 44.9,
+          "focal_y": 55.7
+        },
+        {
+          "url": "photos/058faa9a350d4fd3a0d4c35f7b7d88ff.webp",
+          "focal_x": 52.6,
+          "focal_y": 53.8
+        },
+        {
+          "url": "photos/778b9d9c7084490382b87eaf94622b4b.webp",
+          "focal_x": 48.8,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/72fdcf8817f64a8290108b71ee4490e7.webp",
+          "focal_x": 49.0,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/77f3def9aa0b4d0ebbd2717a8ae1dce5.webp",
+          "focal_x": 48.9,
+          "focal_y": 40.4
+        },
+        {
+          "url": "photos/829d5d41d22d4761af4c7fdb0a6e022a.webp",
+          "focal_x": 52.2,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/1fc2d91afe0c4231b15a39bff2ccd2d9.webp",
+          "focal_x": 49.3,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/7b6459bb87a5461fbd300b2f73400e25.webp",
+          "focal_x": 46.9,
+          "focal_y": 41.7
         }
       ]
     },
@@ -15383,7 +16036,7 @@
       "production_type": "Edição limitada",
       "production_number": "052",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Bélgica",
@@ -15394,9 +16047,9 @@
       "highlights": [
         "numbered_edition"
       ],
-      "cover_photo": "photos/7fc9406723c942b789943b5048fdcbe1.jpg",
-      "cover_focal_x": 50.6,
-      "cover_focal_y": 45.6,
+      "cover_photo": "photos/ecec8411b45f4250b9d27e8859809468.webp",
+      "cover_focal_x": 47.2,
+      "cover_focal_y": 53.7,
       "photos": [
         {
           "url": "photos/7fc9406723c942b789943b5048fdcbe1.jpg",
@@ -15417,6 +16070,36 @@
           "url": "photos/e64ebcad03404b32a076ef13aa8e5faf.webp",
           "focal_x": 47.8,
           "focal_y": 49.3
+        },
+        {
+          "url": "photos/ecec8411b45f4250b9d27e8859809468.webp",
+          "focal_x": 47.2,
+          "focal_y": 53.7
+        },
+        {
+          "url": "photos/563d4c33a74a498cb7ff3a9b14e4808f.webp",
+          "focal_x": 51.7,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/99222b6aab1c45698155bde5bc7b482d.webp",
+          "focal_x": 49.0,
+          "focal_y": 52.2
+        },
+        {
+          "url": "photos/9a62d669b1e1434d88d077603127040d.webp",
+          "focal_x": 46.6,
+          "focal_y": 50.6
+        },
+        {
+          "url": "photos/febdfefefe274b9c87db29000878b1c5.webp",
+          "focal_x": 51.5,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/8618748c48744ddaa39d9944794afec2.webp",
+          "focal_x": 52.0,
+          "focal_y": 51.6
         }
       ]
     },
@@ -15437,7 +16120,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -15486,7 +16169,7 @@
       "production_type": "Edição limitada",
       "production_number": "059",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -15525,7 +16208,7 @@
       "production_type": "Edição limitada",
       "production_number": "288",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -15574,7 +16257,7 @@
       "production_type": "Edição limitada",
       "production_number": "291",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -15623,7 +16306,7 @@
       "production_type": "Edição limitada",
       "production_number": "284",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -15672,7 +16355,7 @@
       "production_type": "Edição limitada",
       "production_number": "290",
       "production_total": "999",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -17122,16 +17805,15 @@
         "most_recent": 3900000.0
       },
       "by_status": {
-        "À venda": [
+        "À venda": [],
+        "Vendido": [
           {
             "x": "2026-06-01",
             "y": 3900000.0,
             "price_label": "R$ 3.900.000",
             "date_label": "01/06/2026",
-            "status": "À venda"
-          }
-        ],
-        "Vendido": [
+            "status": "Vendido"
+          },
           {
             "x": "2026-07-02",
             "y": 3900000.0,
@@ -17198,13 +17880,6 @@
       "by_status": {
         "À venda": [
           {
-            "x": "2026-07-09",
-            "y": 6900000.0,
-            "price_label": "R$ 6.900.000",
-            "date_label": "09/07/2026",
-            "status": "À venda"
-          },
-          {
             "x": "2026-07-21",
             "y": 5500000.0,
             "price_label": "R$ 5.500.000",
@@ -17219,7 +17894,15 @@
             "status": "À venda"
           }
         ],
-        "Vendido": [],
+        "Vendido": [
+          {
+            "x": "2026-07-09",
+            "y": 6900000.0,
+            "price_label": "R$ 6.900.000",
+            "date_label": "09/07/2026",
+            "status": "Vendido"
+          }
+        ],
         "Proposta recebida": [],
         "Anúncio removido": []
       },
@@ -17401,6 +18084,37 @@
         {
           "x": "2026-09-01",
           "y": 3950000.0
+        }
+      ]
+    },
+    "82": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 2900000.0,
+        "count": 1,
+        "volume": 2900000.0,
+        "lowest": 2900000.0,
+        "highest": 2900000.0,
+        "most_recent": 2900000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-09-12",
+            "y": 2900000.0,
+            "price_label": "R$ 2.900.000",
+            "date_label": "12/09/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-09-12",
+          "y": 2900000.0
         }
       ]
     }
