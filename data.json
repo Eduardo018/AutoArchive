@@ -3,11 +3,318 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "car_model_id": 275,
+      "manufacturer": "Mercedes-Benz",
+      "manufacturer_logo": "logos/39.webp",
+      "model": "CLK GTR (W297)",
+      "model_year": 1997,
+      "colors": [
+        "Brilliant Silver"
+      ],
+      "status": "Exportado",
+      "steering": "LHD",
+      "transmission": "Manual",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": "05",
+      "production_total": "07",
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": "Brasil",
+      "current_country": "Estados Unidos",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [
+        "numbered_edition",
+        "competition_vehicle"
+      ],
+      "cover_photo": "photos/0c2a2778a917487fb05bbd97ad28813f.webp",
+      "cover_focal_x": 48.5,
+      "cover_focal_y": 45.5,
+      "photos": [
+        {
+          "url": "photos/0c2a2778a917487fb05bbd97ad28813f.webp",
+          "focal_x": 48.5,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/11f3bd7ceb2947f29f22578b28047ab6.webp",
+          "focal_x": 51.0,
+          "focal_y": 43.8
+        },
+        {
+          "url": "photos/2c282dbad394431fbe80c132a5a8a0c9.webp",
+          "focal_x": 47.4,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/57bb3f97a2be4cefbf3c9b6135649707.webp",
+          "focal_x": 49.3,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/142be4fbdb944ccba8e7136eaea9c235.webp",
+          "focal_x": 51.6,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/319072b6076b455ba316b1e8078c927f.webp",
+          "focal_x": 55.6,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/3950f59d80db41bcbf37695275b313f5.webp",
+          "focal_x": 51.4,
+          "focal_y": 43.7
+        },
+        {
+          "url": "photos/9595d0b425754f7487e8eb22912f16c8.webp",
+          "focal_x": 49.9,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/177d9eaf21e7430c9f0ac7f4dac65a5b.webp",
+          "focal_x": 48.3,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/06efd4bbfae846a18361fcff3a8d1b97.webp",
+          "focal_x": 48.1,
+          "focal_y": 42.5
+        },
+        {
+          "url": "photos/b5e499379cc14094a07fa4ea0a1ba10a.webp",
+          "focal_x": 51.6,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/694a4505b2e44fc292b09397fb0761d5.webp",
+          "focal_x": 48.7,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/f34eeed178ea4342a14d577ed7239560.webp",
+          "focal_x": 47.9,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/0489d253de3649a38e6073c078fb84ef.webp",
+          "focal_x": 53.2,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/2059ebba4ab54f5bae48118f4b166f86.webp",
+          "focal_x": 51.0,
+          "focal_y": 46.4
+        },
+        {
+          "url": "photos/77f2811fb71648b7a5198a59efaeb7ec.webp",
+          "focal_x": 50.9,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/bda4c84bbb4b4727950af3e70d528c89.webp",
+          "focal_x": 48.5,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/32da6f5341df4bc5a91f1ccca6d0eeb6.webp",
+          "focal_x": 47.4,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/28b9de5ab62d4dd285ddacaae91065c6.webp",
+          "focal_x": 50.4,
+          "focal_y": 47.9
+        }
+      ]
+    },
+    {
+      "car_model_id": 5,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "296 GTS",
+      "model_year": 2024,
+      "colors": [
+        "Nero DS"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": "N-Largo",
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "15",
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/d69c4c1942ff4ea6913524752108cfb0.webp",
+      "cover_focal_x": 50.2,
+      "cover_focal_y": 43.1,
+      "photos": [
+        {
+          "url": "photos/3fa8d45a11ce425abb6d3870273106cb.webp",
+          "focal_x": 49.2,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/d48b509d9e0b448d85c2ad916c7f3e03.webp",
+          "focal_x": 44.1,
+          "focal_y": 41.6
+        },
+        {
+          "url": "photos/4405b807f8644a5ea96d56c6b3c79ae6.webp",
+          "focal_x": 53.2,
+          "focal_y": 52.3
+        },
+        {
+          "url": "photos/09131252bdd3487cbb01c67c97a4c4be.webp",
+          "focal_x": 46.8,
+          "focal_y": 44.3
+        },
+        {
+          "url": "photos/ac319c8f55cd4543be133353daaa3472.webp",
+          "focal_x": 46.9,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/f0f07f29e5064d24a1c0f9728076236a.webp",
+          "focal_x": 51.3,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/41455a4bccfa43019500ba268b591852.webp",
+          "focal_x": 52.1,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/a73b47803a5b432091d341bbd5c3491e.webp",
+          "focal_x": 50.6,
+          "focal_y": 48.1
+        },
+        {
+          "url": "photos/e3885eb1ed704e12b041327bfed5b031.webp",
+          "focal_x": 45.0,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/80c763cc4f684972848124df7ff3b91a.webp",
+          "focal_x": 48.5,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/451c45aef56344fa830a437eea80b4e2.webp",
+          "focal_x": 49.0,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/f62ef353ec30447d9325e06ccf75a885.webp",
+          "focal_x": 52.2,
+          "focal_y": 43.7
+        },
+        {
+          "url": "photos/600b014ceee545b0b43afba9e6425f0b.webp",
+          "focal_x": 39.0,
+          "focal_y": 44.1
+        },
+        {
+          "url": "photos/e9f551030a544f78bf7d8d578ee00a82.webp",
+          "focal_x": 58.4,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/622650dc9b7b43d2a8d96c4234d2b0c2.webp",
+          "focal_x": 55.9,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/5ab90eb3f9624d17bdc778d04fd8a738.webp",
+          "focal_x": 56.4,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/13025ea4e5a24c64b11d6ef1054f59b0.webp",
+          "focal_x": 48.5,
+          "focal_y": 54.3
+        },
+        {
+          "url": "photos/f1e0f72a29484e85a0f03e4919a8eda8.webp",
+          "focal_x": 52.5,
+          "focal_y": 48.1
+        },
+        {
+          "url": "photos/b964ac22157345379747811ed4098955.webp",
+          "focal_x": 49.0,
+          "focal_y": 51.1
+        },
+        {
+          "url": "photos/bb1a82d9829b49ada17bd862cd9d3fbe.webp",
+          "focal_x": 49.9,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/10c548d87fbe497995f631e02acd0497.webp",
+          "focal_x": 49.1,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/7bc4f5e536c945a6ab4a4badf5e57be2.webp",
+          "focal_x": 50.2,
+          "focal_y": 43.2
+        },
+        {
+          "url": "photos/8ffc0c42182e4a888eb0545aea52652b.webp",
+          "focal_x": 47.1,
+          "focal_y": 55.4
+        },
+        {
+          "url": "photos/47d4003cabe04ef08602f646e340504d.webp",
+          "focal_x": 50.8,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/62e68d14d36d4ba7955018b406b843d8.webp",
+          "focal_x": 50.1,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/f3e03bd865a044cea553619ff7b90233.webp",
+          "focal_x": 53.2,
+          "focal_y": 57.0
+        },
+        {
+          "url": "photos/7dccde2b55014acaab9616789200fbb9.webp",
+          "focal_x": 44.7,
+          "focal_y": 52.4
+        },
+        {
+          "url": "photos/d44e9939a8f242cf9ad53de4f3f1872c.webp",
+          "focal_x": 52.0,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/d69c4c1942ff4ea6913524752108cfb0.webp",
+          "focal_x": 50.2,
+          "focal_y": 43.1
+        }
+      ]
+    },
+    {
       "car_model_id": 273,
       "manufacturer": "McLaren",
       "manufacturer_logo": "logos/211.webp",
       "model": "750S Le Mans",
-      "model_year": 2026,
+      "model_year": 2027,
       "colors": [
         "Le Mans Grey"
       ],
@@ -645,7 +952,7 @@
       "model": "720S Spider",
       "model_year": 2020,
       "colors": [
-        "China Blue"
+        "Victory Grey"
       ],
       "status": "Ativo",
       "steering": "LHD",
@@ -7666,14 +7973,74 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/e090eb1108ba4498a618e1a133a879a1.webp",
-      "cover_focal_x": 49.3,
-      "cover_focal_y": 42.4,
+      "cover_photo": "photos/bda728eee1de443f953e3354983fe0c1.webp",
+      "cover_focal_x": 52.5,
+      "cover_focal_y": 42.7,
       "photos": [
         {
           "url": "photos/e090eb1108ba4498a618e1a133a879a1.webp",
           "focal_x": 49.3,
           "focal_y": 42.4
+        },
+        {
+          "url": "photos/bda728eee1de443f953e3354983fe0c1.webp",
+          "focal_x": 52.5,
+          "focal_y": 42.7
+        },
+        {
+          "url": "photos/fd018d10eb4044099b6961a14d640ad4.webp",
+          "focal_x": 47.9,
+          "focal_y": 41.3
+        },
+        {
+          "url": "photos/f336ffaf58214cec990d7c81385b0293.webp",
+          "focal_x": 46.3,
+          "focal_y": 41.1
+        },
+        {
+          "url": "photos/8a5db7e466694512a99c4878489c289f.webp",
+          "focal_x": 52.9,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/2682a313e35142cbb1cc7180d3531861.webp",
+          "focal_x": 50.9,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/0a1fdcd8f5d84eeda60de816549b6827.webp",
+          "focal_x": 45.7,
+          "focal_y": 52.0
+        },
+        {
+          "url": "photos/07a5096d2073450cbb84b182d95a5d54.webp",
+          "focal_x": 53.2,
+          "focal_y": 42.9
+        },
+        {
+          "url": "photos/9391c95f29ff4ca191c9a2b041482eb4.webp",
+          "focal_x": 51.6,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/83e7a40fca094185986c24513789ec9d.webp",
+          "focal_x": 51.8,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/e17627199acf49d6a341dbf01f0e9527.webp",
+          "focal_x": 40.7,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/e8e1ab819d2947c7a30f27f083cc094f.webp",
+          "focal_x": 48.1,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/1692fbefecb1473e9a65717304918210.webp",
+          "focal_x": 42.8,
+          "focal_y": 49.1
         }
       ]
     },
@@ -9364,9 +9731,44 @@
       "cover_focal_y": 46.7,
       "photos": [
         {
+          "url": "photos/66b2cb4d925f48ab93faa989416db0ab.webp",
+          "focal_x": 49.7,
+          "focal_y": 48.2
+        },
+        {
           "url": "photos/b51c70dae5714d08aa1e66212dce7f71.jpeg",
           "focal_x": 47.0,
           "focal_y": 46.7
+        },
+        {
+          "url": "photos/c0b167d95b774a09bc69755c926d01f7.webp",
+          "focal_x": 54.4,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/80e460d3f6534d3c9cb77a6e8b3b164d.webp",
+          "focal_x": 49.9,
+          "focal_y": 43.0
+        },
+        {
+          "url": "photos/0215fa9660bf4c7bb6ae96e76752e465.webp",
+          "focal_x": 52.6,
+          "focal_y": 43.3
+        },
+        {
+          "url": "photos/55a5fb3014c74eb796bfe183837ec33c.webp",
+          "focal_x": 49.5,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/91e5963197ed43f59702e1efadea01d3.webp",
+          "focal_x": 53.4,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/4d1126e39a0846a586931e8aa79b8d15.webp",
+          "focal_x": 50.6,
+          "focal_y": 45.1
         }
       ]
     },
@@ -14719,7 +15121,7 @@
       "model": "812 Competizione",
       "model_year": 2024,
       "colors": [
-        "Sanusilver"
+        "Sanu Silver"
       ],
       "status": "Ativo",
       "steering": "LHD",
