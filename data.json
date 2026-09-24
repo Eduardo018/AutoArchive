@@ -3,6 +3,1153 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "car_model_id": 279,
+      "manufacturer": "Mercedes-Benz",
+      "manufacturer_logo": "logos/39.webp",
+      "model": "AMG GT Black Series (C190)",
+      "model_year": 2021,
+      "colors": [
+        "British Racing Green"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "1700",
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/551277530da348b9bc1be231102490b6.webp",
+      "cover_focal_x": 51.7,
+      "cover_focal_y": 46.9,
+      "photos": [
+        {
+          "url": "photos/551277530da348b9bc1be231102490b6.webp",
+          "focal_x": 51.7,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/3f6fb903c905494eaff4c360376aca30.webp",
+          "focal_x": 47.4,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/b55faf9ca0fa48eab6c9e0a5cd187038.webp",
+          "focal_x": 43.1,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/376360dfa9914b919772245ee21cc388.webp",
+          "focal_x": 50.5,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/2bbdb4abb90c4d2e8ad89baea9c849c3.webp",
+          "focal_x": 49.2,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/51896be94cd143858de6c91d29d0b56d.webp",
+          "focal_x": 49.1,
+          "focal_y": 44.2
+        }
+      ]
+    },
+    {
+      "car_model_id": 278,
+      "manufacturer": "Mercedes-Benz",
+      "manufacturer_logo": "logos/39.webp",
+      "model": "G63 AMG (W463) Mansory Gronos Limited Edition",
+      "model_year": 2021,
+      "colors": [
+        "British Racing Green"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": "10",
+      "brazil_units": 1,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/1e6ab0233b314d9591599ae8c2c46f05.webp",
+      "cover_focal_x": 47.4,
+      "cover_focal_y": 51.9,
+      "photos": [
+        {
+          "url": "photos/1e6ab0233b314d9591599ae8c2c46f05.webp",
+          "focal_x": 47.4,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/ea3ce769f1fe4726881bdeaf3756a6be.webp",
+          "focal_x": 49.5,
+          "focal_y": 43.3
+        },
+        {
+          "url": "photos/fe4eba9f69854da9ba38f5ff4d24ac42.webp",
+          "focal_x": 54.2,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/60dedb9afd814e649e26e466daba0efd.webp",
+          "focal_x": 55.6,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/16c9701fd75548f6b40a8cb1f5d32b04.webp",
+          "focal_x": 51.8,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/530da402df0f49e48bc0adab726769fe.webp",
+          "focal_x": 42.0,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/70c7b2c5669b40ad8b8aea54bbbd1602.webp",
+          "focal_x": 49.3,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/d046e01d99924faa9fa8f0443029b41c.webp",
+          "focal_x": 48.6,
+          "focal_y": 50.3
+        },
+        {
+          "url": "photos/2558d4ec62eb400a81103aa74f272ef9.webp",
+          "focal_x": 49.0,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/387a71f1d0d9425e8377b14fe3364626.webp",
+          "focal_x": 51.3,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/4882e1e16ace43c1a2622bc306452128.webp",
+          "focal_x": 53.1,
+          "focal_y": 53.5
+        },
+        {
+          "url": "photos/1a2e59143f1c42ecac663be7787b4a38.webp",
+          "focal_x": 53.6,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/9c74dadc8d6a464d82c8caa3e81d18ed.webp",
+          "focal_x": 51.5,
+          "focal_y": 51.8
+        },
+        {
+          "url": "photos/8e79f6ad6f7d4821b71b364c6c91f8c7.webp",
+          "focal_x": 49.8,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/388018543cb2449786659a393281630a.webp",
+          "focal_x": 50.9,
+          "focal_y": 52.1
+        },
+        {
+          "url": "photos/40b387464f88412099d0e59b926e6851.webp",
+          "focal_x": 42.6,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/849e24b18933400685dd3e521ef8d772.webp",
+          "focal_x": 49.8,
+          "focal_y": 50.5
+        },
+        {
+          "url": "photos/047738e93a474cf8aa2ed75717737439.webp",
+          "focal_x": 48.8,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/2ea82f9792ab4dfc92a4130e1f1c7fb3.webp",
+          "focal_x": 51.9,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/0b9041b5e2724b40ad808a1dcd6d760f.webp",
+          "focal_x": 54.6,
+          "focal_y": 36.7
+        },
+        {
+          "url": "photos/357d46fb8eb94279955f65a617379303.webp",
+          "focal_x": 44.9,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/2280f946a23c4d0bbec91a621f1b888a.webp",
+          "focal_x": 40.5,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/25e0c85d657747769cf3f98cb7eba4fb.webp",
+          "focal_x": 46.8,
+          "focal_y": 50.9
+        },
+        {
+          "url": "photos/92b51cf367da46cc8cab9dc9f74b066d.webp",
+          "focal_x": 51.1,
+          "focal_y": 52.2
+        },
+        {
+          "url": "photos/ded242371fcb4ead969c6aea1da0d714.webp",
+          "focal_x": 51.0,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/f02143364a9d4dcfbefce80e2ac9c06f.webp",
+          "focal_x": 46.2,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/ce529b014d374471aa06d2db6b69964e.webp",
+          "focal_x": 51.9,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/453bee3e54274c118e74838feb715f1b.webp",
+          "focal_x": 53.2,
+          "focal_y": 55.3
+        }
+      ]
+    },
+    {
+      "car_model_id": 90,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "Artura Spider",
+      "model_year": 2025,
+      "colors": [
+        "Ivy Green"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": "MSO",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": "O carro possui histórico de acidente.",
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/1ccb610dab2c41b9811f284492be304b.webp",
+      "cover_focal_x": 46.8,
+      "cover_focal_y": 44.6,
+      "photos": [
+        {
+          "url": "photos/1ccb610dab2c41b9811f284492be304b.webp",
+          "focal_x": 46.8,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/a93c3cde65084647b747614ff737176f.webp",
+          "focal_x": 48.9,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/910833e140124cdb86960f0a74b18da9.webp",
+          "focal_x": 51.8,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/aaa13df907df4782b320ed54c98c56ce.webp",
+          "focal_x": 44.5,
+          "focal_y": 54.3
+        },
+        {
+          "url": "photos/a59683bf0dad41b49c6f0ddf925d73b7.webp",
+          "focal_x": 51.9,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/89e799f0f028489589a5541d9cab086a.webp",
+          "focal_x": 49.9,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/f9d7bfca6af647abb506f51b9424f8cf.webp",
+          "focal_x": 54.0,
+          "focal_y": 44.7
+        },
+        {
+          "url": "photos/3c8e3523d1784a08a305c37455c52343.webp",
+          "focal_x": 61.6,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/c81ed22d268e4d96b141aee70d187bb4.webp",
+          "focal_x": 48.1,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/6102d39f2742436cb721e95839cf2ec6.webp",
+          "focal_x": 53.6,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/eb30f75cba4e498c9173c37b978b913a.webp",
+          "focal_x": 59.1,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/b457cd1bc06945828db11aa7ed453667.webp",
+          "focal_x": 47.9,
+          "focal_y": 50.9
+        },
+        {
+          "url": "photos/09cedcbc1635484886ab5b1902f71d80.webp",
+          "focal_x": 49.9,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/e4cdef2dfd224484b23ad8a80965cd7f.webp",
+          "focal_x": 46.9,
+          "focal_y": 40.3
+        },
+        {
+          "url": "photos/bcc35e2f008f4f96838b94e13c1b9136.webp",
+          "focal_x": 44.2,
+          "focal_y": 47.4
+        }
+      ]
+    },
+    {
+      "car_model_id": 89,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "Artura",
+      "model_year": 2025,
+      "colors": [
+        "Serpentine"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": "MSO",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/727d662d1a8445168af3b1a9f9b47ebd.webp",
+      "cover_focal_x": 49.8,
+      "cover_focal_y": 43.0,
+      "photos": [
+        {
+          "url": "photos/727d662d1a8445168af3b1a9f9b47ebd.webp",
+          "focal_x": 49.8,
+          "focal_y": 43.0
+        },
+        {
+          "url": "photos/9d2e9b8807d441268a8357c4efe98ee8.webp",
+          "focal_x": 49.8,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/39277c80f3e94ba4aac0ae55c10525d8.webp",
+          "focal_x": 50.3,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/7da885d0c4bb4428adceef35fff3266b.webp",
+          "focal_x": 46.5,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/bc7eecd441b6497eae3c4d19f2312993.webp",
+          "focal_x": 45.1,
+          "focal_y": 41.1
+        },
+        {
+          "url": "photos/294a1ec85e7245df89fc61293aa3dd94.webp",
+          "focal_x": 46.0,
+          "focal_y": 45.9
+        },
+        {
+          "url": "photos/222bc691ba164727aef6ccac7a755dc3.webp",
+          "focal_x": 51.0,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/221e54ff36254ba590595dd83c5b03bc.webp",
+          "focal_x": 47.6,
+          "focal_y": 40.6
+        },
+        {
+          "url": "photos/3d4543933c694ccd87eb84efc7a48b47.webp",
+          "focal_x": 51.4,
+          "focal_y": 43.2
+        },
+        {
+          "url": "photos/fcef4db903194dcd94ee69b9236ad290.webp",
+          "focal_x": 52.9,
+          "focal_y": 41.9
+        },
+        {
+          "url": "photos/2a0678b74b39447685729c6986d41246.webp",
+          "focal_x": 53.4,
+          "focal_y": 40.2
+        },
+        {
+          "url": "photos/dfddc12e60354057b08fc2b98764743c.webp",
+          "focal_x": 52.7,
+          "focal_y": 47.2
+        }
+      ]
+    },
+    {
+      "car_model_id": 92,
+      "manufacturer": "McLaren",
+      "manufacturer_logo": "logos/211.webp",
+      "model": "GTS",
+      "model_year": 2025,
+      "colors": [
+        "Serpentine"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": null,
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/659881ef1a7b427da6cb702fbe1869a9.webp",
+      "cover_focal_x": 48.2,
+      "cover_focal_y": 47.6,
+      "photos": [
+        {
+          "url": "photos/659881ef1a7b427da6cb702fbe1869a9.webp",
+          "focal_x": 48.2,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/9665336eb7bc446aabc8cfc2d9a3dd9b.webp",
+          "focal_x": 50.4,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/a521b2738c83420aac69c24b6e37b547.webp",
+          "focal_x": 50.2,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/d4c2f1f9013244fabc03cec184497bb7.webp",
+          "focal_x": 47.2,
+          "focal_y": 49.1
+        }
+      ]
+    },
+    {
+      "car_model_id": 49,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "F12berlinetta",
+      "model_year": 2014,
+      "colors": [
+        "Giallo Triplo Strato"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "US Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "Escapamento Innotech.",
+      "accident_history": null,
+      "notes": "Importada oficialmente em 2015 por cerca de R$ 3,4 milhões, essa unidade recebeu um escape Innotech em 2019. Após anos sendo anunciada para venda, desapareceu e reapareceu em junho de 2025 em um leilão extrajudicial, com cerca de 8.800 km e lance inicial de R$ 2,3 milhões. Arrematada, foi levada para Santa Catarina e voltou a circular em Florianópolis.",
+      "highlights": [],
+      "cover_photo": "photos/5a5a45f9e0d34a4cb6fcb10bbec42230.webp",
+      "cover_focal_x": 50.3,
+      "cover_focal_y": 48.1,
+      "photos": [
+        {
+          "url": "photos/5a5a45f9e0d34a4cb6fcb10bbec42230.webp",
+          "focal_x": 50.3,
+          "focal_y": 48.1
+        },
+        {
+          "url": "photos/2ebaebcfdf3f494abef0f22c95478a04.webp",
+          "focal_x": 51.7,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/902cb4588f7a49f2a1494638f4ea0fec.webp",
+          "focal_x": 48.6,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/02740e85e1324f008d25815ada31273e.webp",
+          "focal_x": 48.9,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/0a13fd378ccb4a91931f81680350c60e.webp",
+          "focal_x": 48.5,
+          "focal_y": 46.3
+        },
+        {
+          "url": "photos/758b48b0de5f41a28347b54054c207d0.webp",
+          "focal_x": 51.7,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/1d5b0744be4848d8a80f76c8b9d6fbd9.webp",
+          "focal_x": 49.9,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/b6a58ad7e25d447ab1fd4504a623b111.webp",
+          "focal_x": 48.8,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/9a8c50d4fb6242dbb67aabf4ab30974c.webp",
+          "focal_x": 50.4,
+          "focal_y": 40.8
+        },
+        {
+          "url": "photos/f53fb55ccee9440c91cbac586a754906.webp",
+          "focal_x": 55.4,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/3f2c652c64c84c2e96c603ea25cf22fe.webp",
+          "focal_x": 44.5,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/50b00f27cfc845c8827e99909a28aaf3.webp",
+          "focal_x": 52.5,
+          "focal_y": 43.6
+        },
+        {
+          "url": "photos/02f8635341214c55b61734ffa51c2cb9.webp",
+          "focal_x": 46.8,
+          "focal_y": 52.0
+        },
+        {
+          "url": "photos/0f29eddbf63c45bf934a41c746bd3886.webp",
+          "focal_x": 47.4,
+          "focal_y": 50.3
+        },
+        {
+          "url": "photos/f5ffaa8df46140f288b717da72e4b0c1.webp",
+          "focal_x": 46.5,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/de6e29138d7148f0b4cf02b9eba44160.webp",
+          "focal_x": 50.6,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/4f06f747aea94b3ab095af1a5697456b.webp",
+          "focal_x": 46.5,
+          "focal_y": 41.5
+        },
+        {
+          "url": "photos/fed00bb07de6471d98879657447eede7.webp",
+          "focal_x": 51.6,
+          "focal_y": 53.1
+        },
+        {
+          "url": "photos/afd71a13355c49e9a6327519a86c6dc9.webp",
+          "focal_x": 45.7,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/1d8cc217a4aa437f855d638a71dec22e.webp",
+          "focal_x": 50.6,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/d1fc66b706154015a6dc5270b059a5b2.webp",
+          "focal_x": 51.6,
+          "focal_y": 41.0
+        },
+        {
+          "url": "photos/888c274959b142d983edd5e05e63f15e.webp",
+          "focal_x": 48.4,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/e35be4d099bd4ea3b615d27e0bc06062.webp",
+          "focal_x": 48.9,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/e47fcabc71e045f1b566a545cb925a7e.webp",
+          "focal_x": 50.0,
+          "focal_y": 52.9
+        },
+        {
+          "url": "photos/7b50eee0e87a4351b3e4442e25ca8379.webp",
+          "focal_x": 50.0,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/0a1250c356cd4c95b72331b84e9cace3.webp",
+          "focal_x": 50.4,
+          "focal_y": 45.3
+        },
+        {
+          "url": "photos/8cdb84d22c844ab3847dcbf3730c40d3.webp",
+          "focal_x": 46.8,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/149b7f6e3ace43f7b9ef74215b2adec7.webp",
+          "focal_x": 48.2,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/1d8f3c34e4a84e1d8b1427b7dff4e52d.webp",
+          "focal_x": 52.2,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/6cd9a13882ba4923a2f382a2092a46c4.webp",
+          "focal_x": 47.9,
+          "focal_y": 50.8
+        },
+        {
+          "url": "photos/dab07be82754404e9cc53797b33ecb5c.webp",
+          "focal_x": 60.1,
+          "focal_y": 40.9
+        },
+        {
+          "url": "photos/48342102e50c43dbb88fd3e85ee9a1ee.webp",
+          "focal_x": 49.9,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/5ae3a2a8737e4ec59fa5a001c87e48b3.webp",
+          "focal_x": 47.5,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/b03173dd9855401e91e449e9389e9845.webp",
+          "focal_x": 47.4,
+          "focal_y": 40.4
+        },
+        {
+          "url": "photos/4f634f107ee84b77b3cb0f99dea73f93.webp",
+          "focal_x": 54.6,
+          "focal_y": 43.5
+        },
+        {
+          "url": "photos/890f9c3cba0544a9acc9477167a30e4d.webp",
+          "focal_x": 51.4,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/f850156f0dbc48779fc394863f43079b.webp",
+          "focal_x": 49.6,
+          "focal_y": 43.5
+        },
+        {
+          "url": "photos/028340521f2e49bfa44fc2d6b5f5fdd8.webp",
+          "focal_x": 47.1,
+          "focal_y": 54.9
+        },
+        {
+          "url": "photos/11b50c1c3a2647f3a2f7fc327b4b80bb.webp",
+          "focal_x": 47.0,
+          "focal_y": 53.2
+        },
+        {
+          "url": "photos/02c328e75aa74bae8b92ef3fff777e25.webp",
+          "focal_x": 48.2,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/dff6c4c7b3894497bd033b52fe81f5c4.webp",
+          "focal_x": 46.3,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/7adce1d7b5694c7dbf25686deb3dc9a9.webp",
+          "focal_x": 57.2,
+          "focal_y": 43.1
+        }
+      ]
+    },
+    {
+      "car_model_id": 39,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "812 GTS",
+      "model_year": 2023,
+      "colors": [
+        "Giallo Triplo Strato"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": null,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/f3f542b9a6e940d1b15d92671a4e2ea2.webp",
+      "cover_focal_x": 45.5,
+      "cover_focal_y": 51.5,
+      "photos": [
+        {
+          "url": "photos/f3f542b9a6e940d1b15d92671a4e2ea2.webp",
+          "focal_x": 45.5,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/c80a9dbc2ad44a409900f6ac376f4962.webp",
+          "focal_x": 47.9,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/e1a537ac513c4ad1ae78fae48605a24e.webp",
+          "focal_x": 46.3,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/f3e9d1eaf4174d15b3e4e059489594ea.webp",
+          "focal_x": 49.9,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/ac0c0c38a35641c58c254f73e9a61b3b.webp",
+          "focal_x": 52.3,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/a362c6640acc424c894a8236e2c6c61b.webp",
+          "focal_x": 50.7,
+          "focal_y": 43.1
+        },
+        {
+          "url": "photos/229329b0cbfd4831ac03fc1c4498f9b0.webp",
+          "focal_x": 48.4,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/8a68dd8a4eb34c8b93e7a6238f512d6a.webp",
+          "focal_x": 51.7,
+          "focal_y": 50.8
+        },
+        {
+          "url": "photos/cde65bd5e7274cde8c99827e62e07348.webp",
+          "focal_x": 49.6,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/c6b55c8bcae841b9b5c726e93ad8c743.webp",
+          "focal_x": 62.1,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/348f14d57c61487a91a7f9fe5646f417.webp",
+          "focal_x": 53.4,
+          "focal_y": 45.9
+        },
+        {
+          "url": "photos/0a16e215ea8c4bcea7c299906a11dca9.webp",
+          "focal_x": 49.5,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/2773ae8817ae49d280e6315706794c66.webp",
+          "focal_x": 47.5,
+          "focal_y": 46.4
+        }
+      ]
+    },
+    {
+      "car_model_id": 68,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "SF90 Stradale",
+      "model_year": 2022,
+      "colors": [
+        "Giallo Triplo Strato"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 44,
+      "market_spec": "Japan Spec",
+      "import_type": "Importação independente",
+      "origin_country": "Japão",
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/4e6f807b7663499fa6b59ca58dae276c.webp",
+      "cover_focal_x": 48.1,
+      "cover_focal_y": 46.0,
+      "photos": [
+        {
+          "url": "photos/4e6f807b7663499fa6b59ca58dae276c.webp",
+          "focal_x": 48.1,
+          "focal_y": 46.0
+        },
+        {
+          "url": "photos/2666336924ed4a44a5e78c0b525a66ac.webp",
+          "focal_x": 49.3,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/9bcfacb9e1d94e51a6090f651f1fa4e9.webp",
+          "focal_x": 51.6,
+          "focal_y": 46.3
+        },
+        {
+          "url": "photos/99db9cca7fc8427ea2563ace7720c358.webp",
+          "focal_x": 48.9,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/9db2f369c7bf41a7bccd6bdc9ec00378.webp",
+          "focal_x": 50.6,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/63aa17d4486b4deda10641849ebea17a.webp",
+          "focal_x": 52.4,
+          "focal_y": 43.2
+        }
+      ]
+    },
+    {
+      "car_model_id": 69,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "SF90 Spider",
+      "model_year": null,
+      "colors": [
+        "Bianco Italia"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 33,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/a6287dedec4548828e45e786fdd08006.webp",
+      "cover_focal_x": 49.7,
+      "cover_focal_y": 47.0,
+      "photos": [
+        {
+          "url": "photos/a6287dedec4548828e45e786fdd08006.webp",
+          "focal_x": 49.7,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/e0efc36e6c414024b6b5ef914d06698a.webp",
+          "focal_x": 50.4,
+          "focal_y": 43.4
+        },
+        {
+          "url": "photos/3c83c4d6d6e34e8aadf1aa67de847232.webp",
+          "focal_x": 53.9,
+          "focal_y": 43.5
+        },
+        {
+          "url": "photos/f27e0c8befa746c8b36f9e494566eb6d.webp",
+          "focal_x": 38.8,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/2b16a8b84fff4815babeb375b41958b9.webp",
+          "focal_x": 60.9,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/fac7b809cca94b40a9cdf5f36beccbc9.webp",
+          "focal_x": 49.3,
+          "focal_y": 52.9
+        },
+        {
+          "url": "photos/c9e3caba60114a0ba8b2d2d2c143fcd5.webp",
+          "focal_x": 49.5,
+          "focal_y": 43.7
+        },
+        {
+          "url": "photos/78295abf57eb47c4a4274f5fa9a8ccc6.webp",
+          "focal_x": 42.2,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/fa2052a75c3d436ea6cfb701b95a08f6.webp",
+          "focal_x": 51.3,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/a7bad65735b74b98b5a955a4ca4f102f.webp",
+          "focal_x": 51.5,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/86daf7ed7ee34377824fbefb847c97a3.webp",
+          "focal_x": 53.1,
+          "focal_y": 49.9
+        }
+      ]
+    },
+    {
+      "car_model_id": 68,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "SF90 Stradale",
+      "model_year": 2021,
+      "colors": [
+        "Bianco Italia"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 44,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/a89b7d60b173412e99cee4e6f499938a.webp",
+      "cover_focal_x": 51.6,
+      "cover_focal_y": 47.7,
+      "photos": [
+        {
+          "url": "photos/a89b7d60b173412e99cee4e6f499938a.webp",
+          "focal_x": 51.6,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/b9830570d37b45fa959e2ca71fe15c8e.webp",
+          "focal_x": 49.1,
+          "focal_y": 50.9
+        },
+        {
+          "url": "photos/3623edc6f3994a518ae1af32fad6d8cd.webp",
+          "focal_x": 53.3,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/2841443a69184363a9986b72d5d0645f.webp",
+          "focal_x": 51.3,
+          "focal_y": 47.9
+        },
+        {
+          "url": "photos/f70905f7bf0a44638798b794ff13532d.webp",
+          "focal_x": 45.1,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/14e7b7bab54b4299a8bd41b65b1678fc.webp",
+          "focal_x": 42.5,
+          "focal_y": 50.6
+        },
+        {
+          "url": "photos/24f9cdb1775a44248ed1f55cfb119c3b.webp",
+          "focal_x": 52.2,
+          "focal_y": 43.0
+        },
+        {
+          "url": "photos/b0c54185ebbd46e290c0bbcf9a368c5b.webp",
+          "focal_x": 51.6,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/418d059779a049d28b36298b01629a78.webp",
+          "focal_x": 50.9,
+          "focal_y": 41.7
+        },
+        {
+          "url": "photos/a795b487718649a79a8d0636ef3cdc8b.webp",
+          "focal_x": 49.7,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/a19e98167d1641068d95999aaeccfbb8.webp",
+          "focal_x": 46.0,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/df1c9e9f1a1e49bd9493def7ebcb4163.webp",
+          "focal_x": 50.0,
+          "focal_y": 40.0
+        }
+      ]
+    },
+    {
+      "car_model_id": 69,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "SF90 Spider",
+      "model_year": 2022,
+      "colors": [
+        "Bianco Avus"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Integral",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 33,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/3786aa94fddf4cd99f6cc4c2ea89b9cc.webp",
+      "cover_focal_x": 49.6,
+      "cover_focal_y": 54.2,
+      "photos": [
+        {
+          "url": "photos/3786aa94fddf4cd99f6cc4c2ea89b9cc.webp",
+          "focal_x": 49.6,
+          "focal_y": 54.2
+        },
+        {
+          "url": "photos/84df6985454f4968bada86b91f304f82.webp",
+          "focal_x": 49.3,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/72e8b35854624fc794dd2753466c39c7.webp",
+          "focal_x": 51.8,
+          "focal_y": 52.2
+        },
+        {
+          "url": "photos/6734608d30c84828b7370d1d2a380068.webp",
+          "focal_x": 52.9,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/15f8f3cc0105452682515faea13b91d6.webp",
+          "focal_x": 50.6,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/072b0cdb73374d27b604516852bd3a30.webp",
+          "focal_x": 47.9,
+          "focal_y": 53.3
+        },
+        {
+          "url": "photos/598be61be4604abd85eecfb768a91883.webp",
+          "focal_x": 46.4,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/54e305d67e3d4d69a33d35455dfcbd07.webp",
+          "focal_x": 49.2,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/fff1236e1ae244f1bc93877842b40e37.webp",
+          "focal_x": 49.2,
+          "focal_y": 50.8
+        },
+        {
+          "url": "photos/2dcb670f09c149548e77ffb9fbe48fbf.webp",
+          "focal_x": 55.1,
+          "focal_y": 50.9
+        }
+      ]
+    },
+    {
       "car_model_id": 188,
       "manufacturer": "Aston Martin",
       "manufacturer_logo": "logos/189.webp",
@@ -13965,7 +15112,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14002,7 +15149,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suíça",
@@ -14039,7 +15186,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Dinamarca",
@@ -14076,7 +15223,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -14118,7 +15265,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Espanha",
@@ -14135,6 +15282,66 @@
           "url": "photos/4e92d93bb16240b18eaab1114cc98ffc.jpg",
           "focal_x": 49.1,
           "focal_y": 49.0
+        },
+        {
+          "url": "photos/bdb7989f5fd345e3891510b2c05b115d.webp",
+          "focal_x": 49.8,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/03e04d596c504fa9899929c4dffd2228.webp",
+          "focal_x": 54.8,
+          "focal_y": 50.3
+        },
+        {
+          "url": "photos/b6ceff341b6c45dc91bdec69edec4d1f.webp",
+          "focal_x": 53.0,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/09466732997c4539a13f470cde88c700.webp",
+          "focal_x": 45.8,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/3bf160678f984a448acbeaa0ebd08846.webp",
+          "focal_x": 48.4,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/6e64e7f176834318ba967946d179b5ec.webp",
+          "focal_x": 43.5,
+          "focal_y": 55.3
+        },
+        {
+          "url": "photos/47b1aff5ce3c4ee5909ca2362a2d3a5c.webp",
+          "focal_x": 52.2,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/515023fcf6254a8b92592d234551733f.webp",
+          "focal_x": 47.0,
+          "focal_y": 51.2
+        },
+        {
+          "url": "photos/0f43260a8d3542b5ad3d04e48270eed0.webp",
+          "focal_x": 50.1,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/c97f760884d345f88a3a3a61a49baacc.webp",
+          "focal_x": 41.6,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/04b64d40c91e497e9ca2f13a8aa7d7ca.webp",
+          "focal_x": 54.0,
+          "focal_y": 42.1
+        },
+        {
+          "url": "photos/eea24df112194dd495e378cf7ede3797.webp",
+          "focal_x": 46.7,
+          "focal_y": 50.3
         }
       ]
     },
@@ -14155,7 +15362,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -14164,14 +15371,44 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/35c7de1680f841c79f88ef7c23811c5e.jpg",
-      "cover_focal_x": 53.8,
-      "cover_focal_y": 45.5,
+      "cover_photo": "photos/0e0828bfa8944765ad02e0f8f80a7f85.webp",
+      "cover_focal_x": 55.1,
+      "cover_focal_y": 57.8,
       "photos": [
+        {
+          "url": "photos/0e0828bfa8944765ad02e0f8f80a7f85.webp",
+          "focal_x": 55.1,
+          "focal_y": 57.8
+        },
         {
           "url": "photos/35c7de1680f841c79f88ef7c23811c5e.jpg",
           "focal_x": 53.8,
           "focal_y": 45.5
+        },
+        {
+          "url": "photos/b00b85b5289342b0b2ecc70b30300af6.webp",
+          "focal_x": 53.4,
+          "focal_y": 53.1
+        },
+        {
+          "url": "photos/058e1a7f9b624f6ab79fa2a7b498b76a.webp",
+          "focal_x": 51.8,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/e26b8cf9c5974db597942d024e299ebd.webp",
+          "focal_x": 46.7,
+          "focal_y": 54.2
+        },
+        {
+          "url": "photos/c4477c6aeb87469599f1dcf57b3975e9.webp",
+          "focal_x": 49.8,
+          "focal_y": 41.3
+        },
+        {
+          "url": "photos/3eb8520f80ea4ad5a35073232d668f2c.webp",
+          "focal_x": 44.9,
+          "focal_y": 47.8
         }
       ]
     },
@@ -14192,7 +15429,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14229,7 +15466,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14266,7 +15503,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14414,7 +15651,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "800",
-      "brazil_units": null,
+      "brazil_units": 10,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14451,7 +15688,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14488,7 +15725,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14525,7 +15762,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14562,7 +15799,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14599,7 +15836,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Itália",
@@ -14638,7 +15875,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Bélgica",
@@ -14675,7 +15912,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Áustria",
@@ -14712,7 +15949,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -14749,7 +15986,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Suécia",
@@ -14786,7 +16023,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Mônaco",
@@ -14823,7 +16060,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -14862,7 +16099,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -14902,7 +16139,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": "900",
-      "brazil_units": null,
+      "brazil_units": 13,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "Alemanha",
@@ -17447,7 +18684,7 @@
       "import_type": "Importação independente",
       "origin_country": "Estados Unidos",
       "current_country": "Brasil",
-      "modifications": null,
+      "modifications": "Recebeu o Weissach Package.",
       "accident_history": null,
       "notes": null,
       "highlights": [
@@ -19493,16 +20730,16 @@
         "most_recent": 13500000.0
       },
       "by_status": {
-        "À venda": [
+        "À venda": [],
+        "Vendido": [
           {
             "x": "2026-07-10",
             "y": 13500000.0,
             "price_label": "R$ 13.500.000",
             "date_label": "10/07/2026",
-            "status": "À venda"
+            "status": "Vendido"
           }
         ],
-        "Vendido": [],
         "Proposta recebida": [],
         "Anúncio removido": []
       },
