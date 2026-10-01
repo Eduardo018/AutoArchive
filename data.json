@@ -3,6 +3,1845 @@
   "site_subtitle": "",
   "vehicles": [
     {
+      "car_model_id": 31,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista Spider",
+      "model_year": 2020,
+      "colors": [
+        "Rosso Maranello"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 8,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": "Escapamento Secret Weapon.",
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/f9bc76dfaa684aa3a14fcf1f5b634523.webp",
+      "cover_focal_x": 44.6,
+      "cover_focal_y": 45.2,
+      "photos": [
+        {
+          "url": "photos/f9bc76dfaa684aa3a14fcf1f5b634523.webp",
+          "focal_x": 44.6,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/a3032015859c4810b660dbe9d487d69a.webp",
+          "focal_x": 54.0,
+          "focal_y": 52.1
+        },
+        {
+          "url": "photos/1a30d3dc6be14770995f163d027b8a26.webp",
+          "focal_x": 46.2,
+          "focal_y": 40.7
+        },
+        {
+          "url": "photos/53c82380bd5c4e859084b64ca868dddc.webp",
+          "focal_x": 53.2,
+          "focal_y": 43.8
+        },
+        {
+          "url": "photos/83e53a472a2642c7b4a09d198fa8874e.webp",
+          "focal_x": 42.3,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/98122ad5fbc7489b991ea92c617831e6.webp",
+          "focal_x": 52.8,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/9fa91381803b4d029d1563db5a715ac9.webp",
+          "focal_x": 50.7,
+          "focal_y": 41.8
+        }
+      ]
+    },
+    {
+      "car_model_id": 31,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista Spider",
+      "model_year": 2020,
+      "colors": [
+        "Rosso Fuoco"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Edição limitada",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 8,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": null,
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/11de6fa15af743d6a7bb71af9f6219c5.webp",
+      "cover_focal_x": 53.1,
+      "cover_focal_y": 49.2,
+      "photos": [
+        {
+          "url": "photos/11de6fa15af743d6a7bb71af9f6219c5.webp",
+          "focal_x": 53.1,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/fd1b1827968c466a9a6fe4e4af5ac3d1.webp",
+          "focal_x": 49.7,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/887219a8498040cf82bc9f9f156c7f07.webp",
+          "focal_x": 48.1,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/0ed74178d497402fa46b4b34d7370952.webp",
+          "focal_x": 50.7,
+          "focal_y": 57.1
+        },
+        {
+          "url": "photos/1bcd32a3bea542a5af4b73e2bea4cea5.webp",
+          "focal_x": 51.9,
+          "focal_y": 53.1
+        },
+        {
+          "url": "photos/45d9aee5be034731ae14d885f4980384.webp",
+          "focal_x": 51.2,
+          "focal_y": 52.4
+        },
+        {
+          "url": "photos/ab8cc5398a3b4d76855598cdca390ef9.webp",
+          "focal_x": 51.8,
+          "focal_y": 51.8
+        },
+        {
+          "url": "photos/3af5be781a8849349fa270685a0b4aa1.webp",
+          "focal_x": 50.3,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/14d2b165a6e7478c8ab9c0765f766e02.webp",
+          "focal_x": 46.8,
+          "focal_y": 44.1
+        },
+        {
+          "url": "photos/f21a45b9391c4a73b5894cd552463966.webp",
+          "focal_x": 50.2,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/917c7da8c64b47c7abc908c083cf4dcd.webp",
+          "focal_x": 41.6,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/a3545681d5054c8ca298c4828e77ff99.webp",
+          "focal_x": 50.6,
+          "focal_y": 49.7
+        },
+        {
+          "url": "photos/23f3c69961dd41b1a003784d343b7cbe.webp",
+          "focal_x": 48.3,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/0e04c9e32fb440d199c6e2aa20d2dc9a.webp",
+          "focal_x": 49.0,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/20f2824601e14b8cac97e5705d702f25.webp",
+          "focal_x": 52.4,
+          "focal_y": 52.9
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": null,
+      "colors": [
+        "Rosso Scuderia"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": null,
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/715aaab384844c168af07a47369ffe7c.webp",
+      "cover_focal_x": 56.8,
+      "cover_focal_y": 41.8,
+      "photos": [
+        {
+          "url": "photos/715aaab384844c168af07a47369ffe7c.webp",
+          "focal_x": 56.8,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/cbab0b70ceac477f817ae3a425f605ab.webp",
+          "focal_x": 47.0,
+          "focal_y": 48.9
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Grigio Silverstone Opaco"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/e7dfec9d7e854f089b69ca91fa7c2e7f.webp",
+      "cover_focal_x": 48.7,
+      "cover_focal_y": 46.4,
+      "photos": [
+        {
+          "url": "photos/e7dfec9d7e854f089b69ca91fa7c2e7f.webp",
+          "focal_x": 48.7,
+          "focal_y": 46.4
+        },
+        {
+          "url": "photos/73e6faa9d50e4a679557a8a152461810.webp",
+          "focal_x": 50.9,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/7936e507e02a4d82ae0cf7f401191aa6.webp",
+          "focal_x": 47.7,
+          "focal_y": 41.6
+        },
+        {
+          "url": "photos/21125bb9465b4db3a38a35d2833356f1.webp",
+          "focal_x": 51.9,
+          "focal_y": 54.2
+        },
+        {
+          "url": "photos/88b55cdbee0f495a9abf30597eb6c480.webp",
+          "focal_x": 49.6,
+          "focal_y": 53.3
+        },
+        {
+          "url": "photos/f9b5a73426e84f158fa114356cd6c455.webp",
+          "focal_x": 50.5,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/51dfef15dfee479bae669cae8f522e99.webp",
+          "focal_x": 50.1,
+          "focal_y": 52.3
+        },
+        {
+          "url": "photos/8c0688ec0de54a4fad2ada4bc740c410.webp",
+          "focal_x": 49.7,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/996e805ba55441f288ab990b8fc45a03.webp",
+          "focal_x": 49.6,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/7f070b4357bf4626a1614ddbdcb40c01.webp",
+          "focal_x": 51.6,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/8a6730083515466f99fde17e2bf9260c.webp",
+          "focal_x": 52.5,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/2326c869cdfa4274b4d2766b9519b9ff.webp",
+          "focal_x": 47.3,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/f725588ad20840a59865fce8fd964196.webp",
+          "focal_x": 49.4,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/b809e22e1d9a4b4996be7739087cd55c.webp",
+          "focal_x": 57.2,
+          "focal_y": 53.9
+        },
+        {
+          "url": "photos/c4053ecdab3441e08c6b090b892df944.webp",
+          "focal_x": 40.1,
+          "focal_y": 54.8
+        },
+        {
+          "url": "photos/d4562a5ad0494bdd8b333dbec85e9272.webp",
+          "focal_x": 50.8,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/3a0b20f0cb0d43c1b268233baea07637.webp",
+          "focal_x": 54.4,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/a549de3a8d5f4bb1b5c436e0b051e898.webp",
+          "focal_x": 57.7,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/b63bf17f22704f449da3c0505f858d2f.webp",
+          "focal_x": 51.4,
+          "focal_y": 57.1
+        },
+        {
+          "url": "photos/7020c805d2184633b6685f64f847e5d8.webp",
+          "focal_x": 50.7,
+          "focal_y": 53.7
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Grigio Scuro"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/40299e0cbb294e96bb650d427ee0bdcb.webp",
+      "cover_focal_x": 48.1,
+      "cover_focal_y": 49.0,
+      "photos": [
+        {
+          "url": "photos/40299e0cbb294e96bb650d427ee0bdcb.webp",
+          "focal_x": 48.1,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/6af7da6116914fabbc8e077998c30e86.webp",
+          "focal_x": 47.6,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/7504235ad261476ea582764dda630618.webp",
+          "focal_x": 50.3,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/6711ffe420dd41769e2f082243a1decb.webp",
+          "focal_x": 53.5,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/2045865772da450b98fae8a2b2ac8e81.webp",
+          "focal_x": 44.6,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/129f125212534285b2918c38b8807e0d.webp",
+          "focal_x": 51.6,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/11ce0c7667e545068a3fe37c5358e50b.webp",
+          "focal_x": 52.1,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/c80abee486b24a748c4ed73286144905.webp",
+          "focal_x": 54.6,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/c4c9cb35e23948e2be04a48a34f26b3c.webp",
+          "focal_x": 53.9,
+          "focal_y": 46.4
+        },
+        {
+          "url": "photos/544eea9c2c27406abb9d2842d1d00048.webp",
+          "focal_x": 47.3,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/885c432e6c544394813256ebc4da5c3f.webp",
+          "focal_x": 54.3,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/69d1ab78197343d7868acba2ed749822.webp",
+          "focal_x": 49.9,
+          "focal_y": 43.8
+        },
+        {
+          "url": "photos/e1e048504bb84388bf445ad47d9c6c3d.webp",
+          "focal_x": 50.3,
+          "focal_y": 57.1
+        },
+        {
+          "url": "photos/3f38098d66164733b7a36a60d922de0a.webp",
+          "focal_x": 51.3,
+          "focal_y": 52.5
+        },
+        {
+          "url": "photos/1efa97907fb04d6b8250650a066981b6.webp",
+          "focal_x": 40.6,
+          "focal_y": 52.8
+        },
+        {
+          "url": "photos/2cfebc5e1bed4796b5158e9a56d6e3bb.webp",
+          "focal_x": 49.3,
+          "focal_y": 39.5
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Bianco Italia"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/ea3c16df73184ef7a79320adf9349666.webp",
+      "cover_focal_x": 50.0,
+      "cover_focal_y": 46.3,
+      "photos": [
+        {
+          "url": "photos/ea3c16df73184ef7a79320adf9349666.webp",
+          "focal_x": 50.0,
+          "focal_y": 46.3
+        },
+        {
+          "url": "photos/a2d5b43d209e4d4c9cd7f77fda66bdce.webp",
+          "focal_x": 54.4,
+          "focal_y": 52.5
+        },
+        {
+          "url": "photos/d432555e36324058a99a3d62e782ecd2.webp",
+          "focal_x": 48.0,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/d8bc320b6ed74325a9763a3c5ded9403.webp",
+          "focal_x": 47.1,
+          "focal_y": 50.8
+        },
+        {
+          "url": "photos/ee9a7e1cc05b4c28b7ac5960e56983eb.webp",
+          "focal_x": 53.2,
+          "focal_y": 46.3
+        },
+        {
+          "url": "photos/dc2b2030411f44629048377a930986cf.webp",
+          "focal_x": 52.4,
+          "focal_y": 43.7
+        },
+        {
+          "url": "photos/9435e51108ef4c3081bfa1b481c4241e.webp",
+          "focal_x": 50.4,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/df8793e0129f4031b808a74eaf5bea02.webp",
+          "focal_x": 50.8,
+          "focal_y": 40.2
+        },
+        {
+          "url": "photos/6f65ba80d5e34e5da545addb59433003.webp",
+          "focal_x": 46.3,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/73f3c1e049e741b392a8a2e690676607.webp",
+          "focal_x": 50.0,
+          "focal_y": 46.4
+        },
+        {
+          "url": "photos/38c3bea6ac674592b16df08cda522a6c.webp",
+          "focal_x": 50.8,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/9daf61201bf74b9fb7d9c1accfd99677.webp",
+          "focal_x": 52.6,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/34fc6bd8372f49db872c47653d3ce156.webp",
+          "focal_x": 51.2,
+          "focal_y": 48.9
+        },
+        {
+          "url": "photos/d2acb0d606994f7286368f9da6ac5eba.webp",
+          "focal_x": 53.6,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/d745d9f3a7ae4aa6971293324f0812ac.webp",
+          "focal_x": 52.8,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/6caf00bbaffe4a51849214220dc64b2d.webp",
+          "focal_x": 49.8,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/028fbcda96a6402081f554c82bc7d130.webp",
+          "focal_x": 54.6,
+          "focal_y": 51.1
+        },
+        {
+          "url": "photos/022a566ae144463a8ab9abc102408f07.webp",
+          "focal_x": 51.4,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/7cf033579c4240abac9d02761b3f1442.webp",
+          "focal_x": 50.1,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/dab19590b84c49b0948f69fcf09704bd.webp",
+          "focal_x": 58.3,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/711277adfdfe43f8abf37d4f1d6b51dc.webp",
+          "focal_x": 50.2,
+          "focal_y": 51.0
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": null,
+      "colors": [
+        "Alluminio Opaco"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/c3f4cd091c734cfc97154142912e9604.webp",
+      "cover_focal_x": 53.6,
+      "cover_focal_y": 42.4,
+      "photos": [
+        {
+          "url": "photos/c3f4cd091c734cfc97154142912e9604.webp",
+          "focal_x": 53.6,
+          "focal_y": 42.4
+        },
+        {
+          "url": "photos/2ad11fc4446147528f40d9a58e6ad3f3.webp",
+          "focal_x": 49.0,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/1600af36748e450d93b0e36ca2c9c658.webp",
+          "focal_x": 49.8,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/693c5bf6fe8e4563b25fadac1c9c8544.webp",
+          "focal_x": 49.0,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/d333cd8b2c6e407ba3633d14cc2ad2e9.webp",
+          "focal_x": 49.1,
+          "focal_y": 56.4
+        },
+        {
+          "url": "photos/4b050c92008a487e8a284259e81b0269.webp",
+          "focal_x": 50.3,
+          "focal_y": 45.8
+        },
+        {
+          "url": "photos/b79050eab53c4c55b0cbc8f6964d1233.webp",
+          "focal_x": 57.0,
+          "focal_y": 51.1
+        },
+        {
+          "url": "photos/266e29ace259474c8146b824434a44f3.webp",
+          "focal_x": 50.8,
+          "focal_y": 48.5
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Alluminio Lucido"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": "Tailor Made",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [
+        "one_off"
+      ],
+      "cover_photo": "photos/d4efa032972c442080b6c01f37daa12d.webp",
+      "cover_focal_x": 47.6,
+      "cover_focal_y": 51.1,
+      "photos": [
+        {
+          "url": "photos/d4efa032972c442080b6c01f37daa12d.webp",
+          "focal_x": 47.6,
+          "focal_y": 51.1
+        },
+        {
+          "url": "photos/319786bd0d8246cdab543f63e9967b0b.webp",
+          "focal_x": 45.0,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/65010b22b21e4616b25a70170f416c6f.webp",
+          "focal_x": 47.0,
+          "focal_y": 45.8
+        },
+        {
+          "url": "photos/4c5a172200e94b6980abc165cf5643f2.webp",
+          "focal_x": 50.3,
+          "focal_y": 39.5
+        },
+        {
+          "url": "photos/2ecf8453c147487eba2f2c88cdc5d3b3.webp",
+          "focal_x": 50.5,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/3774ea2b6bfa48cdadd48ead9d5dd34d.webp",
+          "focal_x": 51.8,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/e7aa5f9d3de3414babaa2acb5be6cef0.webp",
+          "focal_x": 52.7,
+          "focal_y": 51.4
+        },
+        {
+          "url": "photos/df86e50fcb984a1292d93875808cf55c.webp",
+          "focal_x": 54.3,
+          "focal_y": 51.6
+        },
+        {
+          "url": "photos/935a3e0446d145558ef02f3b1a73696a.webp",
+          "focal_x": 52.3,
+          "focal_y": 52.1
+        },
+        {
+          "url": "photos/e1d9524187cc44a7bcdfe2c54b819823.webp",
+          "focal_x": 47.0,
+          "focal_y": 51.2
+        },
+        {
+          "url": "photos/cb0945ca10f04de68427fcbb6b84d08a.webp",
+          "focal_x": 43.7,
+          "focal_y": 52.9
+        },
+        {
+          "url": "photos/e24a20926bb546278ba9c4312448ffc5.webp",
+          "focal_x": 45.8,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/96026b7158494b8fb95bbc823574b72f.webp",
+          "focal_x": 49.9,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/d562c90f37f643fb92f12587ac433bd2.webp",
+          "focal_x": 46.7,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/830e83be15e141a1b0b6816dec154fe7.webp",
+          "focal_x": 46.8,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/6ad655e044d648abb552f5b0bb08db65.webp",
+          "focal_x": 52.8,
+          "focal_y": 54.1
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Blu Tour de France"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/3514d51a539a4c6dbc157331599626e4.webp",
+      "cover_focal_x": 48.6,
+      "cover_focal_y": 48.7,
+      "photos": [
+        {
+          "url": "photos/e8429fe2f3b140dcb292bedd2528bf2d.webp",
+          "focal_x": 55.7,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/3514d51a539a4c6dbc157331599626e4.webp",
+          "focal_x": 48.6,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/f1d1a2e2293249388db10197e07f7fde.webp",
+          "focal_x": 50.7,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/cb52e154c56847209734fb5fc93be946.webp",
+          "focal_x": 55.2,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/015d721daad14774823e39553cc1e225.webp",
+          "focal_x": 45.5,
+          "focal_y": 40.9
+        },
+        {
+          "url": "photos/20478ea6a1b04b87abb59f3073f5d77f.webp",
+          "focal_x": 55.8,
+          "focal_y": 37.5
+        },
+        {
+          "url": "photos/82c167226a8847698f3869fc6e141e4c.webp",
+          "focal_x": 51.7,
+          "focal_y": 41.2
+        },
+        {
+          "url": "photos/411a95eea8c6451cbc4ee20d1ecfb58e.webp",
+          "focal_x": 59.3,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/521dbd6683ed46408c1386f18b9089f9.webp",
+          "focal_x": 48.8,
+          "focal_y": 43.8
+        },
+        {
+          "url": "photos/d031da082ad04f1692cc4bad8b259733.webp",
+          "focal_x": 48.6,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/b2f967de4787462cbaf49d8dcda4dd31.webp",
+          "focal_x": 47.9,
+          "focal_y": 44.3
+        },
+        {
+          "url": "photos/ce816e38c9c547959a5ec46b50ba0036.webp",
+          "focal_x": 50.7,
+          "focal_y": 51.5
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Blu Pozzi"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": "Atelier",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/300cc5bbb8424aacb429751793b2cda7.webp",
+      "cover_focal_x": 55.2,
+      "cover_focal_y": 52.0,
+      "photos": [
+        {
+          "url": "photos/300cc5bbb8424aacb429751793b2cda7.webp",
+          "focal_x": 55.2,
+          "focal_y": 52.0
+        },
+        {
+          "url": "photos/c5da20fcbaf24e45a5e5c0fcb6e2e1df.webp",
+          "focal_x": 45.3,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/d685b0de3dfc4770adde25bfe4a2bcb9.webp",
+          "focal_x": 51.0,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/5184cc5cc5804c0387b1fd11d34dd1f4.webp",
+          "focal_x": 50.2,
+          "focal_y": 54.1
+        },
+        {
+          "url": "photos/729218a568d64e87abeb98f5e8f688f1.webp",
+          "focal_x": 52.0,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/6ace83f1696a4e4f8ef6d8284f859cd4.webp",
+          "focal_x": 54.2,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/5cf524438399474bba6daa22f034ed63.webp",
+          "focal_x": 59.0,
+          "focal_y": 44.3
+        },
+        {
+          "url": "photos/f9f3fc4197774feebb8f178b99a61f37.webp",
+          "focal_x": 53.0,
+          "focal_y": 61.4
+        },
+        {
+          "url": "photos/92d4821637364464b823f37a738c1f54.webp",
+          "focal_x": 45.5,
+          "focal_y": 56.7
+        },
+        {
+          "url": "photos/9b102f932a984a80a2f9bb6d220beda7.webp",
+          "focal_x": 48.5,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/b2f659294deb4c54a2656910df4be9d0.webp",
+          "focal_x": 50.7,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/3a46cdb0cda74be7832f9d0927ec899e.webp",
+          "focal_x": 52.2,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/9921edd8fbe04289a88e5aed150ed255.webp",
+          "focal_x": 52.4,
+          "focal_y": 54.0
+        },
+        {
+          "url": "photos/af96cf5f8f6047ae949758cced9730af.webp",
+          "focal_x": 50.5,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/96fdbba6c59a4eea9e7cb3e9f0b3e546.webp",
+          "focal_x": 52.1,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/d016ee925b5243258e9652a329e3863c.webp",
+          "focal_x": 49.4,
+          "focal_y": 50.6
+        },
+        {
+          "url": "photos/2225f8a94ed14e48bf93b126f15c19b0.webp",
+          "focal_x": 47.5,
+          "focal_y": 39.8
+        },
+        {
+          "url": "photos/21bbd7d4785340578641c7b5d339637e.webp",
+          "focal_x": 50.0,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/3e547dd4ee934fa8a855f4746c3a4092.webp",
+          "focal_x": 51.3,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/a8da679170cd4bd1a894d06b3d173cca.webp",
+          "focal_x": 44.2,
+          "focal_y": 38.0
+        },
+        {
+          "url": "photos/b6dc505c55444b7298d242c22467d7bc.webp",
+          "focal_x": 51.3,
+          "focal_y": 47.8
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Blu Elettrico"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/9b771a362004458f88c6275d7e26822c.webp",
+      "cover_focal_x": 51.2,
+      "cover_focal_y": 51.6,
+      "photos": [
+        {
+          "url": "photos/9b771a362004458f88c6275d7e26822c.webp",
+          "focal_x": 51.2,
+          "focal_y": 51.6
+        },
+        {
+          "url": "photos/42de0b062b1045fd933db33aa2337851.webp",
+          "focal_x": 49.4,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/20a161f6f9e746698a1d904e195abeac.webp",
+          "focal_x": 49.7,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/ad3819bf2aa5444aba800185b665c61c.webp",
+          "focal_x": 52.0,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/6c9a7d5f114f47d2a1e1b4bd8f232e2c.webp",
+          "focal_x": 50.0,
+          "focal_y": 51.9
+        },
+        {
+          "url": "photos/6e5b782f4f584339b32cde8e697a702a.webp",
+          "focal_x": 53.9,
+          "focal_y": 42.5
+        },
+        {
+          "url": "photos/ea0037945304485bbe518bfd33bd07be.webp",
+          "focal_x": 51.3,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/40d25a9f693643c2979fe58c647ede5c.webp",
+          "focal_x": 48.4,
+          "focal_y": 35.1
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Rosso F1 2007"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/9ae94b27e17d4867a20717a29ba1d40d.webp",
+      "cover_focal_x": 47.1,
+      "cover_focal_y": 46.7,
+      "photos": [
+        {
+          "url": "photos/9ae94b27e17d4867a20717a29ba1d40d.webp",
+          "focal_x": 47.1,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/5100a44c2b1544098bd689b998adff59.webp",
+          "focal_x": 54.1,
+          "focal_y": 55.3
+        },
+        {
+          "url": "photos/3dc4398fff0c4d809fab166618181889.webp",
+          "focal_x": 52.9,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/5200d3fe350b4d3ea928b342b9507c7b.webp",
+          "focal_x": 51.7,
+          "focal_y": 56.2
+        },
+        {
+          "url": "photos/e07e23e9e15049329dd1ed53b7dd1d21.webp",
+          "focal_x": 47.9,
+          "focal_y": 44.1
+        },
+        {
+          "url": "photos/2ad16d850e61465aa4d345539fb2b8b5.webp",
+          "focal_x": 56.1,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/dc3ed5e3e82840bbab904a3c412ccde9.webp",
+          "focal_x": 50.1,
+          "focal_y": 53.4
+        },
+        {
+          "url": "photos/4ea48ef52fc74deca3b0d7eebe5b56dd.webp",
+          "focal_x": 49.9,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/0e5341fc8d77480e9679f2821871783e.webp",
+          "focal_x": 45.8,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/e4c089cd46ec4e2b9707208b1a6bf832.webp",
+          "focal_x": 56.3,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/b37f45287d204685ac3e1b38181ac252.webp",
+          "focal_x": 53.6,
+          "focal_y": 43.5
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Rosso Scuderia"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/67fc11802ddc409d8d68483fc4f9c6c9.webp",
+      "cover_focal_x": 46.2,
+      "cover_focal_y": 44.5,
+      "photos": [
+        {
+          "url": "photos/67fc11802ddc409d8d68483fc4f9c6c9.webp",
+          "focal_x": 46.2,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/4bcf28f97aa948b3bd0246868a85bb5a.webp",
+          "focal_x": 49.3,
+          "focal_y": 49.4
+        },
+        {
+          "url": "photos/b19c68efeefd472aa3162596e16742eb.webp",
+          "focal_x": 52.6,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/7c543417411b4c7bb6f25b6db1603b4e.webp",
+          "focal_x": 46.1,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/93e01ae47c774095bf994014e2ed3c3d.webp",
+          "focal_x": 48.6,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/7de60ad906894225a6071569d0dc49a0.webp",
+          "focal_x": 53.6,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/c176d8a4fb714b07bad93e07d781ee12.webp",
+          "focal_x": 48.0,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/de4896abfc254a98bf0af8c73c620dd3.webp",
+          "focal_x": 48.5,
+          "focal_y": 53.4
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": null,
+      "colors": [
+        "Rosso Corsa"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": null,
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/1af35ccf44ed4064a890434ead09f3de.webp",
+      "cover_focal_x": 50.8,
+      "cover_focal_y": 49.0,
+      "photos": [
+        {
+          "url": "photos/1af35ccf44ed4064a890434ead09f3de.webp",
+          "focal_x": 50.8,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/ac75950532a946678fa10243cb258cf0.webp",
+          "focal_x": 59.0,
+          "focal_y": 47.7
+        },
+        {
+          "url": "photos/5c13f55e845144549a526908f80e22c3.webp",
+          "focal_x": 49.3,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/17e6e35a898145d38f8a4538b858b984.webp",
+          "focal_x": 48.7,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/67d147596b9a4618ab642abdbbb94999.webp",
+          "focal_x": 46.0,
+          "focal_y": 39.7
+        },
+        {
+          "url": "photos/837756dd957e4e7ab2a69250ef2ba939.webp",
+          "focal_x": 48.5,
+          "focal_y": 47.0
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Rosso Corsa"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/3d5dfc2a9abd4f2d8da0ba63a89c2656.webp",
+      "cover_focal_x": 47.8,
+      "cover_focal_y": 48.2,
+      "photos": [
+        {
+          "url": "photos/3d5dfc2a9abd4f2d8da0ba63a89c2656.webp",
+          "focal_x": 47.8,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/35bacc8731494b81a2c7c283e39b6a9d.webp",
+          "focal_x": 48.6,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/ab805969e7d541d48900b33d3e46e401.webp",
+          "focal_x": 53.2,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/17efd805017747bdafe1fd33244ad047.webp",
+          "focal_x": 51.0,
+          "focal_y": 40.3
+        },
+        {
+          "url": "photos/84a077db46e14a03bc59a6ec2020ff5a.webp",
+          "focal_x": 44.2,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/4efbe3376b234145b2ca55408e153941.webp",
+          "focal_x": 52.6,
+          "focal_y": 55.2
+        },
+        {
+          "url": "photos/e72d05dfc4b34617b63da8cb323640af.webp",
+          "focal_x": 53.4,
+          "focal_y": 57.5
+        },
+        {
+          "url": "photos/3421c65f04e340bea8f579ae50407b92.webp",
+          "focal_x": 51.4,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/d2222cc7eeb946e198ace64c6345e25b.webp",
+          "focal_x": 51.6,
+          "focal_y": 64.0
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": null,
+      "colors": [
+        "Rosso Corsa"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": "Atelier",
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": null,
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/e5de13fb5f70452f8ae9129f8e904a5e.webp",
+      "cover_focal_x": 44.9,
+      "cover_focal_y": 45.0,
+      "photos": [
+        {
+          "url": "photos/e5de13fb5f70452f8ae9129f8e904a5e.webp",
+          "focal_x": 44.9,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/120eddc107404abea6c95f793697ab19.webp",
+          "focal_x": 51.1,
+          "focal_y": 48.8
+        },
+        {
+          "url": "photos/b3afaeb2b43f458b92b2fe1c9355505c.webp",
+          "focal_x": 41.3,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/9494e2e49bd54e16b30588fb0b857a80.webp",
+          "focal_x": 46.1,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/778a86144a144cbb9be46052e30e5aa7.webp",
+          "focal_x": 55.6,
+          "focal_y": 44.7
+        },
+        {
+          "url": "photos/e48c5b995b3e47a3a823f41a9095a10c.webp",
+          "focal_x": 56.3,
+          "focal_y": 45.8
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Rosso Corsa"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": null,
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/4dc61fac09cf4b8b975f39f4fdfe7a96.webp",
+      "cover_focal_x": 47.9,
+      "cover_focal_y": 50.1,
+      "photos": [
+        {
+          "url": "photos/4dc61fac09cf4b8b975f39f4fdfe7a96.webp",
+          "focal_x": 47.9,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/ac95e32fff2345e69e184a8358d7715c.webp",
+          "focal_x": 49.5,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/76a9d7d5853a4bc9bbf5a4daf2c09b32.webp",
+          "focal_x": 50.1,
+          "focal_y": 49.3
+        },
+        {
+          "url": "photos/55b4f084c9144eee82884c118261aa11.webp",
+          "focal_x": 48.5,
+          "focal_y": 48.4
+        },
+        {
+          "url": "photos/7e999b1f0a074e309131822de7e212b6.webp",
+          "focal_x": 52.7,
+          "focal_y": 52.8
+        },
+        {
+          "url": "photos/6a1d84d610284a8a889f5ccea971969e.webp",
+          "focal_x": 52.1,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/691522118b0044c1968b144816f154b7.webp",
+          "focal_x": 45.5,
+          "focal_y": 47.8
+        },
+        {
+          "url": "photos/8241caed101c49d7810858b51161ebda.webp",
+          "focal_x": 42.9,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/a9d2a731dfb1468189ca4622cecbcd8a.webp",
+          "focal_x": 49.9,
+          "focal_y": 41.3
+        },
+        {
+          "url": "photos/bd7c1ead3b8d4cc0aa2ceecd3ff4bb77.webp",
+          "focal_x": 46.6,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/0562938d76904b17a6317ef53ae8fe99.webp",
+          "focal_x": 45.7,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/b435abb8ce87418791eae37f82fc64a8.webp",
+          "focal_x": 51.5,
+          "focal_y": 47.8
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": null,
+      "colors": [
+        "Giallo Triplo Strato"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": null,
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/488f36b804164bc7bc1e334424513bc0.webp",
+      "cover_focal_x": 54.5,
+      "cover_focal_y": 44.6,
+      "photos": [
+        {
+          "url": "photos/488f36b804164bc7bc1e334424513bc0.webp",
+          "focal_x": 54.5,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/9147254e2e5b4a72b6b0c12b6cd7f036.webp",
+          "focal_x": 50.7,
+          "focal_y": 42.9
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Giallo Modena"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/0787cd23bfa544e09aef3871db4f64b4.webp",
+      "cover_focal_x": 50.7,
+      "cover_focal_y": 39.6,
+      "photos": [
+        {
+          "url": "photos/b206c2109bc64bdba530ed0a571347c8.webp",
+          "focal_x": 50.1,
+          "focal_y": 41.7
+        },
+        {
+          "url": "photos/74ed192313784d6594c9f25a8cb466af.webp",
+          "focal_x": 50.2,
+          "focal_y": 40.6
+        },
+        {
+          "url": "photos/0787cd23bfa544e09aef3871db4f64b4.webp",
+          "focal_x": 50.7,
+          "focal_y": 39.6
+        },
+        {
+          "url": "photos/2601a0dc1fea423ebde82c3ce03b1622.webp",
+          "focal_x": 49.0,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/0aa75a6d7ab045b2899b493ccb8421ce.webp",
+          "focal_x": 48.1,
+          "focal_y": 42.0
+        },
+        {
+          "url": "photos/f01735fe6c2446b595f6e5298b5ad4c2.webp",
+          "focal_x": 51.7,
+          "focal_y": 42.8
+        },
+        {
+          "url": "photos/b187a0f90b5f4e4fb4f4d13ab8e26914.webp",
+          "focal_x": 46.9,
+          "focal_y": 41.2
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2019,
+      "colors": [
+        "Giallo Modena"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação oficial",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/f3d31eef6eb14bdaa302fb56c34a8e80.webp",
+      "cover_focal_x": 44.2,
+      "cover_focal_y": 38.3,
+      "photos": [
+        {
+          "url": "photos/f03d2fd541ef4a7784273f861bafcaf3.webp",
+          "focal_x": 50.0,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/f3d31eef6eb14bdaa302fb56c34a8e80.webp",
+          "focal_x": 44.2,
+          "focal_y": 38.3
+        },
+        {
+          "url": "photos/3778325c8967455787eb4ae31980ec96.webp",
+          "focal_x": 52.9,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/638ce18506f6481a8e0f55a867b4701f.webp",
+          "focal_x": 50.7,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/36d745f3b06144faa242a92ad1ee6d14.webp",
+          "focal_x": 50.9,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/73d5657987af49ed8a72d474ef294787.webp",
+          "focal_x": 47.1,
+          "focal_y": 39.7
+        },
+        {
+          "url": "photos/05f9d4a109c14347a0065fd478bd5c3f.webp",
+          "focal_x": 50.8,
+          "focal_y": 39.9
+        },
+        {
+          "url": "photos/51c209120d0f402fa43dc448855095f9.webp",
+          "focal_x": 51.9,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/30105588cd7a4141a80900647610bdfd.webp",
+          "focal_x": 48.8,
+          "focal_y": 50.4
+        },
+        {
+          "url": "photos/bea0c4c0ae7f49c8a4a35d6ecb895202.webp",
+          "focal_x": 53.7,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/2e59fb22d9ae4bae85e7cd091ad60da3.webp",
+          "focal_x": 45.9,
+          "focal_y": 44.4
+        },
+        {
+          "url": "photos/8cff7e798110450f87723fa68cb6ccae.webp",
+          "focal_x": 51.4,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/127c121905b1442dbae07c4cb5e86736.webp",
+          "focal_x": 48.9,
+          "focal_y": 41.0
+        },
+        {
+          "url": "photos/5841aeaa19214eedb355ead600ae493c.webp",
+          "focal_x": 50.8,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/6dea6432717c49e5999448d5ec87b85c.webp",
+          "focal_x": 48.3,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/e0ae7528e868473ab05f8da0445171ad.webp",
+          "focal_x": 50.3,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/f730bbaf74c648b5b70c30dfc723dfe1.webp",
+          "focal_x": 51.8,
+          "focal_y": 51.8
+        },
+        {
+          "url": "photos/6feb5555ba1145d595d89a05ccf53d54.webp",
+          "focal_x": 50.6,
+          "focal_y": 50.4
+        }
+      ]
+    },
+    {
+      "car_model_id": 30,
+      "manufacturer": "Ferrari",
+      "manufacturer_logo": "logos/20.webp",
+      "model": "488 Pista",
+      "model_year": 2020,
+      "colors": [
+        "Verde British Racing"
+      ],
+      "status": "Ativo",
+      "steering": "LHD",
+      "transmission": "Automático",
+      "drivetrain": "Traseira",
+      "program": null,
+      "production_type": "Série",
+      "production_number": null,
+      "production_total": null,
+      "brazil_units": 19,
+      "market_spec": "Euro Spec",
+      "import_type": "Importação independente",
+      "origin_country": null,
+      "current_country": "Brasil",
+      "modifications": null,
+      "accident_history": null,
+      "notes": null,
+      "highlights": [],
+      "cover_photo": "photos/9257182f1d0f4906a842162054a2f205.webp",
+      "cover_focal_x": 53.3,
+      "cover_focal_y": 45.7,
+      "photos": [
+        {
+          "url": "photos/9257182f1d0f4906a842162054a2f205.webp",
+          "focal_x": 53.3,
+          "focal_y": 45.7
+        },
+        {
+          "url": "photos/27dbdc19e01b4d33b0b225266a036d2b.webp",
+          "focal_x": 43.3,
+          "focal_y": 53.8
+        },
+        {
+          "url": "photos/2d666619a4b34821b4caccf407897955.webp",
+          "focal_x": 48.6,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/a1151186e7a84aeb9a537511b932ec62.webp",
+          "focal_x": 52.3,
+          "focal_y": 44.1
+        },
+        {
+          "url": "photos/b2f30bebba064a328abd8d7623b718f2.webp",
+          "focal_x": 50.6,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/f195936f30654770960b72ef88e3a8c3.webp",
+          "focal_x": 52.0,
+          "focal_y": 56.2
+        },
+        {
+          "url": "photos/f436fbd674a34ef095c7fb18bf93887f.webp",
+          "focal_x": 51.0,
+          "focal_y": 56.0
+        },
+        {
+          "url": "photos/192f17e94b0f425ba47793211e58d290.webp",
+          "focal_x": 48.3,
+          "focal_y": 52.5
+        }
+      ]
+    },
+    {
       "car_model_id": 279,
       "manufacturer": "Mercedes-Benz",
       "manufacturer_logo": "logos/39.webp",
@@ -1386,14 +3225,169 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/9613d160b66f42ee970cffe86f2b2998.webp",
-      "cover_focal_x": 46.6,
-      "cover_focal_y": 44.2,
+      "cover_photo": "photos/e986c7f7a82140efba0c7dd3db96cf6f.webp",
+      "cover_focal_x": 49.6,
+      "cover_focal_y": 51.0,
       "photos": [
         {
           "url": "photos/9613d160b66f42ee970cffe86f2b2998.webp",
           "focal_x": 46.6,
           "focal_y": 44.2
+        },
+        {
+          "url": "photos/e986c7f7a82140efba0c7dd3db96cf6f.webp",
+          "focal_x": 49.6,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/771123d8d73e467a85036aebf6287795.webp",
+          "focal_x": 52.1,
+          "focal_y": 48.6
+        },
+        {
+          "url": "photos/08abff6caee04e81bcfc27ffe72c2b1d.webp",
+          "focal_x": 48.4,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/f362cc1c079c4d79831f49e30d180074.webp",
+          "focal_x": 55.5,
+          "focal_y": 54.1
+        },
+        {
+          "url": "photos/b2d5527d360844cc93b612d0c55bb63e.webp",
+          "focal_x": 46.6,
+          "focal_y": 54.1
+        },
+        {
+          "url": "photos/258e71c8be7d4d58b28443316487af4c.webp",
+          "focal_x": 55.1,
+          "focal_y": 51.0
+        },
+        {
+          "url": "photos/94fd6028e2914b128b4dd163d90f272a.webp",
+          "focal_x": 47.9,
+          "focal_y": 53.3
+        },
+        {
+          "url": "photos/9f5693122d0444719743467043964d45.webp",
+          "focal_x": 49.2,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/6b44fe4c2101494baaf9a8ae9791b4b6.webp",
+          "focal_x": 52.9,
+          "focal_y": 61.5
+        },
+        {
+          "url": "photos/ba8d9a0e948541d18fa3e635d9273e33.webp",
+          "focal_x": 51.1,
+          "focal_y": 57.9
+        },
+        {
+          "url": "photos/1976bc623bcb46a888192e4ab9851a25.webp",
+          "focal_x": 53.4,
+          "focal_y": 51.8
+        },
+        {
+          "url": "photos/08277fad84204fbcab3439ca1b09e021.webp",
+          "focal_x": 52.9,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/8e968e7205a0456ab4dcda3e2cfbb59e.webp",
+          "focal_x": 51.3,
+          "focal_y": 52.2
+        },
+        {
+          "url": "photos/63f4f7e2588c409e99140216e087360a.webp",
+          "focal_x": 52.3,
+          "focal_y": 49.2
+        },
+        {
+          "url": "photos/87d8d7ec78a1450f82cce9de37b0daa6.webp",
+          "focal_x": 48.3,
+          "focal_y": 54.9
+        },
+        {
+          "url": "photos/f464da7dbd5c43109e0ac56dc1922ac9.webp",
+          "focal_x": 50.6,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/9ebfe1427d0f439f8a8d6cc9a888fca6.webp",
+          "focal_x": 54.4,
+          "focal_y": 52.7
+        },
+        {
+          "url": "photos/aaad7e96bbb44760a5ca4fa588c17129.webp",
+          "focal_x": 48.9,
+          "focal_y": 51.2
+        },
+        {
+          "url": "photos/14a6a7f4db3847c0a2c21d17b5b02a62.webp",
+          "focal_x": 51.4,
+          "focal_y": 52.3
+        },
+        {
+          "url": "photos/2100d5848e384a3c8e5869a7f0cef960.webp",
+          "focal_x": 52.1,
+          "focal_y": 44.8
+        },
+        {
+          "url": "photos/4bf03818efed4d54a96c1b48a8bfec7b.webp",
+          "focal_x": 49.6,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/8569cf02ea224a72abf66fbb72521054.webp",
+          "focal_x": 50.3,
+          "focal_y": 48.2
+        },
+        {
+          "url": "photos/3420fecd284e4ebf8e2f76847c6eeb85.webp",
+          "focal_x": 49.2,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/a469644c90e34d949bcd509aa5d86d04.webp",
+          "focal_x": 48.5,
+          "focal_y": 47.0
+        },
+        {
+          "url": "photos/d2b3fd33f8b24adabb07167e4bdafeb1.webp",
+          "focal_x": 47.0,
+          "focal_y": 52.2
+        },
+        {
+          "url": "photos/9eac6cebb7a943f892ee68d35564def9.webp",
+          "focal_x": 45.8,
+          "focal_y": 46.3
+        },
+        {
+          "url": "photos/152f9b092f0c45ff9204970d0c13899c.webp",
+          "focal_x": 48.0,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/a3c914c340354f8ea75ce6e1a1f2d4e8.webp",
+          "focal_x": 54.9,
+          "focal_y": 48.0
+        },
+        {
+          "url": "photos/30e7b347f16e46e3a016109157d974d1.webp",
+          "focal_x": 51.4,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/375d927cd8434526af8620e09bd5ed08.webp",
+          "focal_x": 49.1,
+          "focal_y": 57.4
+        },
+        {
+          "url": "photos/15240a2218c94c0f9e395667935f5487.webp",
+          "focal_x": 44.8,
+          "focal_y": 43.7
         }
       ]
     },
@@ -1762,6 +3756,61 @@
           "url": "photos/d20199fbc99c4cc9a76c2381c90d44ef.webp",
           "focal_x": 52.1,
           "focal_y": 49.5
+        },
+        {
+          "url": "photos/11d549c4b88347c3855246a0b733d948.webp",
+          "focal_x": 47.8,
+          "focal_y": 52.9
+        },
+        {
+          "url": "photos/13472c2eef32445796380dd6587d3dcc.webp",
+          "focal_x": 61.3,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/0982ca701e1c45288f8ab92c610d7b3c.webp",
+          "focal_x": 61.2,
+          "focal_y": 47.1
+        },
+        {
+          "url": "photos/e80dfd67f20a4595bd7073d910cfb7a0.webp",
+          "focal_x": 52.4,
+          "focal_y": 50.6
+        },
+        {
+          "url": "photos/eb45bbf4374549caa4db004ed3f8372d.webp",
+          "focal_x": 45.7,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/fb79e9ea0945445197f9ac017d8ad9f1.webp",
+          "focal_x": 50.3,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/ce033548b59e4bd28454cece202506eb.webp",
+          "focal_x": 50.3,
+          "focal_y": 42.6
+        },
+        {
+          "url": "photos/6af2d5a9c61f40a6915330ccfe766192.webp",
+          "focal_x": 50.0,
+          "focal_y": 57.5
+        },
+        {
+          "url": "photos/baba0bc2f7ee493399e80ddffe124cdb.webp",
+          "focal_x": 52.2,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/6487386506c84e69932b08e44276669e.webp",
+          "focal_x": 51.2,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/58234dd5d7f64f9fbda995b6c1a13164.webp",
+          "focal_x": 42.8,
+          "focal_y": 47.2
         }
       ]
     },
@@ -10094,6 +12143,11 @@
           "url": "photos/10de0236814540048f45ece6d0134189.webp",
           "focal_x": 53.5,
           "focal_y": 52.1
+        },
+        {
+          "url": "photos/a6b49b198acb4996a81dcafdfcab0229.webp",
+          "focal_x": 49.6,
+          "focal_y": 45.1
         }
       ]
     },
@@ -11722,9 +13776,9 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/b51c70dae5714d08aa1e66212dce7f71.jpeg",
-      "cover_focal_x": 47.0,
-      "cover_focal_y": 46.7,
+      "cover_photo": "photos/4e0fd1c7bc164409a9550add498c8595.webp",
+      "cover_focal_x": 50.4,
+      "cover_focal_y": 44.1,
       "photos": [
         {
           "url": "photos/66b2cb4d925f48ab93faa989416db0ab.webp",
@@ -11765,6 +13819,206 @@
           "url": "photos/4d1126e39a0846a586931e8aa79b8d15.webp",
           "focal_x": 50.6,
           "focal_y": 45.1
+        },
+        {
+          "url": "photos/41a91d1048c349cf81c7be8bee60c5dd.webp",
+          "focal_x": 47.2,
+          "focal_y": 43.0
+        },
+        {
+          "url": "photos/43c55c601d29420182b16cf6661c1b6a.webp",
+          "focal_x": 49.8,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/ed6979e07dc84d8387044eb56c34516c.webp",
+          "focal_x": 47.6,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/6e6ca709c4c84470ac89a2f057b02863.webp",
+          "focal_x": 50.6,
+          "focal_y": 42.2
+        },
+        {
+          "url": "photos/9b8cbc4bc89b411988c98e900b17ee1c.webp",
+          "focal_x": 49.8,
+          "focal_y": 51.3
+        },
+        {
+          "url": "photos/8a72f934499542f48dcef8a1c6462f4e.webp",
+          "focal_x": 51.0,
+          "focal_y": 46.6
+        },
+        {
+          "url": "photos/2a6ce5a8fa9040049820e3fed9af90ea.webp",
+          "focal_x": 49.2,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/93410357964445e8b212582f30b9f736.webp",
+          "focal_x": 49.2,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/dc8f270fccbc4bacac1efcc1959a5789.webp",
+          "focal_x": 54.9,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/1f69af5706fe438380f01579146cf291.webp",
+          "focal_x": 50.4,
+          "focal_y": 57.2
+        },
+        {
+          "url": "photos/eeff6df440e0440ebd8eedd77ce4ea99.webp",
+          "focal_x": 46.2,
+          "focal_y": 52.9
+        },
+        {
+          "url": "photos/0dd80253ba974aa5a12db57beaa402d4.webp",
+          "focal_x": 50.3,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/77a8341c79d142719ad0c029fed54597.webp",
+          "focal_x": 50.8,
+          "focal_y": 51.6
+        },
+        {
+          "url": "photos/b3bd5f37e3684fd68e7b37d8edaa7095.webp",
+          "focal_x": 49.0,
+          "focal_y": 49.6
+        },
+        {
+          "url": "photos/5744f30f86af4ec884a311bd53dadd42.webp",
+          "focal_x": 46.4,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/aec2db0df65540228da3306b86cec504.webp",
+          "focal_x": 50.3,
+          "focal_y": 39.2
+        },
+        {
+          "url": "photos/89713c45edb447228fc43865ad6b34f4.webp",
+          "focal_x": 49.1,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/55fd9dc09549460c9eb16cfb9d1ee40c.webp",
+          "focal_x": 53.2,
+          "focal_y": 49.1
+        },
+        {
+          "url": "photos/4b69b61de6b14486b8001837bf6696b1.webp",
+          "focal_x": 48.3,
+          "focal_y": 41.4
+        },
+        {
+          "url": "photos/8c55d6e950df4c4188e57d0f964b8bb7.webp",
+          "focal_x": 49.1,
+          "focal_y": 43.2
+        },
+        {
+          "url": "photos/266ab6e3e662493d8e923f7dfb4c3e14.webp",
+          "focal_x": 52.5,
+          "focal_y": 49.0
+        },
+        {
+          "url": "photos/4e0fd1c7bc164409a9550add498c8595.webp",
+          "focal_x": 50.4,
+          "focal_y": 44.1
+        },
+        {
+          "url": "photos/171d0a0e596544a58c96a99c16adabc7.webp",
+          "focal_x": 47.0,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/a2893d41e5654d61828b868672884ce2.webp",
+          "focal_x": 55.9,
+          "focal_y": 47.2
+        },
+        {
+          "url": "photos/da17c341df4f4b408f7aedd31970d47c.webp",
+          "focal_x": 48.8,
+          "focal_y": 43.1
+        },
+        {
+          "url": "photos/dd40afef4961480ca371288af4a46387.webp",
+          "focal_x": 53.0,
+          "focal_y": 46.7
+        },
+        {
+          "url": "photos/123f3dcf82044ddca02509417616aaab.webp",
+          "focal_x": 52.4,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/92496378d41640f0990202968ddf1d7d.webp",
+          "focal_x": 55.6,
+          "focal_y": 47.9
+        },
+        {
+          "url": "photos/50f7d76de08641c880e81f71517f1a5b.webp",
+          "focal_x": 45.0,
+          "focal_y": 40.2
+        },
+        {
+          "url": "photos/080e3418e5994cdd9075135d46d94b9a.webp",
+          "focal_x": 54.3,
+          "focal_y": 54.7
+        },
+        {
+          "url": "photos/fb95bedb661940df953289725ff02444.webp",
+          "focal_x": 51.6,
+          "focal_y": 44.6
+        },
+        {
+          "url": "photos/74ba1029a5a748dba54df47b0f95cce2.webp",
+          "focal_x": 52.7,
+          "focal_y": 45.8
+        },
+        {
+          "url": "photos/895d0328747845139ec68afb04037c48.webp",
+          "focal_x": 53.0,
+          "focal_y": 42.5
+        },
+        {
+          "url": "photos/d87890681beb471d94a583feffcd59f4.webp",
+          "focal_x": 46.3,
+          "focal_y": 39.1
+        },
+        {
+          "url": "photos/a9d28191cb9a45079dbf86159f0eb143.webp",
+          "focal_x": 47.2,
+          "focal_y": 40.6
+        },
+        {
+          "url": "photos/d1c2e778143448a3bc0fb5f876fddcc3.webp",
+          "focal_x": 46.8,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/3ba1e5fe76a64ed29f5c37ca22ca3f15.webp",
+          "focal_x": 49.2,
+          "focal_y": 48.7
+        },
+        {
+          "url": "photos/12926dfe6ec849368ea0103d04ab2c85.webp",
+          "focal_x": 44.5,
+          "focal_y": 41.7
+        },
+        {
+          "url": "photos/1a2b14c123824df981cb5c1136df9f1e.webp",
+          "focal_x": 48.2,
+          "focal_y": 54.7
+        },
+        {
+          "url": "photos/6e42821627ca4e97a4efefe347948acd.webp",
+          "focal_x": 51.8,
+          "focal_y": 48.4
         }
       ]
     },
@@ -12265,7 +14519,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -12302,7 +14556,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": "República Tcheca",
@@ -12341,7 +14595,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -12368,7 +14622,7 @@
       "model": "488 Pista Spider",
       "model_year": 2020,
       "colors": [
-        "Rosso Maranello"
+        "Rosso F1 2007"
       ],
       "status": "Ativo",
       "steering": "LHD",
@@ -12378,23 +14632,23 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
       "current_country": "Brasil",
-      "modifications": "Escapamento Secret Weapon.",
+      "modifications": null,
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/91ae23d511164e0199c1887624660374.jpeg",
-      "cover_focal_x": 51.7,
-      "cover_focal_y": 49.9,
+      "cover_photo": "photos/971c445241f643a6a5a12829354f072c.webp",
+      "cover_focal_x": 52.7,
+      "cover_focal_y": 49.3,
       "photos": [
         {
-          "url": "photos/91ae23d511164e0199c1887624660374.jpeg",
-          "focal_x": 51.7,
-          "focal_y": 49.9
+          "url": "photos/971c445241f643a6a5a12829354f072c.webp",
+          "focal_x": 52.7,
+          "focal_y": 49.3
         }
       ]
     },
@@ -12415,7 +14669,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação independente",
       "origin_country": null,
@@ -12452,7 +14706,7 @@
       "production_type": "Edição limitada",
       "production_number": null,
       "production_total": null,
-      "brazil_units": null,
+      "brazil_units": 8,
       "market_spec": "Euro Spec",
       "import_type": "Importação oficial",
       "origin_country": null,
@@ -13209,6 +15463,16 @@
           "url": "photos/5f547b6f317e4c488b3588f4a74a6b6d.jpeg",
           "focal_x": 52.0,
           "focal_y": 50.5
+        },
+        {
+          "url": "photos/422b4d9c0547477883176c0dfba711fd.webp",
+          "focal_x": 52.8,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/917785b8b43e4c68befeba1412dfc74c.webp",
+          "focal_x": 51.9,
+          "focal_y": 45.4
         }
       ]
     },
@@ -14337,6 +16601,106 @@
           "url": "photos/a2c59aa018934c5080644f9e63df68c6.jpeg",
           "focal_x": 47.6,
           "focal_y": 45.8
+        },
+        {
+          "url": "photos/ed3ab02e127b46c199a7aac1307f9b8d.webp",
+          "focal_x": 47.9,
+          "focal_y": 45.2
+        },
+        {
+          "url": "photos/dcfe2d7d07af463a94ab37691028b033.webp",
+          "focal_x": 51.4,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/9185c52915c44e46b916a51e04433958.webp",
+          "focal_x": 42.1,
+          "focal_y": 52.4
+        },
+        {
+          "url": "photos/3348cf95977941c282e9de2d35f5ccb7.webp",
+          "focal_x": 41.3,
+          "focal_y": 50.1
+        },
+        {
+          "url": "photos/3250700d263b4a4b9d3dd68484fa17e5.webp",
+          "focal_x": 47.5,
+          "focal_y": 47.3
+        },
+        {
+          "url": "photos/7c1f394e8a1f48c58d24e2f8f40ac451.webp",
+          "focal_x": 52.1,
+          "focal_y": 51.7
+        },
+        {
+          "url": "photos/da56746964754e2b87827ce256f79117.webp",
+          "focal_x": 50.9,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/3cb17773cdbf470dafeb125350db9b81.webp",
+          "focal_x": 40.0,
+          "focal_y": 46.8
+        },
+        {
+          "url": "photos/dc4e748e93f942dabc97da04842cc0f6.webp",
+          "focal_x": 48.8,
+          "focal_y": 46.9
+        },
+        {
+          "url": "photos/a3d4d6dd64564148ad398b26afe7b681.webp",
+          "focal_x": 46.6,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/e84c06b8a68442cd98794f1dbbca923f.webp",
+          "focal_x": 53.2,
+          "focal_y": 48.5
+        },
+        {
+          "url": "photos/439998de3b624416bb77c35be9ae27d3.webp",
+          "focal_x": 51.2,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/d710d63c8574400da650ea2c62dd3852.webp",
+          "focal_x": 53.2,
+          "focal_y": 50.0
+        },
+        {
+          "url": "photos/88ba16c3999042b8826c7eeb7b8b0057.webp",
+          "focal_x": 48.4,
+          "focal_y": 43.6
+        },
+        {
+          "url": "photos/3c7a3d8ac9cf448680c17c1731ab931f.webp",
+          "focal_x": 44.7,
+          "focal_y": 45.0
+        },
+        {
+          "url": "photos/83694af653f745d48e7aaec2946c819f.webp",
+          "focal_x": 51.4,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/dc55f1daf1b14d869088d2adcb28df31.webp",
+          "focal_x": 43.5,
+          "focal_y": 57.8
+        },
+        {
+          "url": "photos/c63a26dfde8947e1b2ed659b00d35b6d.webp",
+          "focal_x": 45.4,
+          "focal_y": 44.9
+        },
+        {
+          "url": "photos/afae3c5b8a274ee9b034cf0749a0f60f.webp",
+          "focal_x": 60.1,
+          "focal_y": 47.5
+        },
+        {
+          "url": "photos/d301b8447047459a980bb78deedc9fe0.webp",
+          "focal_x": 56.3,
+          "focal_y": 46.6
         }
       ]
     },
@@ -17244,6 +19608,16 @@
           "url": "photos/fd9d2684a4c64ea8973fc7375b2da3cc.jpeg",
           "focal_x": 49.5,
           "focal_y": 48.0
+        },
+        {
+          "url": "photos/d3a841a9f5df4046aa76af4c853e50a0.webp",
+          "focal_x": 51.6,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/710d18e45a7e402c88cf345de8afeebe.webp",
+          "focal_x": 56.1,
+          "focal_y": 48.4
         }
       ]
     },
@@ -17310,14 +19684,29 @@
       "accident_history": null,
       "notes": "Primeira unidade a chegar no país.",
       "highlights": [],
-      "cover_photo": "photos/d657ea48b78b4914b319daea33b86bcf.jpeg",
-      "cover_focal_x": 49.7,
-      "cover_focal_y": 43.2,
+      "cover_photo": "photos/b8678b1b833041018f6c64d125383f3a.webp",
+      "cover_focal_x": 52.5,
+      "cover_focal_y": 43.3,
       "photos": [
         {
           "url": "photos/d657ea48b78b4914b319daea33b86bcf.jpeg",
           "focal_x": 49.7,
           "focal_y": 43.2
+        },
+        {
+          "url": "photos/b8678b1b833041018f6c64d125383f3a.webp",
+          "focal_x": 52.5,
+          "focal_y": 43.3
+        },
+        {
+          "url": "photos/131aa979747548f48797d0d431d368a0.webp",
+          "focal_x": 46.7,
+          "focal_y": 48.3
+        },
+        {
+          "url": "photos/288247b8f4a74595ba33a80a5b1561ca.webp",
+          "focal_x": 51.1,
+          "focal_y": 49.5
         }
       ]
     },
@@ -17470,6 +19859,51 @@
           "url": "photos/ee82ae66844747cab0d3525a2b2d134f.webp",
           "focal_x": 50.2,
           "focal_y": 42.7
+        },
+        {
+          "url": "photos/6249bae9c8db48adba30d940974b3d87.webp",
+          "focal_x": 54.7,
+          "focal_y": 53.5
+        },
+        {
+          "url": "photos/ef3c98e89c27429ebc10ad4ed270b801.webp",
+          "focal_x": 48.6,
+          "focal_y": 50.7
+        },
+        {
+          "url": "photos/204bf96995f444258531c3fb22bb5fc7.webp",
+          "focal_x": 54.9,
+          "focal_y": 46.1
+        },
+        {
+          "url": "photos/5f9879d867d44877a414fe011b064b6b.webp",
+          "focal_x": 46.9,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/86149d88d1164b74866e58d3ca476250.webp",
+          "focal_x": 50.3,
+          "focal_y": 42.1
+        },
+        {
+          "url": "photos/5e3394479a7249268fba2d20288eff4b.webp",
+          "focal_x": 54.3,
+          "focal_y": 43.0
+        },
+        {
+          "url": "photos/7b5b545e72c34507aa64c20aee375b0e.webp",
+          "focal_x": 52.9,
+          "focal_y": 46.5
+        },
+        {
+          "url": "photos/f1b8d28c6eba42ce9ba16737652de423.webp",
+          "focal_x": 51.4,
+          "focal_y": 51.5
+        },
+        {
+          "url": "photos/4343d16243534f9b964111d68447f9fa.webp",
+          "focal_x": 48.4,
+          "focal_y": 45.4
         }
       ]
     },
@@ -17946,14 +20380,139 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/0d8ab26db49847d3bdbfe7567390bdf3.jpeg",
-      "cover_focal_x": 50.5,
-      "cover_focal_y": 53.4,
+      "cover_photo": "photos/7927d73395af415fa54077d5dad2d957.webp",
+      "cover_focal_x": 51.0,
+      "cover_focal_y": 49.5,
       "photos": [
         {
           "url": "photos/0d8ab26db49847d3bdbfe7567390bdf3.jpeg",
           "focal_x": 50.5,
           "focal_y": 53.4
+        },
+        {
+          "url": "photos/7927d73395af415fa54077d5dad2d957.webp",
+          "focal_x": 51.0,
+          "focal_y": 49.5
+        },
+        {
+          "url": "photos/cfc8c12231754e3abfc79b6a74a84893.webp",
+          "focal_x": 49.3,
+          "focal_y": 49.8
+        },
+        {
+          "url": "photos/2f2b1c96d115468a9b63e24609086cc3.webp",
+          "focal_x": 53.0,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/ddcce0b2c16a4f75a27fd2b67060544f.webp",
+          "focal_x": 44.5,
+          "focal_y": 40.0
+        },
+        {
+          "url": "photos/5946a21235bc49b089588d8d8b595f3c.webp",
+          "focal_x": 48.0,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/4e265463bc764b069e3f4a97a3038cfc.webp",
+          "focal_x": 54.1,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/47fc00384c304d6a93d131c61acd0c24.webp",
+          "focal_x": 47.3,
+          "focal_y": 44.5
+        },
+        {
+          "url": "photos/f5ada32b81c14cd58a38c744f0589705.webp",
+          "focal_x": 42.3,
+          "focal_y": 49.9
+        },
+        {
+          "url": "photos/85473d7eb2bb4150963e9262fb7bcbc2.webp",
+          "focal_x": 52.6,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/8d8ed63e230c44c28f9e2896a7cd9bfa.webp",
+          "focal_x": 52.1,
+          "focal_y": 45.1
+        },
+        {
+          "url": "photos/9d34db59a9a44914886f38b9a256bae4.webp",
+          "focal_x": 46.4,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/650e84089f7f42a788257f48a176a62a.webp",
+          "focal_x": 48.3,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/2a2a55ba113744e0b4bc33b05294a76b.webp",
+          "focal_x": 46.5,
+          "focal_y": 42.4
+        },
+        {
+          "url": "photos/d4f5deece6284549a4e17021da377073.webp",
+          "focal_x": 49.3,
+          "focal_y": 41.9
+        },
+        {
+          "url": "photos/cc60144aba5e4ec1908aeb630f4279bd.webp",
+          "focal_x": 48.9,
+          "focal_y": 40.9
+        },
+        {
+          "url": "photos/64db0506a2e945a5878863b4b3a049e9.webp",
+          "focal_x": 50.8,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/caa99e1873fe4e889f3a32a61bf1cd4f.webp",
+          "focal_x": 50.1,
+          "focal_y": 46.2
+        },
+        {
+          "url": "photos/28f7f7d5dbb74ea4a8cdb3bdceb4f6af.webp",
+          "focal_x": 45.1,
+          "focal_y": 43.5
+        },
+        {
+          "url": "photos/28bef4a103bd4950846788603b2ab72b.webp",
+          "focal_x": 52.0,
+          "focal_y": 56.7
+        },
+        {
+          "url": "photos/186d9ce8b5e141dea5faaf73d5943d7e.webp",
+          "focal_x": 48.6,
+          "focal_y": 53.7
+        },
+        {
+          "url": "photos/f10b875d2bce47109484217eb4c56807.webp",
+          "focal_x": 43.0,
+          "focal_y": 56.5
+        },
+        {
+          "url": "photos/0b64ad42a427469fa1d03fce55bbba06.webp",
+          "focal_x": 47.0,
+          "focal_y": 42.3
+        },
+        {
+          "url": "photos/6c25d5fee1884fa1aa205b860a0314e8.webp",
+          "focal_x": 50.4,
+          "focal_y": 50.2
+        },
+        {
+          "url": "photos/7e3f725019af45f7864d3d17e05aff8c.webp",
+          "focal_x": 51.6,
+          "focal_y": 45.5
+        },
+        {
+          "url": "photos/f7433f01b2ab46fcb9ac7cbc969c1bcd.webp",
+          "focal_x": 49.6,
+          "focal_y": 48.0
         }
       ]
     },
@@ -19133,6 +21692,51 @@
           "url": "photos/e94a93bac5c044c6aabc6067df8fece9.webp",
           "focal_x": 50.3,
           "focal_y": 46.5
+        },
+        {
+          "url": "photos/74cb4bbb843d490484005dd73d87ecef.webp",
+          "focal_x": 51.5,
+          "focal_y": 41.8
+        },
+        {
+          "url": "photos/515a02620c924b5f9242e6df015e4cee.webp",
+          "focal_x": 51.4,
+          "focal_y": 44.2
+        },
+        {
+          "url": "photos/ee9c3d5293bc49aaab12d6423d8ce9ca.webp",
+          "focal_x": 48.3,
+          "focal_y": 47.6
+        },
+        {
+          "url": "photos/83dd05a50c314b8db711b7ea8c2cbf92.webp",
+          "focal_x": 49.6,
+          "focal_y": 43.9
+        },
+        {
+          "url": "photos/51c96da8ba254101b433734896d74dec.webp",
+          "focal_x": 48.0,
+          "focal_y": 38.6
+        },
+        {
+          "url": "photos/b88d0097e46048e8ac397454206b019a.webp",
+          "focal_x": 52.7,
+          "focal_y": 45.4
+        },
+        {
+          "url": "photos/c0a53c4ebf694eb9826a01f11b922960.webp",
+          "focal_x": 48.6,
+          "focal_y": 42.5
+        },
+        {
+          "url": "photos/aadd66138cda4229823e5031ee76e20c.webp",
+          "focal_x": 50.3,
+          "focal_y": 40.7
+        },
+        {
+          "url": "photos/f25af8c667d9433b8fb84f71e5b09ab7.webp",
+          "focal_x": 54.3,
+          "focal_y": 43.6
         }
       ]
     },
@@ -19367,6 +21971,16 @@
           "url": "photos/d83055558d8f4cbfa3dff160bdcb9072.jpg",
           "focal_x": 45.0,
           "focal_y": 54.8
+        },
+        {
+          "url": "photos/bdba0ac234b14ca885f7ad4ac421e294.webp",
+          "focal_x": 53.1,
+          "focal_y": 38.5
+        },
+        {
+          "url": "photos/c5f98b6f5ee6455e8c2ecefcda1aea1e.webp",
+          "focal_x": 46.7,
+          "focal_y": 44.9
         }
       ]
     },
@@ -19802,14 +22416,39 @@
       "accident_history": null,
       "notes": null,
       "highlights": [],
-      "cover_photo": "photos/8a2944f945834be69c0dadf4f6c7efeb.jpg",
-      "cover_focal_x": 48.4,
-      "cover_focal_y": 45.6,
+      "cover_photo": "photos/9b1fcb6960564deca604e728b9cc5ac6.webp",
+      "cover_focal_x": 52.4,
+      "cover_focal_y": 48.1,
       "photos": [
         {
           "url": "photos/8a2944f945834be69c0dadf4f6c7efeb.jpg",
           "focal_x": 48.4,
           "focal_y": 45.6
+        },
+        {
+          "url": "photos/9b1fcb6960564deca604e728b9cc5ac6.webp",
+          "focal_x": 52.4,
+          "focal_y": 48.1
+        },
+        {
+          "url": "photos/c1e7388e82784c03b185344fb30fa65d.webp",
+          "focal_x": 49.3,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/a61ccd9bf0d54742a861adbdb3d68d9b.webp",
+          "focal_x": 48.4,
+          "focal_y": 47.4
+        },
+        {
+          "url": "photos/25dab3a29f714f0099909fcb35ff84f2.webp",
+          "focal_x": 49.6,
+          "focal_y": 43.3
+        },
+        {
+          "url": "photos/996c9b89a7ee4abb843ff261789aafd5.webp",
+          "focal_x": 47.8,
+          "focal_y": 49.3
         }
       ]
     }
@@ -19958,12 +22597,12 @@
     "39": {
       "currency": "BRL",
       "summary": {
-        "avg": 6490000.0,
-        "count": 18,
-        "volume": 116820000.0,
+        "avg": 6480000.0,
+        "count": 19,
+        "volume": 123120000.0,
         "lowest": 5400000.0,
         "highest": 7900000.0,
-        "most_recent": 6350000.0
+        "most_recent": 6300000.0
       },
       "by_status": {
         "À venda": [
@@ -20028,6 +22667,13 @@
             "y": 6350000.0,
             "price_label": "R$ 6.350.000",
             "date_label": "31/08/2026",
+            "status": "À venda"
+          },
+          {
+            "x": "2026-09-25",
+            "y": 6300000.0,
+            "price_label": "R$ 6.300.000",
+            "date_label": "25/09/2026",
             "status": "À venda"
           }
         ],
@@ -20171,6 +22817,10 @@
         {
           "x": "2026-08-31",
           "y": 6346666.67
+        },
+        {
+          "x": "2026-09-25",
+          "y": 6146666.67
         }
       ]
     },
@@ -20924,6 +23574,68 @@
         {
           "x": "2026-09-12",
           "y": 2900000.0
+        }
+      ]
+    },
+    "30": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 6200000.0,
+        "count": 1,
+        "volume": 6200000.0,
+        "lowest": 6200000.0,
+        "highest": 6200000.0,
+        "most_recent": 6200000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-09-28",
+            "y": 6200000.0,
+            "price_label": "R$ 6.200.000",
+            "date_label": "28/09/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-09-28",
+          "y": 6200000.0
+        }
+      ]
+    },
+    "7": {
+      "currency": "BRL",
+      "summary": {
+        "avg": 7890000.0,
+        "count": 1,
+        "volume": 7890000.0,
+        "lowest": 7890000.0,
+        "highest": 7890000.0,
+        "most_recent": 7890000.0
+      },
+      "by_status": {
+        "À venda": [
+          {
+            "x": "2026-09-30",
+            "y": 7890000.0,
+            "price_label": "R$ 7.890.000",
+            "date_label": "30/09/2026",
+            "status": "À venda"
+          }
+        ],
+        "Vendido": [],
+        "Proposta recebida": [],
+        "Anúncio removido": []
+      },
+      "trend": [
+        {
+          "x": "2026-09-30",
+          "y": 7890000.0
         }
       ]
     }
